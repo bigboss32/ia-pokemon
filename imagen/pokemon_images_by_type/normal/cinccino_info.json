@@ -1,0 +1,11 @@
+{
+  "id": 573,
+  "name": "cinccino",
+  "types": [
+    "normal"
+  ],
+  "height": 5,
+  "weight": 75,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/573.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/573.png"
+}

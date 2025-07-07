@@ -1,0 +1,12 @@
+{
+  "id": 798,
+  "name": "kartana",
+  "types": [
+    "grass",
+    "steel"
+  ],
+  "height": 3,
+  "weight": 1,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/798.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/798.png"
+}

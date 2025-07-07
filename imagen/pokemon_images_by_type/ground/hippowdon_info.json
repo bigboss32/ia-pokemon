@@ -1,0 +1,11 @@
+{
+  "id": 450,
+  "name": "hippowdon",
+  "types": [
+    "ground"
+  ],
+  "height": 20,
+  "weight": 3000,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/450.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/450.png"
+}

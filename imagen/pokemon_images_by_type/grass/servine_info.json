@@ -1,0 +1,11 @@
+{
+  "id": 496,
+  "name": "servine",
+  "types": [
+    "grass"
+  ],
+  "height": 8,
+  "weight": 160,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/496.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/496.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 541,
+  "name": "swadloon",
+  "types": [
+    "bug",
+    "grass"
+  ],
+  "height": 5,
+  "weight": 73,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/541.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/541.png"
+}

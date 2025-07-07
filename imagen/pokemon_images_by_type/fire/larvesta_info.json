@@ -1,0 +1,12 @@
+{
+  "id": 636,
+  "name": "larvesta",
+  "types": [
+    "bug",
+    "fire"
+  ],
+  "height": 11,
+  "weight": 288,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/636.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/636.png"
+}

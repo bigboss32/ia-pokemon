@@ -1,0 +1,11 @@
+{
+  "id": 299,
+  "name": "nosepass",
+  "types": [
+    "rock"
+  ],
+  "height": 10,
+  "weight": 970,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/299.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/299.png"
+}

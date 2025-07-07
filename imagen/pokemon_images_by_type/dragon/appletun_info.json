@@ -1,0 +1,12 @@
+{
+  "id": 842,
+  "name": "appletun",
+  "types": [
+    "grass",
+    "dragon"
+  ],
+  "height": 4,
+  "weight": 130,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/842.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/842.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 985,
+  "name": "scream-tail",
+  "types": [
+    "fairy",
+    "psychic"
+  ],
+  "height": 12,
+  "weight": 80,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/985.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/985.png"
+}

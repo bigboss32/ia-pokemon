@@ -1,0 +1,12 @@
+{
+  "id": 581,
+  "name": "swanna",
+  "types": [
+    "water",
+    "flying"
+  ],
+  "height": 13,
+  "weight": 242,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/581.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/581.png"
+}

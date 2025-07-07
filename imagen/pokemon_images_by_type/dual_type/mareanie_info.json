@@ -1,0 +1,12 @@
+{
+  "id": 747,
+  "name": "mareanie",
+  "types": [
+    "poison",
+    "water"
+  ],
+  "height": 4,
+  "weight": 80,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/747.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/747.png"
+}

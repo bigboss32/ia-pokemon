@@ -1,0 +1,12 @@
+{
+  "id": 791,
+  "name": "solgaleo",
+  "types": [
+    "psychic",
+    "steel"
+  ],
+  "height": 34,
+  "weight": 2300,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/791.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/791.png"
+}

@@ -1,0 +1,11 @@
+{
+  "id": 538,
+  "name": "throh",
+  "types": [
+    "fighting"
+  ],
+  "height": 13,
+  "weight": 555,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/538.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/538.png"
+}

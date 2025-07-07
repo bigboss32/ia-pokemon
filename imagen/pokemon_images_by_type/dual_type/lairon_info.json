@@ -1,0 +1,12 @@
+{
+  "id": 305,
+  "name": "lairon",
+  "types": [
+    "steel",
+    "rock"
+  ],
+  "height": 9,
+  "weight": 1200,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/305.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/305.png"
+}

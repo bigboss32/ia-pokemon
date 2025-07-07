@@ -1,0 +1,12 @@
+{
+  "id": 363,
+  "name": "spheal",
+  "types": [
+    "ice",
+    "water"
+  ],
+  "height": 8,
+  "weight": 395,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/363.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/363.png"
+}

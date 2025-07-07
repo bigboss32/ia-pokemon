@@ -1,0 +1,11 @@
+{
+  "id": 852,
+  "name": "clobbopus",
+  "types": [
+    "fighting"
+  ],
+  "height": 6,
+  "weight": 40,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/852.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/852.png"
+}

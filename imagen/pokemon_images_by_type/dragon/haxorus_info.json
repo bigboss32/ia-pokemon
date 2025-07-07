@@ -1,0 +1,11 @@
+{
+  "id": 612,
+  "name": "haxorus",
+  "types": [
+    "dragon"
+  ],
+  "height": 18,
+  "weight": 1055,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/612.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/612.png"
+}

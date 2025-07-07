@@ -1,0 +1,12 @@
+{
+  "id": 527,
+  "name": "woobat",
+  "types": [
+    "psychic",
+    "flying"
+  ],
+  "height": 4,
+  "weight": 21,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/527.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/527.png"
+}

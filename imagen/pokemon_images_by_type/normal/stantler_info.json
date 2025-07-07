@@ -1,0 +1,11 @@
+{
+  "id": 234,
+  "name": "stantler",
+  "types": [
+    "normal"
+  ],
+  "height": 14,
+  "weight": 712,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/234.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/234.png"
+}

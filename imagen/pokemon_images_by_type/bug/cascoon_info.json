@@ -1,0 +1,11 @@
+{
+  "id": 268,
+  "name": "cascoon",
+  "types": [
+    "bug"
+  ],
+  "height": 7,
+  "weight": 115,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/268.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/268.png"
+}

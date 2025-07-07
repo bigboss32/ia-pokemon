@@ -1,0 +1,12 @@
+{
+  "id": 652,
+  "name": "chesnaught",
+  "types": [
+    "grass",
+    "fighting"
+  ],
+  "height": 16,
+  "weight": 900,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/652.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/652.png"
+}

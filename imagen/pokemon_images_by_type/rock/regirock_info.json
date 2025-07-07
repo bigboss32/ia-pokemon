@@ -1,0 +1,11 @@
+{
+  "id": 377,
+  "name": "regirock",
+  "types": [
+    "rock"
+  ],
+  "height": 17,
+  "weight": 2300,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/377.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/377.png"
+}

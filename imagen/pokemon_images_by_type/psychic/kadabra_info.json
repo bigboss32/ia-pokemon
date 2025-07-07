@@ -1,0 +1,11 @@
+{
+  "id": 64,
+  "name": "kadabra",
+  "types": [
+    "psychic"
+  ],
+  "height": 13,
+  "weight": 565,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/64.png"
+}

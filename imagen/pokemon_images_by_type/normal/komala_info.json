@@ -1,0 +1,11 @@
+{
+  "id": 775,
+  "name": "komala",
+  "types": [
+    "normal"
+  ],
+  "height": 4,
+  "weight": 199,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/775.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/775.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 962,
+  "name": "bombirdier",
+  "types": [
+    "flying",
+    "dark"
+  ],
+  "height": 15,
+  "weight": 429,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/962.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/962.png"
+}

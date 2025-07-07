@@ -1,0 +1,12 @@
+{
+  "id": 598,
+  "name": "ferrothorn",
+  "types": [
+    "grass",
+    "steel"
+  ],
+  "height": 10,
+  "weight": 1100,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/598.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/598.png"
+}

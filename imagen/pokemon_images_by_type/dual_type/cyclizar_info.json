@@ -1,0 +1,12 @@
+{
+  "id": 967,
+  "name": "cyclizar",
+  "types": [
+    "dragon",
+    "normal"
+  ],
+  "height": 16,
+  "weight": 630,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/967.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/967.png"
+}

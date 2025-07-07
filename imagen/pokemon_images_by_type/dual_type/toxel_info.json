@@ -1,0 +1,12 @@
+{
+  "id": 848,
+  "name": "toxel",
+  "types": [
+    "electric",
+    "poison"
+  ],
+  "height": 4,
+  "weight": 110,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/848.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/848.png"
+}

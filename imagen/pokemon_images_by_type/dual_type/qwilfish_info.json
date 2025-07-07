@@ -1,0 +1,12 @@
+{
+  "id": 211,
+  "name": "qwilfish",
+  "types": [
+    "water",
+    "poison"
+  ],
+  "height": 5,
+  "weight": 39,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/211.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/211.png"
+}

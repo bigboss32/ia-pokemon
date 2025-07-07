@@ -1,0 +1,11 @@
+{
+  "id": 24,
+  "name": "arbok",
+  "types": [
+    "poison"
+  ],
+  "height": 35,
+  "weight": 650,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/24.png"
+}

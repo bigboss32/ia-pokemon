@@ -1,0 +1,11 @@
+{
+  "id": 297,
+  "name": "hariyama",
+  "types": [
+    "fighting"
+  ],
+  "height": 23,
+  "weight": 2538,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/297.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/297.png"
+}

@@ -1,0 +1,11 @@
+{
+  "id": 556,
+  "name": "maractus",
+  "types": [
+    "grass"
+  ],
+  "height": 10,
+  "weight": 280,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/556.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/556.png"
+}

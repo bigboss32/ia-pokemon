@@ -1,0 +1,11 @@
+{
+  "id": 27,
+  "name": "sandshrew",
+  "types": [
+    "ground"
+  ],
+  "height": 6,
+  "weight": 120,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/27.png"
+}

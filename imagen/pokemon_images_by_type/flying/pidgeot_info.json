@@ -1,0 +1,12 @@
+{
+  "id": 18,
+  "name": "pidgeot",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "height": 15,
+  "weight": 395,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png"
+}

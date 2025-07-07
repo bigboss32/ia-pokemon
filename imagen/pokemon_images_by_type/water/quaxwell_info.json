@@ -1,0 +1,11 @@
+{
+  "id": 913,
+  "name": "quaxwell",
+  "types": [
+    "water"
+  ],
+  "height": 12,
+  "weight": 215,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/913.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/913.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 649,
+  "name": "genesect",
+  "types": [
+    "bug",
+    "steel"
+  ],
+  "height": 15,
+  "weight": 825,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/649.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/649.png"
+}

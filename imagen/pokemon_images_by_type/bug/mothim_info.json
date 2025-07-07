@@ -1,0 +1,12 @@
+{
+  "id": 414,
+  "name": "mothim",
+  "types": [
+    "bug",
+    "flying"
+  ],
+  "height": 9,
+  "weight": 233,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/414.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/414.png"
+}

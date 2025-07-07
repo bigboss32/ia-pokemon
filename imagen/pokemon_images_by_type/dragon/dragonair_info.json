@@ -1,0 +1,11 @@
+{
+  "id": 148,
+  "name": "dragonair",
+  "types": [
+    "dragon"
+  ],
+  "height": 40,
+  "weight": 165,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/148.png"
+}

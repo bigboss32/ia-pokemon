@@ -1,0 +1,11 @@
+{
+  "id": 706,
+  "name": "goodra",
+  "types": [
+    "dragon"
+  ],
+  "height": 20,
+  "weight": 1505,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/706.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/706.png"
+}

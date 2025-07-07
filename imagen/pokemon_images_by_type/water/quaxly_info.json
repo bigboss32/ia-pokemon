@@ -1,0 +1,11 @@
+{
+  "id": 912,
+  "name": "quaxly",
+  "types": [
+    "water"
+  ],
+  "height": 5,
+  "weight": 61,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/912.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/912.png"
+}

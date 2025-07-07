@@ -1,0 +1,11 @@
+{
+  "id": 399,
+  "name": "bidoof",
+  "types": [
+    "normal"
+  ],
+  "height": 5,
+  "weight": 200,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/399.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/399.png"
+}

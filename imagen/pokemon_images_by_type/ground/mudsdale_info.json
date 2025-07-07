@@ -1,0 +1,11 @@
+{
+  "id": 750,
+  "name": "mudsdale",
+  "types": [
+    "ground"
+  ],
+  "height": 25,
+  "weight": 9200,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/750.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/750.png"
+}

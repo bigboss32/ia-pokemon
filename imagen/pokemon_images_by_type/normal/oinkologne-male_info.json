@@ -1,0 +1,11 @@
+{
+  "id": 916,
+  "name": "oinkologne-male",
+  "types": [
+    "normal"
+  ],
+  "height": 10,
+  "weight": 1200,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/916.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/916.png"
+}

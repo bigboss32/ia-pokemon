@@ -1,0 +1,12 @@
+{
+  "id": 227,
+  "name": "skarmory",
+  "types": [
+    "steel",
+    "flying"
+  ],
+  "height": 17,
+  "weight": 505,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/227.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/227.png"
+}

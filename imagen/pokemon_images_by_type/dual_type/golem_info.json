@@ -1,0 +1,12 @@
+{
+  "id": 76,
+  "name": "golem",
+  "types": [
+    "rock",
+    "ground"
+  ],
+  "height": 14,
+  "weight": 3000,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png"
+}

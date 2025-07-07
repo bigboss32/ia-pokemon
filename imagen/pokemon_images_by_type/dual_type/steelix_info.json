@@ -1,0 +1,12 @@
+{
+  "id": 208,
+  "name": "steelix",
+  "types": [
+    "steel",
+    "ground"
+  ],
+  "height": 92,
+  "weight": 4000,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/208.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/208.png"
+}

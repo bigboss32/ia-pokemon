@@ -1,0 +1,11 @@
+{
+  "id": 507,
+  "name": "herdier",
+  "types": [
+    "normal"
+  ],
+  "height": 9,
+  "weight": 147,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/507.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/507.png"
+}

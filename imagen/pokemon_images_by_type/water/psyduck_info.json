@@ -1,0 +1,11 @@
+{
+  "id": 54,
+  "name": "psyduck",
+  "types": [
+    "water"
+  ],
+  "height": 8,
+  "weight": 196,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/54.png"
+}

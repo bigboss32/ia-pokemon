@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entornos virtuales
+env/
+venv/
+
+# Configuración local
+.vscode/
+*.env
+
+# Archivos de log
+*.log
+
+# Builds
+build/
+dist/
+*.egg-info/
+
+# Modelos pesados
+pokemon_multi_label.pth
+pokemon-gp2-full/
+pokemon_gpt2xl/

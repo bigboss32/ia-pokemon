@@ -1,0 +1,11 @@
+{
+  "id": 245,
+  "name": "suicune",
+  "types": [
+    "water"
+  ],
+  "height": 20,
+  "weight": 1870,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/245.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/245.png"
+}

@@ -1,0 +1,11 @@
+{
+  "id": 235,
+  "name": "smeargle",
+  "types": [
+    "normal"
+  ],
+  "height": 12,
+  "weight": 580,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/235.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/235.png"
+}

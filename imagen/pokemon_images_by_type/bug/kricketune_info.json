@@ -1,0 +1,11 @@
+{
+  "id": 402,
+  "name": "kricketune",
+  "types": [
+    "bug"
+  ],
+  "height": 10,
+  "weight": 255,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/402.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/402.png"
+}

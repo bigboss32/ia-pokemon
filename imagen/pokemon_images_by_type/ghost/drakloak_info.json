@@ -1,0 +1,12 @@
+{
+  "id": 886,
+  "name": "drakloak",
+  "types": [
+    "dragon",
+    "ghost"
+  ],
+  "height": 14,
+  "weight": 110,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/886.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/886.png"
+}

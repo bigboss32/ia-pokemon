@@ -1,0 +1,12 @@
+{
+  "id": 542,
+  "name": "leavanny",
+  "types": [
+    "bug",
+    "grass"
+  ],
+  "height": 12,
+  "weight": 205,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/542.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/542.png"
+}

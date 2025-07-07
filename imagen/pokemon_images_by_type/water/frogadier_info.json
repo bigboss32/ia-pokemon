@@ -1,0 +1,11 @@
+{
+  "id": 657,
+  "name": "frogadier",
+  "types": [
+    "water"
+  ],
+  "height": 6,
+  "weight": 109,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/657.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/657.png"
+}

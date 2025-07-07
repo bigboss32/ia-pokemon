@@ -1,0 +1,12 @@
+{
+  "id": 392,
+  "name": "infernape",
+  "types": [
+    "fire",
+    "fighting"
+  ],
+  "height": 12,
+  "weight": 550,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/392.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/392.png"
+}

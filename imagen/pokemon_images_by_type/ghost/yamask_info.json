@@ -1,0 +1,11 @@
+{
+  "id": 562,
+  "name": "yamask",
+  "types": [
+    "ghost"
+  ],
+  "height": 5,
+  "weight": 15,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/562.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/562.png"
+}

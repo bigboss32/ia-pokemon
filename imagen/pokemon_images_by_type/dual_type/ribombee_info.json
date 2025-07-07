@@ -1,0 +1,12 @@
+{
+  "id": 743,
+  "name": "ribombee",
+  "types": [
+    "bug",
+    "fairy"
+  ],
+  "height": 2,
+  "weight": 5,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/743.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/743.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 74,
+  "name": "geodude",
+  "types": [
+    "rock",
+    "ground"
+  ],
+  "height": 4,
+  "weight": 200,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/74.png"
+}

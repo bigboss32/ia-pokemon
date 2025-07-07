@@ -1,0 +1,11 @@
+{
+  "id": 533,
+  "name": "gurdurr",
+  "types": [
+    "fighting"
+  ],
+  "height": 12,
+  "weight": 400,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/533.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/533.png"
+}

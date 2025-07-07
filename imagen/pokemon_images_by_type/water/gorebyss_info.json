@@ -1,0 +1,11 @@
+{
+  "id": 368,
+  "name": "gorebyss",
+  "types": [
+    "water"
+  ],
+  "height": 18,
+  "weight": 226,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/368.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/368.png"
+}

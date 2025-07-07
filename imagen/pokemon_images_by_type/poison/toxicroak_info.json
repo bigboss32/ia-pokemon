@@ -1,0 +1,12 @@
+{
+  "id": 454,
+  "name": "toxicroak",
+  "types": [
+    "poison",
+    "fighting"
+  ],
+  "height": 13,
+  "weight": 444,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/454.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/454.png"
+}

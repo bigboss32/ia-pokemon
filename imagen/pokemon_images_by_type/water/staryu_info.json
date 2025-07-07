@@ -1,0 +1,11 @@
+{
+  "id": 120,
+  "name": "staryu",
+  "types": [
+    "water"
+  ],
+  "height": 8,
+  "weight": 345,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/120.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/120.png"
+}

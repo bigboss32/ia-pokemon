@@ -1,0 +1,11 @@
+{
+  "id": 355,
+  "name": "duskull",
+  "types": [
+    "ghost"
+  ],
+  "height": 8,
+  "weight": 150,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/355.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/355.png"
+}

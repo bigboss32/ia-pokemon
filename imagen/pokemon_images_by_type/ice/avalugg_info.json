@@ -1,0 +1,11 @@
+{
+  "id": 713,
+  "name": "avalugg",
+  "types": [
+    "ice"
+  ],
+  "height": 20,
+  "weight": 5050,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/713.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/713.png"
+}

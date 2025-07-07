@@ -1,0 +1,12 @@
+{
+  "id": 806,
+  "name": "blacephalon",
+  "types": [
+    "fire",
+    "ghost"
+  ],
+  "height": 18,
+  "weight": 130,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/806.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/806.png"
+}

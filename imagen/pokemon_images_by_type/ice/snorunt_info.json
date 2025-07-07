@@ -1,0 +1,11 @@
+{
+  "id": 361,
+  "name": "snorunt",
+  "types": [
+    "ice"
+  ],
+  "height": 7,
+  "weight": 168,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/361.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/361.png"
+}

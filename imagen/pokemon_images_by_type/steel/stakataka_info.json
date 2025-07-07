@@ -1,0 +1,12 @@
+{
+  "id": 805,
+  "name": "stakataka",
+  "types": [
+    "rock",
+    "steel"
+  ],
+  "height": 55,
+  "weight": 8200,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/805.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/805.png"
+}

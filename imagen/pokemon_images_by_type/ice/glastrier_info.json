@@ -1,0 +1,11 @@
+{
+  "id": 896,
+  "name": "glastrier",
+  "types": [
+    "ice"
+  ],
+  "height": 22,
+  "weight": 8000,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/896.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/896.png"
+}

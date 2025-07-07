@@ -1,0 +1,11 @@
+{
+  "id": 773,
+  "name": "silvally",
+  "types": [
+    "normal"
+  ],
+  "height": 23,
+  "weight": 1005,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/773.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/773.png"
+}

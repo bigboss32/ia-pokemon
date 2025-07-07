@@ -1,0 +1,11 @@
+{
+  "id": 320,
+  "name": "wailmer",
+  "types": [
+    "water"
+  ],
+  "height": 20,
+  "weight": 1300,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/320.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/320.png"
+}

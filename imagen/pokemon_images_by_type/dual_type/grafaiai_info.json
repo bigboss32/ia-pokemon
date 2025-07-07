@@ -1,0 +1,12 @@
+{
+  "id": 945,
+  "name": "grafaiai",
+  "types": [
+    "poison",
+    "normal"
+  ],
+  "height": 7,
+  "weight": 272,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/945.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/945.png"
+}

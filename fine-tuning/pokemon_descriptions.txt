@@ -1,0 +1,4230 @@
+Pregunta: Describe a Clefairy.
+Respuesta: Clefairy es un Pokémon hada que danza bajo la luz de la luna.
+###
+Pregunta: Describe a Squirtle.
+Respuesta: Squirtle es una tortuga de agua que dispara potentes chorros para defenderse.
+###
+Pregunta: Descríbeme a Golbat.
+Respuesta: Golbat chupa sangre de sus presas para alimentarse durante la noche.
+###
+Pregunta: Describe a Venusaur.
+Respuesta: Venusaur es la forma final de Bulbasaur, con una gran flor que emite aromas calmantes.
+###
+Pregunta: Descríbeme a Nidoqueen.
+Respuesta: Nidoqueen es fuerte y protectora, defiende a su familia con fiereza.
+###
+Pregunta: ¿Qué características tiene Beedrill?
+Respuesta: Beedrill es una avispa veloz con aguijones dobles para atacar en enjambre.
+###
+Pregunta: ¿Cómo es Ekans?
+Respuesta: Ekans es una serpiente sigilosa que se enrolla para atacar de sorpresa.
+###
+Pregunta: Descríbeme a Clefable.
+Respuesta: Clefable es sigilosa y se mueve silenciosa para evitar ser vista.
+###
+Pregunta: Describe a Nidoran♀.
+Respuesta: Nidoran♀ es pequeña pero tiene cuernos venenosos para atacar.
+###
+Pregunta: Descríbeme a Gloom.
+Respuesta: Gloom emite un aroma fétido para mantener alejados a los depredadores.
+###
+Pregunta: Descríbeme a Nidoran♂.
+Respuesta: Nidoran♂ es ágil y usa sus afilados cuernos venenosos para atacar.
+###
+Pregunta: Dime cómo es Weedle.
+Respuesta: Weedle es un gusano con aguijón venenoso que vive entre la hierba.
+###
+Pregunta: Descríbeme a Paras.
+Respuesta: Paras cultiva hongos en su espalda que usa para defenderse.
+###
+Pregunta: Describe a Parasect.
+Respuesta: Parasect está completamente controlado por el hongo que lo habita.
+###
+Pregunta: Dime cómo es Kakuna.
+Respuesta: Kakuna es la forma pupa de Weedle, endurece su caparazón para defenderse.
+###
+Pregunta: Describe a Raticate.
+Respuesta: Raticate tiene colmillos afilados para roer cualquier material duro.
+###
+Pregunta: ¿Cómo es Sandshrew?
+Respuesta: Sandshrew se enrolla para protegerse y cava madrigueras subterráneas.
+###
+Pregunta: Describe a Rattata.
+Respuesta: Rattata es un roedor veloz que se adapta a cualquier entorno urbano.
+###
+Pregunta: Describe a Raichu.
+Respuesta: Raichu es la evolución de Pikachu y descarga potentes rayos cuando se enfurece.
+###
+Pregunta: ¿Qué características tiene Bulbasaur?
+Respuesta: Bulbasaur es un Pokémon planta/veneno que absorbe energía solar con su bulbo.
+###
+Pregunta: Dime cómo es Wartortle.
+Respuesta: Wartortle tiene orejas peludas y una cola esponjosa que simbolizan longevidad.
+###
+Pregunta: Dime cómo es Blastoise.
+Respuesta: Blastoise lleva cañones de agua en su caparazón para atacar con chorros a presión.
+###
+Pregunta: ¿Qué características tiene Ivysaur?
+Respuesta: Ivysaur es la evolución de Bulbasaur, su flor crece mientras almacena poder.
+###
+Pregunta: ¿Cómo es Nidorino?
+Respuesta: Nidorino es territorial y embiste enemigos con su cuerno tóxico.
+###
+Pregunta: ¿Qué características tiene Charmander?
+Respuesta: Charmander es un lagarto de fuego que usa su cola como fuente de calor.
+###
+Pregunta: ¿Qué características tiene Charizard?
+Respuesta: Charizard es un dragón poderoso que puede lanzar llamaradas ardientes desde su boca.
+###
+Pregunta: Dime cómo es Zubat.
+Respuesta: Zubat es un murciélago que navega en la oscuridad usando ecolocalización.
+###
+Pregunta: Descríbeme a Ninetales.
+Respuesta: Ninetales es místico y puede vivir mil años, controla fuego a voluntad.
+###
+Pregunta: Describe a Pidgeotto.
+Respuesta: Pidgeotto patrulla su territorio con precisión y gran agudeza visual.
+###
+Pregunta: Describe a Spearow.
+Respuesta: Spearow es un ave territorial que lanza ataques rápidos para defenderse.
+###
+Pregunta: Dime cómo es Sandslash.
+Respuesta: Sandslash usa sus púas y garras afiladas para defender su territorio.
+###
+Pregunta: Dime cómo es Pidgey.
+Respuesta: Pidgey es un ave pequeña que vuela bajo y se oculta en arbustos.
+###
+Pregunta: ¿Cómo es Nidoking?
+Respuesta: Nidoking es enorme y usa su cola poderosa para aplastar a sus rivales.
+###
+Pregunta: Describe a Arbok.
+Respuesta: Arbok intimida enemigos mostrando patrones aterradores en su cuello.
+###
+Pregunta: Dime cómo es Oddish.
+Respuesta: Oddish absorbe la luz lunar para crecer y esparcir semillas.
+###
+Pregunta: Dime cómo es Vileplume.
+Respuesta: Vileplume tiene un gran pétalo que libera polen tóxico.
+###
+Pregunta: Describe a Metapod.
+Respuesta: Metapod es la forma crisálida de Caterpie, permanece inmóvil para evolucionar.
+###
+Pregunta: ¿Qué características tiene Nidorina?
+Respuesta: Nidorina cuida a sus crías y usa su veneno para protegerlas.
+###
+Pregunta: Descríbeme a Jigglypuff.
+Respuesta: Jigglypuff canta melodías que duermen a sus oponentes.
+###
+Pregunta: ¿Qué características tiene Pidgeot?
+Respuesta: Pidgeot es un ave majestuosa que vuela a gran velocidad para cazar.
+###
+Pregunta: ¿Cómo es Wigglytuff?
+Respuesta: Wigglytuff tiene un cuerpo suave que se infla para intimidar rivales.
+###
+Pregunta: Describe a Charmeleon.
+Respuesta: Charmeleon es más agresivo, con una llama intensa que refleja su temperamento.
+###
+Pregunta: ¿Cómo es Pikachu?
+Respuesta: Pikachu es un ratón eléctrico que almacena energía en sus mejillas.
+###
+Pregunta: Describe a Fearow.
+Respuesta: Fearow sobrevuela vastos territorios y ataca con su pico largo.
+###
+Pregunta: Describe a Vulpix.
+Respuesta: Vulpix es un zorro de fuego con múltiples colas que se agitan al atacar.
+###
+Pregunta: Descríbeme a Caterpie.
+Respuesta: Caterpie es una oruga verde que se esconde entre hojas para protegerse.
+###
+Pregunta: Dime cómo es Butterfree.
+Respuesta: Butterfree es una mariposa colorida que esparce polen paralizante para defenderse.
+###
+Pregunta: ¿Cómo es Squirtle?
+Respuesta: Squirtle es una tortuga de agua que dispara potentes chorros para defenderse.
+###
+Pregunta: ¿Qué características tiene Jigglypuff?
+Respuesta: Jigglypuff canta melodías que duermen a sus oponentes.
+###
+Pregunta: Describe a Nidorino.
+Respuesta: Nidorino es territorial y embiste enemigos con su cuerno tóxico.
+###
+Pregunta: Describe a Nidoran♂.
+Respuesta: Nidoran♂ es ágil y usa sus afilados cuernos venenosos para atacar.
+###
+Pregunta: ¿Cómo es Vileplume?
+Respuesta: Vileplume tiene un gran pétalo que libera polen tóxico.
+###
+Pregunta: Descríbeme a Charizard.
+Respuesta: Charizard es un dragón poderoso que puede lanzar llamaradas ardientes desde su boca.
+###
+Pregunta: ¿Qué características tiene Clefable?
+Respuesta: Clefable es sigilosa y se mueve silenciosa para evitar ser vista.
+###
+Pregunta: Describe a Nidoran♀.
+Respuesta: Nidoran♀ es pequeña pero tiene cuernos venenosos para atacar.
+###
+Pregunta: ¿Qué características tiene Fearow?
+Respuesta: Fearow sobrevuela vastos territorios y ataca con su pico largo.
+###
+Pregunta: Describe a Butterfree.
+Respuesta: Butterfree es una mariposa colorida que esparce polen paralizante para defenderse.
+###
+Pregunta: Describe a Raticate.
+Respuesta: Raticate tiene colmillos afilados para roer cualquier material duro.
+###
+Pregunta: Descríbeme a Golbat.
+Respuesta: Golbat chupa sangre de sus presas para alimentarse durante la noche.
+###
+Pregunta: Dime cómo es Raichu.
+Respuesta: Raichu es la evolución de Pikachu y descarga potentes rayos cuando se enfurece.
+###
+Pregunta: Descríbeme a Rattata.
+Respuesta: Rattata es un roedor veloz que se adapta a cualquier entorno urbano.
+###
+Pregunta: Dime cómo es Sandslash.
+Respuesta: Sandslash usa sus púas y garras afiladas para defender su territorio.
+###
+Pregunta: ¿Cómo es Nidorina?
+Respuesta: Nidorina cuida a sus crías y usa su veneno para protegerlas.
+###
+Pregunta: ¿Qué características tiene Pikachu?
+Respuesta: Pikachu es un ratón eléctrico que almacena energía en sus mejillas.
+###
+Pregunta: ¿Qué características tiene Pidgeot?
+Respuesta: Pidgeot es un ave majestuosa que vuela a gran velocidad para cazar.
+###
+Pregunta: Dime cómo es Blastoise.
+Respuesta: Blastoise lleva cañones de agua en su caparazón para atacar con chorros a presión.
+###
+Pregunta: ¿Cómo es Venusaur?
+Respuesta: Venusaur es la forma final de Bulbasaur, con una gran flor que emite aromas calmantes.
+###
+Pregunta: Describe a Kakuna.
+Respuesta: Kakuna es la forma pupa de Weedle, endurece su caparazón para defenderse.
+###
+Pregunta: ¿Qué características tiene Paras?
+Respuesta: Paras cultiva hongos en su espalda que usa para defenderse.
+###
+Pregunta: Dime cómo es Nidoking.
+Respuesta: Nidoking es enorme y usa su cola poderosa para aplastar a sus rivales.
+###
+Pregunta: ¿Cómo es Gloom?
+Respuesta: Gloom emite un aroma fétido para mantener alejados a los depredadores.
+###
+Pregunta: Descríbeme a Clefairy.
+Respuesta: Clefairy es un Pokémon hada que danza bajo la luz de la luna.
+###
+Pregunta: ¿Cómo es Beedrill?
+Respuesta: Beedrill es una avispa veloz con aguijones dobles para atacar en enjambre.
+###
+Pregunta: ¿Qué características tiene Ivysaur?
+Respuesta: Ivysaur es la evolución de Bulbasaur, su flor crece mientras almacena poder.
+###
+Pregunta: Dime cómo es Nidoqueen.
+Respuesta: Nidoqueen es fuerte y protectora, defiende a su familia con fiereza.
+###
+Pregunta: Describe a Oddish.
+Respuesta: Oddish absorbe la luz lunar para crecer y esparcir semillas.
+###
+Pregunta: ¿Cómo es Spearow?
+Respuesta: Spearow es un ave territorial que lanza ataques rápidos para defenderse.
+###
+Pregunta: Dime cómo es Caterpie.
+Respuesta: Caterpie es una oruga verde que se esconde entre hojas para protegerse.
+###
+Pregunta: Dime cómo es Sandshrew.
+Respuesta: Sandshrew se enrolla para protegerse y cava madrigueras subterráneas.
+###
+Pregunta: Dime cómo es Metapod.
+Respuesta: Metapod es la forma crisálida de Caterpie, permanece inmóvil para evolucionar.
+###
+Pregunta: ¿Qué características tiene Parasect?
+Respuesta: Parasect está completamente controlado por el hongo que lo habita.
+###
+Pregunta: ¿Cómo es Pidgeotto?
+Respuesta: Pidgeotto patrulla su territorio con precisión y gran agudeza visual.
+###
+Pregunta: Describe a Vulpix.
+Respuesta: Vulpix es un zorro de fuego con múltiples colas que se agitan al atacar.
+###
+Pregunta: Describe a Wartortle.
+Respuesta: Wartortle tiene orejas peludas y una cola esponjosa que simbolizan longevidad.
+###
+Pregunta: Describe a Ekans.
+Respuesta: Ekans es una serpiente sigilosa que se enrolla para atacar de sorpresa.
+###
+Pregunta: ¿Qué características tiene Wigglytuff?
+Respuesta: Wigglytuff tiene un cuerpo suave que se infla para intimidar rivales.
+###
+Pregunta: Describe a Arbok.
+Respuesta: Arbok intimida enemigos mostrando patrones aterradores en su cuello.
+###
+Pregunta: Describe a Ninetales.
+Respuesta: Ninetales es místico y puede vivir mil años, controla fuego a voluntad.
+###
+Pregunta: Dime cómo es Weedle.
+Respuesta: Weedle es un gusano con aguijón venenoso que vive entre la hierba.
+###
+Pregunta: ¿Qué características tiene Charmander?
+Respuesta: Charmander es un lagarto de fuego que usa su cola como fuente de calor.
+###
+Pregunta: Descríbeme a Zubat.
+Respuesta: Zubat es un murciélago que navega en la oscuridad usando ecolocalización.
+###
+Pregunta: Descríbeme a Bulbasaur.
+Respuesta: Bulbasaur es un Pokémon planta/veneno que absorbe energía solar con su bulbo.
+###
+Pregunta: ¿Qué características tiene Charmeleon?
+Respuesta: Charmeleon es más agresivo, con una llama intensa que refleja su temperamento.
+###
+Pregunta: Descríbeme a Pidgey.
+Respuesta: Pidgey es un ave pequeña que vuela bajo y se oculta en arbustos.
+###
+Pregunta: Dime cómo es Nidoqueen.
+Respuesta: Nidoqueen es fuerte y protectora, defiende a su familia con fiereza.
+###
+Pregunta: ¿Cómo es Caterpie?
+Respuesta: Caterpie es una oruga verde que se esconde entre hojas para protegerse.
+###
+Pregunta: ¿Qué características tiene Charmeleon?
+Respuesta: Charmeleon es más agresivo, con una llama intensa que refleja su temperamento.
+###
+Pregunta: ¿Qué características tiene Nidoking?
+Respuesta: Nidoking es enorme y usa su cola poderosa para aplastar a sus rivales.
+###
+Pregunta: Descríbeme a Raticate.
+Respuesta: Raticate tiene colmillos afilados para roer cualquier material duro.
+###
+Pregunta: ¿Cómo es Kakuna?
+Respuesta: Kakuna es la forma pupa de Weedle, endurece su caparazón para defenderse.
+###
+Pregunta: Dime cómo es Sandshrew.
+Respuesta: Sandshrew se enrolla para protegerse y cava madrigueras subterráneas.
+###
+Pregunta: Descríbeme a Fearow.
+Respuesta: Fearow sobrevuela vastos territorios y ataca con su pico largo.
+###
+Pregunta: ¿Qué características tiene Clefable?
+Respuesta: Clefable es sigilosa y se mueve silenciosa para evitar ser vista.
+###
+Pregunta: Dime cómo es Wigglytuff.
+Respuesta: Wigglytuff tiene un cuerpo suave que se infla para intimidar rivales.
+###
+Pregunta: ¿Qué características tiene Nidoran♀?
+Respuesta: Nidoran♀ es pequeña pero tiene cuernos venenosos para atacar.
+###
+Pregunta: ¿Qué características tiene Arbok?
+Respuesta: Arbok intimida enemigos mostrando patrones aterradores en su cuello.
+###
+Pregunta: ¿Qué características tiene Jigglypuff?
+Respuesta: Jigglypuff canta melodías que duermen a sus oponentes.
+###
+Pregunta: Dime cómo es Charizard.
+Respuesta: Charizard es un dragón poderoso que puede lanzar llamaradas ardientes desde su boca.
+###
+Pregunta: ¿Cómo es Oddish?
+Respuesta: Oddish absorbe la luz lunar para crecer y esparcir semillas.
+###
+Pregunta: Dime cómo es Ninetales.
+Respuesta: Ninetales es místico y puede vivir mil años, controla fuego a voluntad.
+###
+Pregunta: Describe a Wartortle.
+Respuesta: Wartortle tiene orejas peludas y una cola esponjosa que simbolizan longevidad.
+###
+Pregunta: ¿Cómo es Pidgeot?
+Respuesta: Pidgeot es un ave majestuosa que vuela a gran velocidad para cazar.
+###
+Pregunta: Describe a Butterfree.
+Respuesta: Butterfree es una mariposa colorida que esparce polen paralizante para defenderse.
+###
+Pregunta: Describe a Blastoise.
+Respuesta: Blastoise lleva cañones de agua en su caparazón para atacar con chorros a presión.
+###
+Pregunta: Describe a Vileplume.
+Respuesta: Vileplume tiene un gran pétalo que libera polen tóxico.
+###
+Pregunta: ¿Qué características tiene Nidorina?
+Respuesta: Nidorina cuida a sus crías y usa su veneno para protegerlas.
+###
+Pregunta: Describe a Spearow.
+Respuesta: Spearow es un ave territorial que lanza ataques rápidos para defenderse.
+###
+Pregunta: Descríbeme a Vulpix.
+Respuesta: Vulpix es un zorro de fuego con múltiples colas que se agitan al atacar.
+###
+Pregunta: ¿Qué características tiene Pikachu?
+Respuesta: Pikachu es un ratón eléctrico que almacena energía en sus mejillas.
+###
+Pregunta: Descríbeme a Pidgeotto.
+Respuesta: Pidgeotto patrulla su territorio con precisión y gran agudeza visual.
+###
+Pregunta: Dime cómo es Golbat.
+Respuesta: Golbat chupa sangre de sus presas para alimentarse durante la noche.
+###
+Pregunta: Dime cómo es Ekans.
+Respuesta: Ekans es una serpiente sigilosa que se enrolla para atacar de sorpresa.
+###
+Pregunta: ¿Cómo es Pidgey?
+Respuesta: Pidgey es un ave pequeña que vuela bajo y se oculta en arbustos.
+###
+Pregunta: ¿Cómo es Zubat?
+Respuesta: Zubat es un murciélago que navega en la oscuridad usando ecolocalización.
+###
+Pregunta: Descríbeme a Charmander.
+Respuesta: Charmander es un lagarto de fuego que usa su cola como fuente de calor.
+###
+Pregunta: Dime cómo es Nidorino.
+Respuesta: Nidorino es territorial y embiste enemigos con su cuerno tóxico.
+###
+Pregunta: Describe a Bulbasaur.
+Respuesta: Bulbasaur es un Pokémon planta/veneno que absorbe energía solar con su bulbo.
+###
+Pregunta: Describe a Gloom.
+Respuesta: Gloom emite un aroma fétido para mantener alejados a los depredadores.
+###
+Pregunta: ¿Qué características tiene Beedrill?
+Respuesta: Beedrill es una avispa veloz con aguijones dobles para atacar en enjambre.
+###
+Pregunta: ¿Cómo es Raichu?
+Respuesta: Raichu es la evolución de Pikachu y descarga potentes rayos cuando se enfurece.
+###
+Pregunta: Describe a Paras.
+Respuesta: Paras cultiva hongos en su espalda que usa para defenderse.
+###
+Pregunta: Descríbeme a Sandslash.
+Respuesta: Sandslash usa sus púas y garras afiladas para defender su territorio.
+###
+Pregunta: Describe a Ivysaur.
+Respuesta: Ivysaur es la evolución de Bulbasaur, su flor crece mientras almacena poder.
+###
+Pregunta: Describe a Squirtle.
+Respuesta: Squirtle es una tortuga de agua que dispara potentes chorros para defenderse.
+###
+Pregunta: Descríbeme a Clefairy.
+Respuesta: Clefairy es un Pokémon hada que danza bajo la luz de la luna.
+###
+Pregunta: Dime cómo es Nidoran♂.
+Respuesta: Nidoran♂ es ágil y usa sus afilados cuernos venenosos para atacar.
+###
+Pregunta: Dime cómo es Parasect.
+Respuesta: Parasect está completamente controlado por el hongo que lo habita.
+###
+Pregunta: Describe a Venusaur.
+Respuesta: Venusaur es la forma final de Bulbasaur, con una gran flor que emite aromas calmantes.
+###
+Pregunta: ¿Cómo es Rattata?
+Respuesta: Rattata es un roedor veloz que se adapta a cualquier entorno urbano.
+###
+Pregunta: Describe a Metapod.
+Respuesta: Metapod es la forma crisálida de Caterpie, permanece inmóvil para evolucionar.
+###
+Pregunta: Dime cómo es Weedle.
+Respuesta: Weedle es un gusano con aguijón venenoso que vive entre la hierba.
+###
+Pregunta: ¿Qué características tiene Parasect?
+Respuesta: Parasect está completamente controlado por el hongo que lo habita.
+###
+Pregunta: Descríbeme a Arbok.
+Respuesta: Arbok intimida enemigos mostrando patrones aterradores en su cuello.
+###
+Pregunta: ¿Qué características tiene Kakuna?
+Respuesta: Kakuna es la forma pupa de Weedle, endurece su caparazón para defenderse.
+###
+Pregunta: ¿Qué características tiene Rattata?
+Respuesta: Rattata es un roedor veloz que se adapta a cualquier entorno urbano.
+###
+Pregunta: Descríbeme a Pidgeot.
+Respuesta: Pidgeot es un ave majestuosa que vuela a gran velocidad para cazar.
+###
+Pregunta: ¿Qué características tiene Charizard?
+Respuesta: Charizard es un dragón poderoso que puede lanzar llamaradas ardientes desde su boca.
+###
+Pregunta: Descríbeme a Nidoking.
+Respuesta: Nidoking es enorme y usa su cola poderosa para aplastar a sus rivales.
+###
+Pregunta: Dime cómo es Charmeleon.
+Respuesta: Charmeleon es más agresivo, con una llama intensa que refleja su temperamento.
+###
+Pregunta: Describe a Golbat.
+Respuesta: Golbat chupa sangre de sus presas para alimentarse durante la noche.
+###
+Pregunta: Dime cómo es Ninetales.
+Respuesta: Ninetales es místico y puede vivir mil años, controla fuego a voluntad.
+###
+Pregunta: ¿Qué características tiene Clefable?
+Respuesta: Clefable es sigilosa y se mueve silenciosa para evitar ser vista.
+###
+Pregunta: ¿Qué características tiene Pidgey?
+Respuesta: Pidgey es un ave pequeña que vuela bajo y se oculta en arbustos.
+###
+Pregunta: Dime cómo es Paras.
+Respuesta: Paras cultiva hongos en su espalda que usa para defenderse.
+###
+Pregunta: Dime cómo es Ekans.
+Respuesta: Ekans es una serpiente sigilosa que se enrolla para atacar de sorpresa.
+###
+Pregunta: Descríbeme a Weedle.
+Respuesta: Weedle es un gusano con aguijón venenoso que vive entre la hierba.
+###
+Pregunta: Descríbeme a Bulbasaur.
+Respuesta: Bulbasaur es un Pokémon planta/veneno que absorbe energía solar con su bulbo.
+###
+Pregunta: Dime cómo es Squirtle.
+Respuesta: Squirtle es una tortuga de agua que dispara potentes chorros para defenderse.
+###
+Pregunta: ¿Cómo es Sandslash?
+Respuesta: Sandslash usa sus púas y garras afiladas para defender su territorio.
+###
+Pregunta: ¿Cómo es Blastoise?
+Respuesta: Blastoise lleva cañones de agua en su caparazón para atacar con chorros a presión.
+###
+Pregunta: ¿Cómo es Wartortle?
+Respuesta: Wartortle tiene orejas peludas y una cola esponjosa que simbolizan longevidad.
+###
+Pregunta: Describe a Nidorina.
+Respuesta: Nidorina cuida a sus crías y usa su veneno para protegerlas.
+###
+Pregunta: Descríbeme a Venusaur.
+Respuesta: Venusaur es la forma final de Bulbasaur, con una gran flor que emite aromas calmantes.
+###
+Pregunta: ¿Qué características tiene Ivysaur?
+Respuesta: Ivysaur es la evolución de Bulbasaur, su flor crece mientras almacena poder.
+###
+Pregunta: ¿Qué características tiene Spearow?
+Respuesta: Spearow es un ave territorial que lanza ataques rápidos para defenderse.
+###
+Pregunta: Describe a Fearow.
+Respuesta: Fearow sobrevuela vastos territorios y ataca con su pico largo.
+###
+Pregunta: Dime cómo es Sandshrew.
+Respuesta: Sandshrew se enrolla para protegerse y cava madrigueras subterráneas.
+###
+Pregunta: ¿Qué características tiene Nidoqueen?
+Respuesta: Nidoqueen es fuerte y protectora, defiende a su familia con fiereza.
+###
+Pregunta: Describe a Nidoran♂.
+Respuesta: Nidoran♂ es ágil y usa sus afilados cuernos venenosos para atacar.
+###
+Pregunta: Describe a Pidgeotto.
+Respuesta: Pidgeotto patrulla su territorio con precisión y gran agudeza visual.
+###
+Pregunta: Descríbeme a Beedrill.
+Respuesta: Beedrill es una avispa veloz con aguijones dobles para atacar en enjambre.
+###
+Pregunta: Describe a Zubat.
+Respuesta: Zubat es un murciélago que navega en la oscuridad usando ecolocalización.
+###
+Pregunta: Describe a Clefairy.
+Respuesta: Clefairy es un Pokémon hada que danza bajo la luz de la luna.
+###
+Pregunta: Descríbeme a Jigglypuff.
+Respuesta: Jigglypuff canta melodías que duermen a sus oponentes.
+###
+Pregunta: Descríbeme a Raichu.
+Respuesta: Raichu es la evolución de Pikachu y descarga potentes rayos cuando se enfurece.
+###
+Pregunta: Dime cómo es Oddish.
+Respuesta: Oddish absorbe la luz lunar para crecer y esparcir semillas.
+###
+Pregunta: Descríbeme a Charmander.
+Respuesta: Charmander es un lagarto de fuego que usa su cola como fuente de calor.
+###
+Pregunta: Dime cómo es Wigglytuff.
+Respuesta: Wigglytuff tiene un cuerpo suave que se infla para intimidar rivales.
+###
+Pregunta: Describe a Pikachu.
+Respuesta: Pikachu es un ratón eléctrico que almacena energía en sus mejillas.
+###
+Pregunta: ¿Qué características tiene Gloom?
+Respuesta: Gloom emite un aroma fétido para mantener alejados a los depredadores.
+###
+Pregunta: Dime cómo es Raticate.
+Respuesta: Raticate tiene colmillos afilados para roer cualquier material duro.
+###
+Pregunta: ¿Cómo es Nidorino?
+Respuesta: Nidorino es territorial y embiste enemigos con su cuerno tóxico.
+###
+Pregunta: Descríbeme a Butterfree.
+Respuesta: Butterfree es una mariposa colorida que esparce polen paralizante para defenderse.
+###
+Pregunta: ¿Qué características tiene Vileplume?
+Respuesta: Vileplume tiene un gran pétalo que libera polen tóxico.
+###
+Pregunta: Describe a Nidoran♀.
+Respuesta: Nidoran♀ es pequeña pero tiene cuernos venenosos para atacar.
+###
+Pregunta: Describe a Caterpie.
+Respuesta: Caterpie es una oruga verde que se esconde entre hojas para protegerse.
+###
+Pregunta: Dime cómo es Metapod.
+Respuesta: Metapod es la forma crisálida de Caterpie, permanece inmóvil para evolucionar.
+###
+Pregunta: Descríbeme a Vulpix.
+Respuesta: Vulpix es un zorro de fuego con múltiples colas que se agitan al atacar.
+###
+Pregunta: ¿Cómo es Clefairy?
+Respuesta: Clefairy es un Pokémon hada que danza bajo la luz de la luna.
+###
+Pregunta: Dime cómo es Pidgey.
+Respuesta: Pidgey es un ave pequeña que vuela bajo y se oculta en arbustos.
+###
+Pregunta: ¿Qué características tiene Weedle?
+Respuesta: Weedle es un gusano con aguijón venenoso que vive entre la hierba.
+###
+Pregunta: Describe a Wigglytuff.
+Respuesta: Wigglytuff tiene un cuerpo suave que se infla para intimidar rivales.
+###
+Pregunta: ¿Cómo es Wartortle?
+Respuesta: Wartortle tiene orejas peludas y una cola esponjosa que simbolizan longevidad.
+###
+Pregunta: ¿Qué características tiene Butterfree?
+Respuesta: Butterfree es una mariposa colorida que esparce polen paralizante para defenderse.
+###
+Pregunta: Dime cómo es Nidoran♀.
+Respuesta: Nidoran♀ es pequeña pero tiene cuernos venenosos para atacar.
+###
+Pregunta: ¿Cómo es Metapod?
+Respuesta: Metapod es la forma crisálida de Caterpie, permanece inmóvil para evolucionar.
+###
+Pregunta: Describe a Caterpie.
+Respuesta: Caterpie es una oruga verde que se esconde entre hojas para protegerse.
+###
+Pregunta: Describe a Sandslash.
+Respuesta: Sandslash usa sus púas y garras afiladas para defender su territorio.
+###
+Pregunta: Describe a Charmeleon.
+Respuesta: Charmeleon es más agresivo, con una llama intensa que refleja su temperamento.
+###
+Pregunta: Descríbeme a Raticate.
+Respuesta: Raticate tiene colmillos afilados para roer cualquier material duro.
+###
+Pregunta: ¿Cómo es Nidorino?
+Respuesta: Nidorino es territorial y embiste enemigos con su cuerno tóxico.
+###
+Pregunta: ¿Cómo es Ekans?
+Respuesta: Ekans es una serpiente sigilosa que se enrolla para atacar de sorpresa.
+###
+Pregunta: Descríbeme a Jigglypuff.
+Respuesta: Jigglypuff canta melodías que duermen a sus oponentes.
+###
+Pregunta: Descríbeme a Charizard.
+Respuesta: Charizard es un dragón poderoso que puede lanzar llamaradas ardientes desde su boca.
+###
+Pregunta: Descríbeme a Arbok.
+Respuesta: Arbok intimida enemigos mostrando patrones aterradores en su cuello.
+###
+Pregunta: Dime cómo es Nidoking.
+Respuesta: Nidoking es enorme y usa su cola poderosa para aplastar a sus rivales.
+###
+Pregunta: Describe a Clefable.
+Respuesta: Clefable es sigilosa y se mueve silenciosa para evitar ser vista.
+###
+Pregunta: ¿Qué características tiene Squirtle?
+Respuesta: Squirtle es una tortuga de agua que dispara potentes chorros para defenderse.
+###
+Pregunta: Descríbeme a Gloom.
+Respuesta: Gloom emite un aroma fétido para mantener alejados a los depredadores.
+###
+Pregunta: Dime cómo es Nidorina.
+Respuesta: Nidorina cuida a sus crías y usa su veneno para protegerlas.
+###
+Pregunta: ¿Cómo es Zubat?
+Respuesta: Zubat es un murciélago que navega en la oscuridad usando ecolocalización.
+###
+Pregunta: ¿Qué características tiene Nidoqueen?
+Respuesta: Nidoqueen es fuerte y protectora, defiende a su familia con fiereza.
+###
+Pregunta: ¿Qué características tiene Nidoran♂?
+Respuesta: Nidoran♂ es ágil y usa sus afilados cuernos venenosos para atacar.
+###
+Pregunta: ¿Qué características tiene Vileplume?
+Respuesta: Vileplume tiene un gran pétalo que libera polen tóxico.
+###
+Pregunta: ¿Cómo es Pidgeot?
+Respuesta: Pidgeot es un ave majestuosa que vuela a gran velocidad para cazar.
+###
+Pregunta: Describe a Kakuna.
+Respuesta: Kakuna es la forma pupa de Weedle, endurece su caparazón para defenderse.
+###
+Pregunta: ¿Qué características tiene Oddish?
+Respuesta: Oddish absorbe la luz lunar para crecer y esparcir semillas.
+###
+Pregunta: ¿Qué características tiene Blastoise?
+Respuesta: Blastoise lleva cañones de agua en su caparazón para atacar con chorros a presión.
+###
+Pregunta: Dime cómo es Sandshrew.
+Respuesta: Sandshrew se enrolla para protegerse y cava madrigueras subterráneas.
+###
+Pregunta: ¿Cómo es Venusaur?
+Respuesta: Venusaur es la forma final de Bulbasaur, con una gran flor que emite aromas calmantes.
+###
+Pregunta: Descríbeme a Fearow.
+Respuesta: Fearow sobrevuela vastos territorios y ataca con su pico largo.
+###
+Pregunta: Describe a Ivysaur.
+Respuesta: Ivysaur es la evolución de Bulbasaur, su flor crece mientras almacena poder.
+###
+Pregunta: Descríbeme a Vulpix.
+Respuesta: Vulpix es un zorro de fuego con múltiples colas que se agitan al atacar.
+###
+Pregunta: Dime cómo es Paras.
+Respuesta: Paras cultiva hongos en su espalda que usa para defenderse.
+###
+Pregunta: Describe a Charmander.
+Respuesta: Charmander es un lagarto de fuego que usa su cola como fuente de calor.
+###
+Pregunta: ¿Cómo es Pidgeotto?
+Respuesta: Pidgeotto patrulla su territorio con precisión y gran agudeza visual.
+###
+Pregunta: Descríbeme a Rattata.
+Respuesta: Rattata es un roedor veloz que se adapta a cualquier entorno urbano.
+###
+Pregunta: ¿Cómo es Ninetales?
+Respuesta: Ninetales es místico y puede vivir mil años, controla fuego a voluntad.
+###
+Pregunta: Describe a Raichu.
+Respuesta: Raichu es la evolución de Pikachu y descarga potentes rayos cuando se enfurece.
+###
+Pregunta: ¿Cómo es Spearow?
+Respuesta: Spearow es un ave territorial que lanza ataques rápidos para defenderse.
+###
+Pregunta: ¿Qué características tiene Parasect?
+Respuesta: Parasect está completamente controlado por el hongo que lo habita.
+###
+Pregunta: Describe a Pikachu.
+Respuesta: Pikachu es un ratón eléctrico que almacena energía en sus mejillas.
+###
+Pregunta: ¿Cómo es Beedrill?
+Respuesta: Beedrill es una avispa veloz con aguijones dobles para atacar en enjambre.
+###
+Pregunta: Descríbeme a Golbat.
+Respuesta: Golbat chupa sangre de sus presas para alimentarse durante la noche.
+###
+Pregunta: Descríbeme a Bulbasaur.
+Respuesta: Bulbasaur es un Pokémon planta/veneno que absorbe energía solar con su bulbo.
+###
+Pregunta: Describe a Caterpie.
+Respuesta: Caterpie es una oruga verde que se esconde entre hojas para protegerse.
+###
+Pregunta: ¿Qué características tiene Ekans?
+Respuesta: Ekans es una serpiente sigilosa que se enrolla para atacar de sorpresa.
+###
+Pregunta: Dime cómo es Gloom.
+Respuesta: Gloom emite un aroma fétido para mantener alejados a los depredadores.
+###
+Pregunta: ¿Cómo es Blastoise?
+Respuesta: Blastoise lleva cañones de agua en su caparazón para atacar con chorros a presión.
+###
+Pregunta: ¿Cómo es Wigglytuff?
+Respuesta: Wigglytuff tiene un cuerpo suave que se infla para intimidar rivales.
+###
+Pregunta: ¿Qué características tiene Vulpix?
+Respuesta: Vulpix es un zorro de fuego con múltiples colas que se agitan al atacar.
+###
+Pregunta: Descríbeme a Charmander.
+Respuesta: Charmander es un lagarto de fuego que usa su cola como fuente de calor.
+###
+Pregunta: Dime cómo es Pidgeot.
+Respuesta: Pidgeot es un ave majestuosa que vuela a gran velocidad para cazar.
+###
+Pregunta: Descríbeme a Oddish.
+Respuesta: Oddish absorbe la luz lunar para crecer y esparcir semillas.
+###
+Pregunta: ¿Qué características tiene Vileplume?
+Respuesta: Vileplume tiene un gran pétalo que libera polen tóxico.
+###
+Pregunta: Dime cómo es Butterfree.
+Respuesta: Butterfree es una mariposa colorida que esparce polen paralizante para defenderse.
+###
+Pregunta: Describe a Nidoqueen.
+Respuesta: Nidoqueen es fuerte y protectora, defiende a su familia con fiereza.
+###
+Pregunta: Describe a Clefairy.
+Respuesta: Clefairy es un Pokémon hada que danza bajo la luz de la luna.
+###
+Pregunta: ¿Cómo es Squirtle?
+Respuesta: Squirtle es una tortuga de agua que dispara potentes chorros para defenderse.
+###
+Pregunta: ¿Cómo es Sandshrew?
+Respuesta: Sandshrew se enrolla para protegerse y cava madrigueras subterráneas.
+###
+Pregunta: Describe a Nidoran♀.
+Respuesta: Nidoran♀ es pequeña pero tiene cuernos venenosos para atacar.
+###
+Pregunta: ¿Cómo es Golbat?
+Respuesta: Golbat chupa sangre de sus presas para alimentarse durante la noche.
+###
+Pregunta: ¿Cómo es Pidgeotto?
+Respuesta: Pidgeotto patrulla su territorio con precisión y gran agudeza visual.
+###
+Pregunta: ¿Cómo es Clefable?
+Respuesta: Clefable es sigilosa y se mueve silenciosa para evitar ser vista.
+###
+Pregunta: Describe a Nidorino.
+Respuesta: Nidorino es territorial y embiste enemigos con su cuerno tóxico.
+###
+Pregunta: Describe a Beedrill.
+Respuesta: Beedrill es una avispa veloz con aguijones dobles para atacar en enjambre.
+###
+Pregunta: ¿Cómo es Nidoking?
+Respuesta: Nidoking es enorme y usa su cola poderosa para aplastar a sus rivales.
+###
+Pregunta: Descríbeme a Bulbasaur.
+Respuesta: Bulbasaur es un Pokémon planta/veneno que absorbe energía solar con su bulbo.
+###
+Pregunta: ¿Qué características tiene Metapod?
+Respuesta: Metapod es la forma crisálida de Caterpie, permanece inmóvil para evolucionar.
+###
+Pregunta: ¿Cómo es Zubat?
+Respuesta: Zubat es un murciélago que navega en la oscuridad usando ecolocalización.
+###
+Pregunta: ¿Qué características tiene Arbok?
+Respuesta: Arbok intimida enemigos mostrando patrones aterradores en su cuello.
+###
+Pregunta: Dime cómo es Paras.
+Respuesta: Paras cultiva hongos en su espalda que usa para defenderse.
+###
+Pregunta: Descríbeme a Raichu.
+Respuesta: Raichu es la evolución de Pikachu y descarga potentes rayos cuando se enfurece.
+###
+Pregunta: ¿Qué características tiene Wartortle?
+Respuesta: Wartortle tiene orejas peludas y una cola esponjosa que simbolizan longevidad.
+###
+Pregunta: Descríbeme a Ivysaur.
+Respuesta: Ivysaur es la evolución de Bulbasaur, su flor crece mientras almacena poder.
+###
+Pregunta: Dime cómo es Rattata.
+Respuesta: Rattata es un roedor veloz que se adapta a cualquier entorno urbano.
+###
+Pregunta: Dime cómo es Jigglypuff.
+Respuesta: Jigglypuff canta melodías que duermen a sus oponentes.
+###
+Pregunta: Dime cómo es Sandslash.
+Respuesta: Sandslash usa sus púas y garras afiladas para defender su territorio.
+###
+Pregunta: ¿Qué características tiene Parasect?
+Respuesta: Parasect está completamente controlado por el hongo que lo habita.
+###
+Pregunta: ¿Qué características tiene Fearow?
+Respuesta: Fearow sobrevuela vastos territorios y ataca con su pico largo.
+###
+Pregunta: Dime cómo es Spearow.
+Respuesta: Spearow es un ave territorial que lanza ataques rápidos para defenderse.
+###
+Pregunta: Descríbeme a Nidoran♂.
+Respuesta: Nidoran♂ es ágil y usa sus afilados cuernos venenosos para atacar.
+###
+Pregunta: Describe a Weedle.
+Respuesta: Weedle es un gusano con aguijón venenoso que vive entre la hierba.
+###
+Pregunta: ¿Cómo es Pikachu?
+Respuesta: Pikachu es un ratón eléctrico que almacena energía en sus mejillas.
+###
+Pregunta: ¿Cómo es Charmeleon?
+Respuesta: Charmeleon es más agresivo, con una llama intensa que refleja su temperamento.
+###
+Pregunta: ¿Cómo es Nidorina?
+Respuesta: Nidorina cuida a sus crías y usa su veneno para protegerlas.
+###
+Pregunta: ¿Cómo es Venusaur?
+Respuesta: Venusaur es la forma final de Bulbasaur, con una gran flor que emite aromas calmantes.
+###
+Pregunta: Dime cómo es Charizard.
+Respuesta: Charizard es un dragón poderoso que puede lanzar llamaradas ardientes desde su boca.
+###
+Pregunta: Descríbeme a Kakuna.
+Respuesta: Kakuna es la forma pupa de Weedle, endurece su caparazón para defenderse.
+###
+Pregunta: Descríbeme a Ninetales.
+Respuesta: Ninetales es místico y puede vivir mil años, controla fuego a voluntad.
+###
+Pregunta: Describe a Raticate.
+Respuesta: Raticate tiene colmillos afilados para roer cualquier material duro.
+###
+Pregunta: Dime cómo es Pidgey.
+Respuesta: Pidgey es un ave pequeña que vuela bajo y se oculta en arbustos.
+###
+Pregunta: Dime cómo es Caterpie.
+Respuesta: Caterpie es una oruga verde que se esconde entre hojas para protegerse.
+###
+Pregunta: Dime cómo es Nidorina.
+Respuesta: Nidorina cuida a sus crías y usa su veneno para protegerlas.
+###
+Pregunta: ¿Cómo es Vulpix?
+Respuesta: Vulpix es un zorro de fuego con múltiples colas que se agitan al atacar.
+###
+Pregunta: ¿Cómo es Kakuna?
+Respuesta: Kakuna es la forma pupa de Weedle, endurece su caparazón para defenderse.
+###
+Pregunta: Descríbeme a Pikachu.
+Respuesta: Pikachu es un ratón eléctrico que almacena energía en sus mejillas.
+###
+Pregunta: Describe a Butterfree.
+Respuesta: Butterfree es una mariposa colorida que esparce polen paralizante para defenderse.
+###
+Pregunta: ¿Cómo es Oddish?
+Respuesta: Oddish absorbe la luz lunar para crecer y esparcir semillas.
+###
+Pregunta: ¿Qué características tiene Parasect?
+Respuesta: Parasect está completamente controlado por el hongo que lo habita.
+###
+Pregunta: Describe a Bulbasaur.
+Respuesta: Bulbasaur es un Pokémon planta/veneno que absorbe energía solar con su bulbo.
+###
+Pregunta: ¿Cómo es Nidorino?
+Respuesta: Nidorino es territorial y embiste enemigos con su cuerno tóxico.
+###
+Pregunta: ¿Qué características tiene Golbat?
+Respuesta: Golbat chupa sangre de sus presas para alimentarse durante la noche.
+###
+Pregunta: Descríbeme a Pidgeot.
+Respuesta: Pidgeot es un ave majestuosa que vuela a gran velocidad para cazar.
+###
+Pregunta: Descríbeme a Blastoise.
+Respuesta: Blastoise lleva cañones de agua en su caparazón para atacar con chorros a presión.
+###
+Pregunta: ¿Qué características tiene Metapod?
+Respuesta: Metapod es la forma crisálida de Caterpie, permanece inmóvil para evolucionar.
+###
+Pregunta: ¿Qué características tiene Gloom?
+Respuesta: Gloom emite un aroma fétido para mantener alejados a los depredadores.
+###
+Pregunta: ¿Qué características tiene Raichu?
+Respuesta: Raichu es la evolución de Pikachu y descarga potentes rayos cuando se enfurece.
+###
+Pregunta: ¿Qué características tiene Rattata?
+Respuesta: Rattata es un roedor veloz que se adapta a cualquier entorno urbano.
+###
+Pregunta: ¿Cómo es Zubat?
+Respuesta: Zubat es un murciélago que navega en la oscuridad usando ecolocalización.
+###
+Pregunta: ¿Cómo es Sandslash?
+Respuesta: Sandslash usa sus púas y garras afiladas para defender su territorio.
+###
+Pregunta: Descríbeme a Venusaur.
+Respuesta: Venusaur es la forma final de Bulbasaur, con una gran flor que emite aromas calmantes.
+###
+Pregunta: Describe a Squirtle.
+Respuesta: Squirtle es una tortuga de agua que dispara potentes chorros para defenderse.
+###
+Pregunta: Dime cómo es Nidoking.
+Respuesta: Nidoking es enorme y usa su cola poderosa para aplastar a sus rivales.
+###
+Pregunta: Descríbeme a Charizard.
+Respuesta: Charizard es un dragón poderoso que puede lanzar llamaradas ardientes desde su boca.
+###
+Pregunta: ¿Qué características tiene Charmander?
+Respuesta: Charmander es un lagarto de fuego que usa su cola como fuente de calor.
+###
+Pregunta: ¿Qué características tiene Nidoran♀?
+Respuesta: Nidoran♀ es pequeña pero tiene cuernos venenosos para atacar.
+###
+Pregunta: Describe a Charmeleon.
+Respuesta: Charmeleon es más agresivo, con una llama intensa que refleja su temperamento.
+###
+Pregunta: Dime cómo es Fearow.
+Respuesta: Fearow sobrevuela vastos territorios y ataca con su pico largo.
+###
+Pregunta: ¿Cómo es Clefairy?
+Respuesta: Clefairy es un Pokémon hada que danza bajo la luz de la luna.
+###
+Pregunta: ¿Cómo es Wartortle?
+Respuesta: Wartortle tiene orejas peludas y una cola esponjosa que simbolizan longevidad.
+###
+Pregunta: Describe a Arbok.
+Respuesta: Arbok intimida enemigos mostrando patrones aterradores en su cuello.
+###
+Pregunta: Describe a Wigglytuff.
+Respuesta: Wigglytuff tiene un cuerpo suave que se infla para intimidar rivales.
+###
+Pregunta: Describe a Jigglypuff.
+Respuesta: Jigglypuff canta melodías que duermen a sus oponentes.
+###
+Pregunta: Dime cómo es Vileplume.
+Respuesta: Vileplume tiene un gran pétalo que libera polen tóxico.
+###
+Pregunta: ¿Cómo es Ekans?
+Respuesta: Ekans es una serpiente sigilosa que se enrolla para atacar de sorpresa.
+###
+Pregunta: Describe a Weedle.
+Respuesta: Weedle es un gusano con aguijón venenoso que vive entre la hierba.
+###
+Pregunta: ¿Qué características tiene Raticate?
+Respuesta: Raticate tiene colmillos afilados para roer cualquier material duro.
+###
+Pregunta: ¿Cómo es Sandshrew?
+Respuesta: Sandshrew se enrolla para protegerse y cava madrigueras subterráneas.
+###
+Pregunta: Describe a Pidgey.
+Respuesta: Pidgey es un ave pequeña que vuela bajo y se oculta en arbustos.
+###
+Pregunta: Describe a Pidgeotto.
+Respuesta: Pidgeotto patrulla su territorio con precisión y gran agudeza visual.
+###
+Pregunta: ¿Cómo es Ninetales?
+Respuesta: Ninetales es místico y puede vivir mil años, controla fuego a voluntad.
+###
+Pregunta: Descríbeme a Nidoran♂.
+Respuesta: Nidoran♂ es ágil y usa sus afilados cuernos venenosos para atacar.
+###
+Pregunta: ¿Cómo es Ivysaur?
+Respuesta: Ivysaur es la evolución de Bulbasaur, su flor crece mientras almacena poder.
+###
+Pregunta: Descríbeme a Paras.
+Respuesta: Paras cultiva hongos en su espalda que usa para defenderse.
+###
+Pregunta: Descríbeme a Beedrill.
+Respuesta: Beedrill es una avispa veloz con aguijones dobles para atacar en enjambre.
+###
+Pregunta: ¿Cómo es Spearow?
+Respuesta: Spearow es un ave territorial que lanza ataques rápidos para defenderse.
+###
+Pregunta: Describe a Nidoqueen.
+Respuesta: Nidoqueen es fuerte y protectora, defiende a su familia con fiereza.
+###
+Pregunta: Describe a Clefable.
+Respuesta: Clefable es sigilosa y se mueve silenciosa para evitar ser vista.
+###
+Pregunta: Descríbeme a Ivysaur.
+Respuesta: Ivysaur es la evolución de Bulbasaur, su flor crece mientras almacena poder.
+###
+Pregunta: ¿Qué características tiene Beedrill?
+Respuesta: Beedrill es una avispa veloz con aguijones dobles para atacar en enjambre.
+###
+Pregunta: ¿Qué características tiene Raticate?
+Respuesta: Raticate tiene colmillos afilados para roer cualquier material duro.
+###
+Pregunta: Descríbeme a Vulpix.
+Respuesta: Vulpix es un zorro de fuego con múltiples colas que se agitan al atacar.
+###
+Pregunta: Dime cómo es Arbok.
+Respuesta: Arbok intimida enemigos mostrando patrones aterradores en su cuello.
+###
+Pregunta: ¿Cómo es Nidoking?
+Respuesta: Nidoking es enorme y usa su cola poderosa para aplastar a sus rivales.
+###
+Pregunta: ¿Cómo es Nidorina?
+Respuesta: Nidorina cuida a sus crías y usa su veneno para protegerlas.
+###
+Pregunta: Describe a Ninetales.
+Respuesta: Ninetales es místico y puede vivir mil años, controla fuego a voluntad.
+###
+Pregunta: ¿Qué características tiene Caterpie?
+Respuesta: Caterpie es una oruga verde que se esconde entre hojas para protegerse.
+###
+Pregunta: Describe a Nidoran♀.
+Respuesta: Nidoran♀ es pequeña pero tiene cuernos venenosos para atacar.
+###
+Pregunta: ¿Cómo es Rattata?
+Respuesta: Rattata es un roedor veloz que se adapta a cualquier entorno urbano.
+###
+Pregunta: Describe a Nidoqueen.
+Respuesta: Nidoqueen es fuerte y protectora, defiende a su familia con fiereza.
+###
+Pregunta: Dime cómo es Charmander.
+Respuesta: Charmander es un lagarto de fuego que usa su cola como fuente de calor.
+###
+Pregunta: Describe a Charizard.
+Respuesta: Charizard es un dragón poderoso que puede lanzar llamaradas ardientes desde su boca.
+###
+Pregunta: Describe a Pidgeot.
+Respuesta: Pidgeot es un ave majestuosa que vuela a gran velocidad para cazar.
+###
+Pregunta: Dime cómo es Zubat.
+Respuesta: Zubat es un murciélago que navega en la oscuridad usando ecolocalización.
+###
+Pregunta: Describe a Charmeleon.
+Respuesta: Charmeleon es más agresivo, con una llama intensa que refleja su temperamento.
+###
+Pregunta: Describe a Blastoise.
+Respuesta: Blastoise lleva cañones de agua en su caparazón para atacar con chorros a presión.
+###
+Pregunta: Dime cómo es Pidgey.
+Respuesta: Pidgey es un ave pequeña que vuela bajo y se oculta en arbustos.
+###
+Pregunta: Dime cómo es Nidorino.
+Respuesta: Nidorino es territorial y embiste enemigos con su cuerno tóxico.
+###
+Pregunta: ¿Qué características tiene Gloom?
+Respuesta: Gloom emite un aroma fétido para mantener alejados a los depredadores.
+###
+Pregunta: ¿Qué características tiene Pidgeotto?
+Respuesta: Pidgeotto patrulla su territorio con precisión y gran agudeza visual.
+###
+Pregunta: Describe a Clefable.
+Respuesta: Clefable es sigilosa y se mueve silenciosa para evitar ser vista.
+###
+Pregunta: Dime cómo es Paras.
+Respuesta: Paras cultiva hongos en su espalda que usa para defenderse.
+###
+Pregunta: ¿Qué características tiene Bulbasaur?
+Respuesta: Bulbasaur es un Pokémon planta/veneno que absorbe energía solar con su bulbo.
+###
+Pregunta: ¿Qué características tiene Golbat?
+Respuesta: Golbat chupa sangre de sus presas para alimentarse durante la noche.
+###
+Pregunta: Dime cómo es Venusaur.
+Respuesta: Venusaur es la forma final de Bulbasaur, con una gran flor que emite aromas calmantes.
+###
+Pregunta: Describe a Jigglypuff.
+Respuesta: Jigglypuff canta melodías que duermen a sus oponentes.
+###
+Pregunta: Describe a Clefairy.
+Respuesta: Clefairy es un Pokémon hada que danza bajo la luz de la luna.
+###
+Pregunta: ¿Cómo es Squirtle?
+Respuesta: Squirtle es una tortuga de agua que dispara potentes chorros para defenderse.
+###
+Pregunta: ¿Cómo es Sandslash?
+Respuesta: Sandslash usa sus púas y garras afiladas para defender su territorio.
+###
+Pregunta: ¿Qué características tiene Ekans?
+Respuesta: Ekans es una serpiente sigilosa que se enrolla para atacar de sorpresa.
+###
+Pregunta: ¿Qué características tiene Weedle?
+Respuesta: Weedle es un gusano con aguijón venenoso que vive entre la hierba.
+###
+Pregunta: Dime cómo es Sandshrew.
+Respuesta: Sandshrew se enrolla para protegerse y cava madrigueras subterráneas.
+###
+Pregunta: ¿Qué características tiene Raichu?
+Respuesta: Raichu es la evolución de Pikachu y descarga potentes rayos cuando se enfurece.
+###
+Pregunta: ¿Qué características tiene Pikachu?
+Respuesta: Pikachu es un ratón eléctrico que almacena energía en sus mejillas.
+###
+Pregunta: ¿Cómo es Oddish?
+Respuesta: Oddish absorbe la luz lunar para crecer y esparcir semillas.
+###
+Pregunta: Descríbeme a Spearow.
+Respuesta: Spearow es un ave territorial que lanza ataques rápidos para defenderse.
+###
+Pregunta: Describe a Vileplume.
+Respuesta: Vileplume tiene un gran pétalo que libera polen tóxico.
+###
+Pregunta: ¿Qué características tiene Wartortle?
+Respuesta: Wartortle tiene orejas peludas y una cola esponjosa que simbolizan longevidad.
+###
+Pregunta: Describe a Nidoran♂.
+Respuesta: Nidoran♂ es ágil y usa sus afilados cuernos venenosos para atacar.
+###
+Pregunta: Describe a Parasect.
+Respuesta: Parasect está completamente controlado por el hongo que lo habita.
+###
+Pregunta: Describe a Wigglytuff.
+Respuesta: Wigglytuff tiene un cuerpo suave que se infla para intimidar rivales.
+###
+Pregunta: Descríbeme a Metapod.
+Respuesta: Metapod es la forma crisálida de Caterpie, permanece inmóvil para evolucionar.
+###
+Pregunta: Dime cómo es Kakuna.
+Respuesta: Kakuna es la forma pupa de Weedle, endurece su caparazón para defenderse.
+###
+Pregunta: ¿Cómo es Butterfree?
+Respuesta: Butterfree es una mariposa colorida que esparce polen paralizante para defenderse.
+###
+Pregunta: Describe a Fearow.
+Respuesta: Fearow sobrevuela vastos territorios y ataca con su pico largo.
+###
+Pregunta: Descríbeme a Zubat.
+Respuesta: Zubat es un murciélago que navega en la oscuridad usando ecolocalización.
+###
+Pregunta: ¿Cómo es Pidgey?
+Respuesta: Pidgey es un ave pequeña que vuela bajo y se oculta en arbustos.
+###
+Pregunta: Descríbeme a Vileplume.
+Respuesta: Vileplume tiene un gran pétalo que libera polen tóxico.
+###
+Pregunta: ¿Cómo es Clefable?
+Respuesta: Clefable es sigilosa y se mueve silenciosa para evitar ser vista.
+###
+Pregunta: Describe a Butterfree.
+Respuesta: Butterfree es una mariposa colorida que esparce polen paralizante para defenderse.
+###
+Pregunta: Descríbeme a Blastoise.
+Respuesta: Blastoise lleva cañones de agua en su caparazón para atacar con chorros a presión.
+###
+Pregunta: ¿Qué características tiene Jigglypuff?
+Respuesta: Jigglypuff canta melodías que duermen a sus oponentes.
+###
+Pregunta: Dime cómo es Fearow.
+Respuesta: Fearow sobrevuela vastos territorios y ataca con su pico largo.
+###
+Pregunta: ¿Cómo es Nidoran♂?
+Respuesta: Nidoran♂ es ágil y usa sus afilados cuernos venenosos para atacar.
+###
+Pregunta: Descríbeme a Weedle.
+Respuesta: Weedle es un gusano con aguijón venenoso que vive entre la hierba.
+###
+Pregunta: Describe a Ekans.
+Respuesta: Ekans es una serpiente sigilosa que se enrolla para atacar de sorpresa.
+###
+Pregunta: Dime cómo es Vulpix.
+Respuesta: Vulpix es un zorro de fuego con múltiples colas que se agitan al atacar.
+###
+Pregunta: Dime cómo es Nidoran♀.
+Respuesta: Nidoran♀ es pequeña pero tiene cuernos venenosos para atacar.
+###
+Pregunta: ¿Qué características tiene Sandslash?
+Respuesta: Sandslash usa sus púas y garras afiladas para defender su territorio.
+###
+Pregunta: Descríbeme a Spearow.
+Respuesta: Spearow es un ave territorial que lanza ataques rápidos para defenderse.
+###
+Pregunta: Dime cómo es Nidoking.
+Respuesta: Nidoking es enorme y usa su cola poderosa para aplastar a sus rivales.
+###
+Pregunta: Dime cómo es Wigglytuff.
+Respuesta: Wigglytuff tiene un cuerpo suave que se infla para intimidar rivales.
+###
+Pregunta: Dime cómo es Charmeleon.
+Respuesta: Charmeleon es más agresivo, con una llama intensa que refleja su temperamento.
+###
+Pregunta: Describe a Rattata.
+Respuesta: Rattata es un roedor veloz que se adapta a cualquier entorno urbano.
+###
+Pregunta: Dime cómo es Charmander.
+Respuesta: Charmander es un lagarto de fuego que usa su cola como fuente de calor.
+###
+Pregunta: Describe a Nidorina.
+Respuesta: Nidorina cuida a sus crías y usa su veneno para protegerlas.
+###
+Pregunta: ¿Qué características tiene Paras?
+Respuesta: Paras cultiva hongos en su espalda que usa para defenderse.
+###
+Pregunta: Descríbeme a Wartortle.
+Respuesta: Wartortle tiene orejas peludas y una cola esponjosa que simbolizan longevidad.
+###
+Pregunta: Descríbeme a Golbat.
+Respuesta: Golbat chupa sangre de sus presas para alimentarse durante la noche.
+###
+Pregunta: ¿Cómo es Bulbasaur?
+Respuesta: Bulbasaur es un Pokémon planta/veneno que absorbe energía solar con su bulbo.
+###
+Pregunta: Dime cómo es Parasect.
+Respuesta: Parasect está completamente controlado por el hongo que lo habita.
+###
+Pregunta: ¿Qué características tiene Squirtle?
+Respuesta: Squirtle es una tortuga de agua que dispara potentes chorros para defenderse.
+###
+Pregunta: ¿Qué características tiene Arbok?
+Respuesta: Arbok intimida enemigos mostrando patrones aterradores en su cuello.
+###
+Pregunta: Describe a Caterpie.
+Respuesta: Caterpie es una oruga verde que se esconde entre hojas para protegerse.
+###
+Pregunta: Describe a Pidgeot.
+Respuesta: Pidgeot es un ave majestuosa que vuela a gran velocidad para cazar.
+###
+Pregunta: Dime cómo es Ninetales.
+Respuesta: Ninetales es místico y puede vivir mil años, controla fuego a voluntad.
+###
+Pregunta: ¿Cómo es Charizard?
+Respuesta: Charizard es un dragón poderoso que puede lanzar llamaradas ardientes desde su boca.
+###
+Pregunta: ¿Qué características tiene Clefairy?
+Respuesta: Clefairy es un Pokémon hada que danza bajo la luz de la luna.
+###
+Pregunta: Dime cómo es Raichu.
+Respuesta: Raichu es la evolución de Pikachu y descarga potentes rayos cuando se enfurece.
+###
+Pregunta: Describe a Pikachu.
+Respuesta: Pikachu es un ratón eléctrico que almacena energía en sus mejillas.
+###
+Pregunta: ¿Cómo es Ivysaur?
+Respuesta: Ivysaur es la evolución de Bulbasaur, su flor crece mientras almacena poder.
+###
+Pregunta: Describe a Metapod.
+Respuesta: Metapod es la forma crisálida de Caterpie, permanece inmóvil para evolucionar.
+###
+Pregunta: Descríbeme a Sandshrew.
+Respuesta: Sandshrew se enrolla para protegerse y cava madrigueras subterráneas.
+###
+Pregunta: ¿Qué características tiene Raticate?
+Respuesta: Raticate tiene colmillos afilados para roer cualquier material duro.
+###
+Pregunta: Descríbeme a Venusaur.
+Respuesta: Venusaur es la forma final de Bulbasaur, con una gran flor que emite aromas calmantes.
+###
+Pregunta: Descríbeme a Oddish.
+Respuesta: Oddish absorbe la luz lunar para crecer y esparcir semillas.
+###
+Pregunta: Descríbeme a Nidorino.
+Respuesta: Nidorino es territorial y embiste enemigos con su cuerno tóxico.
+###
+Pregunta: Dime cómo es Gloom.
+Respuesta: Gloom emite un aroma fétido para mantener alejados a los depredadores.
+###
+Pregunta: ¿Cómo es Kakuna?
+Respuesta: Kakuna es la forma pupa de Weedle, endurece su caparazón para defenderse.
+###
+Pregunta: ¿Cómo es Beedrill?
+Respuesta: Beedrill es una avispa veloz con aguijones dobles para atacar en enjambre.
+###
+Pregunta: Dime cómo es Nidoqueen.
+Respuesta: Nidoqueen es fuerte y protectora, defiende a su familia con fiereza.
+###
+Pregunta: ¿Cómo es Pidgeotto?
+Respuesta: Pidgeotto patrulla su territorio con precisión y gran agudeza visual.
+###
+Pregunta: Descríbeme a Sandslash.
+Respuesta: Sandslash usa sus púas y garras afiladas para defender su territorio.
+###
+Pregunta: ¿Cómo es Pidgeotto?
+Respuesta: Pidgeotto patrulla su territorio con precisión y gran agudeza visual.
+###
+Pregunta: Dime cómo es Fearow.
+Respuesta: Fearow sobrevuela vastos territorios y ataca con su pico largo.
+###
+Pregunta: Dime cómo es Vileplume.
+Respuesta: Vileplume tiene un gran pétalo que libera polen tóxico.
+###
+Pregunta: ¿Qué características tiene Rattata?
+Respuesta: Rattata es un roedor veloz que se adapta a cualquier entorno urbano.
+###
+Pregunta: ¿Cómo es Golbat?
+Respuesta: Golbat chupa sangre de sus presas para alimentarse durante la noche.
+###
+Pregunta: ¿Qué características tiene Beedrill?
+Respuesta: Beedrill es una avispa veloz con aguijones dobles para atacar en enjambre.
+###
+Pregunta: Descríbeme a Clefable.
+Respuesta: Clefable es sigilosa y se mueve silenciosa para evitar ser vista.
+###
+Pregunta: Dime cómo es Arbok.
+Respuesta: Arbok intimida enemigos mostrando patrones aterradores en su cuello.
+###
+Pregunta: Dime cómo es Ekans.
+Respuesta: Ekans es una serpiente sigilosa que se enrolla para atacar de sorpresa.
+###
+Pregunta: Dime cómo es Nidorina.
+Respuesta: Nidorina cuida a sus crías y usa su veneno para protegerlas.
+###
+Pregunta: Describe a Spearow.
+Respuesta: Spearow es un ave territorial que lanza ataques rápidos para defenderse.
+###
+Pregunta: Describe a Vulpix.
+Respuesta: Vulpix es un zorro de fuego con múltiples colas que se agitan al atacar.
+###
+Pregunta: Descríbeme a Gloom.
+Respuesta: Gloom emite un aroma fétido para mantener alejados a los depredadores.
+###
+Pregunta: Descríbeme a Charmander.
+Respuesta: Charmander es un lagarto de fuego que usa su cola como fuente de calor.
+###
+Pregunta: Describe a Parasect.
+Respuesta: Parasect está completamente controlado por el hongo que lo habita.
+###
+Pregunta: ¿Cómo es Nidoqueen?
+Respuesta: Nidoqueen es fuerte y protectora, defiende a su familia con fiereza.
+###
+Pregunta: ¿Qué características tiene Nidorino?
+Respuesta: Nidorino es territorial y embiste enemigos con su cuerno tóxico.
+###
+Pregunta: Describe a Wigglytuff.
+Respuesta: Wigglytuff tiene un cuerpo suave que se infla para intimidar rivales.
+###
+Pregunta: ¿Qué características tiene Raticate?
+Respuesta: Raticate tiene colmillos afilados para roer cualquier material duro.
+###
+Pregunta: ¿Qué características tiene Wartortle?
+Respuesta: Wartortle tiene orejas peludas y una cola esponjosa que simbolizan longevidad.
+###
+Pregunta: Descríbeme a Paras.
+Respuesta: Paras cultiva hongos en su espalda que usa para defenderse.
+###
+Pregunta: Describe a Weedle.
+Respuesta: Weedle es un gusano con aguijón venenoso que vive entre la hierba.
+###
+Pregunta: ¿Qué características tiene Charizard?
+Respuesta: Charizard es un dragón poderoso que puede lanzar llamaradas ardientes desde su boca.
+###
+Pregunta: Describe a Squirtle.
+Respuesta: Squirtle es una tortuga de agua que dispara potentes chorros para defenderse.
+###
+Pregunta: Dime cómo es Zubat.
+Respuesta: Zubat es un murciélago que navega en la oscuridad usando ecolocalización.
+###
+Pregunta: Descríbeme a Pikachu.
+Respuesta: Pikachu es un ratón eléctrico que almacena energía en sus mejillas.
+###
+Pregunta: Describe a Jigglypuff.
+Respuesta: Jigglypuff canta melodías que duermen a sus oponentes.
+###
+Pregunta: ¿Cómo es Ninetales?
+Respuesta: Ninetales es místico y puede vivir mil años, controla fuego a voluntad.
+###
+Pregunta: Dime cómo es Nidoking.
+Respuesta: Nidoking es enorme y usa su cola poderosa para aplastar a sus rivales.
+###
+Pregunta: Dime cómo es Nidoran♀.
+Respuesta: Nidoran♀ es pequeña pero tiene cuernos venenosos para atacar.
+###
+Pregunta: ¿Qué características tiene Caterpie?
+Respuesta: Caterpie es una oruga verde que se esconde entre hojas para protegerse.
+###
+Pregunta: Descríbeme a Venusaur.
+Respuesta: Venusaur es la forma final de Bulbasaur, con una gran flor que emite aromas calmantes.
+###
+Pregunta: ¿Qué características tiene Blastoise?
+Respuesta: Blastoise lleva cañones de agua en su caparazón para atacar con chorros a presión.
+###
+Pregunta: Describe a Pidgeot.
+Respuesta: Pidgeot es un ave majestuosa que vuela a gran velocidad para cazar.
+###
+Pregunta: ¿Qué características tiene Pidgey?
+Respuesta: Pidgey es un ave pequeña que vuela bajo y se oculta en arbustos.
+###
+Pregunta: Descríbeme a Kakuna.
+Respuesta: Kakuna es la forma pupa de Weedle, endurece su caparazón para defenderse.
+###
+Pregunta: ¿Cómo es Sandshrew?
+Respuesta: Sandshrew se enrolla para protegerse y cava madrigueras subterráneas.
+###
+Pregunta: ¿Qué características tiene Clefairy?
+Respuesta: Clefairy es un Pokémon hada que danza bajo la luz de la luna.
+###
+Pregunta: ¿Cómo es Nidoran♂?
+Respuesta: Nidoran♂ es ágil y usa sus afilados cuernos venenosos para atacar.
+###
+Pregunta: Descríbeme a Butterfree.
+Respuesta: Butterfree es una mariposa colorida que esparce polen paralizante para defenderse.
+###
+Pregunta: Describe a Oddish.
+Respuesta: Oddish absorbe la luz lunar para crecer y esparcir semillas.
+###
+Pregunta: ¿Cómo es Raichu?
+Respuesta: Raichu es la evolución de Pikachu y descarga potentes rayos cuando se enfurece.
+###
+Pregunta: Descríbeme a Bulbasaur.
+Respuesta: Bulbasaur es un Pokémon planta/veneno que absorbe energía solar con su bulbo.
+###
+Pregunta: Dime cómo es Charmeleon.
+Respuesta: Charmeleon es más agresivo, con una llama intensa que refleja su temperamento.
+###
+Pregunta: ¿Qué características tiene Metapod?
+Respuesta: Metapod es la forma crisálida de Caterpie, permanece inmóvil para evolucionar.
+###
+Pregunta: ¿Qué características tiene Ivysaur?
+Respuesta: Ivysaur es la evolución de Bulbasaur, su flor crece mientras almacena poder.
+###
+Pregunta: Dime cómo es Pidgey.
+Respuesta: Pidgey es un ave pequeña que vuela bajo y se oculta en arbustos.
+###
+Pregunta: Descríbeme a Charizard.
+Respuesta: Charizard es un dragón poderoso que puede lanzar llamaradas ardientes desde su boca.
+###
+Pregunta: Dime cómo es Nidoran♀.
+Respuesta: Nidoran♀ es pequeña pero tiene cuernos venenosos para atacar.
+###
+Pregunta: ¿Qué características tiene Raticate?
+Respuesta: Raticate tiene colmillos afilados para roer cualquier material duro.
+###
+Pregunta: ¿Qué características tiene Kakuna?
+Respuesta: Kakuna es la forma pupa de Weedle, endurece su caparazón para defenderse.
+###
+Pregunta: ¿Cómo es Zubat?
+Respuesta: Zubat es un murciélago que navega en la oscuridad usando ecolocalización.
+###
+Pregunta: Descríbeme a Vileplume.
+Respuesta: Vileplume tiene un gran pétalo que libera polen tóxico.
+###
+Pregunta: ¿Cómo es Nidoqueen?
+Respuesta: Nidoqueen es fuerte y protectora, defiende a su familia con fiereza.
+###
+Pregunta: Describe a Pikachu.
+Respuesta: Pikachu es un ratón eléctrico que almacena energía en sus mejillas.
+###
+Pregunta: Describe a Pidgeot.
+Respuesta: Pidgeot es un ave majestuosa que vuela a gran velocidad para cazar.
+###
+Pregunta: Dime cómo es Fearow.
+Respuesta: Fearow sobrevuela vastos territorios y ataca con su pico largo.
+###
+Pregunta: Dime cómo es Metapod.
+Respuesta: Metapod es la forma crisálida de Caterpie, permanece inmóvil para evolucionar.
+###
+Pregunta: ¿Cómo es Paras?
+Respuesta: Paras cultiva hongos en su espalda que usa para defenderse.
+###
+Pregunta: Dime cómo es Caterpie.
+Respuesta: Caterpie es una oruga verde que se esconde entre hojas para protegerse.
+###
+Pregunta: ¿Cómo es Arbok?
+Respuesta: Arbok intimida enemigos mostrando patrones aterradores en su cuello.
+###
+Pregunta: ¿Qué características tiene Nidorina?
+Respuesta: Nidorina cuida a sus crías y usa su veneno para protegerlas.
+###
+Pregunta: ¿Qué características tiene Nidoran♂?
+Respuesta: Nidoran♂ es ágil y usa sus afilados cuernos venenosos para atacar.
+###
+Pregunta: ¿Cómo es Charmeleon?
+Respuesta: Charmeleon es más agresivo, con una llama intensa que refleja su temperamento.
+###
+Pregunta: ¿Cómo es Sandshrew?
+Respuesta: Sandshrew se enrolla para protegerse y cava madrigueras subterráneas.
+###
+Pregunta: Dime cómo es Oddish.
+Respuesta: Oddish absorbe la luz lunar para crecer y esparcir semillas.
+###
+Pregunta: Dime cómo es Parasect.
+Respuesta: Parasect está completamente controlado por el hongo que lo habita.
+###
+Pregunta: Describe a Butterfree.
+Respuesta: Butterfree es una mariposa colorida que esparce polen paralizante para defenderse.
+###
+Pregunta: Describe a Nidorino.
+Respuesta: Nidorino es territorial y embiste enemigos con su cuerno tóxico.
+###
+Pregunta: Describe a Wartortle.
+Respuesta: Wartortle tiene orejas peludas y una cola esponjosa que simbolizan longevidad.
+###
+Pregunta: Describe a Ivysaur.
+Respuesta: Ivysaur es la evolución de Bulbasaur, su flor crece mientras almacena poder.
+###
+Pregunta: Describe a Sandslash.
+Respuesta: Sandslash usa sus púas y garras afiladas para defender su territorio.
+###
+Pregunta: Describe a Gloom.
+Respuesta: Gloom emite un aroma fétido para mantener alejados a los depredadores.
+###
+Pregunta: ¿Cómo es Ekans?
+Respuesta: Ekans es una serpiente sigilosa que se enrolla para atacar de sorpresa.
+###
+Pregunta: Dime cómo es Raichu.
+Respuesta: Raichu es la evolución de Pikachu y descarga potentes rayos cuando se enfurece.
+###
+Pregunta: Describe a Pidgeotto.
+Respuesta: Pidgeotto patrulla su territorio con precisión y gran agudeza visual.
+###
+Pregunta: ¿Cómo es Charmander?
+Respuesta: Charmander es un lagarto de fuego que usa su cola como fuente de calor.
+###
+Pregunta: ¿Qué características tiene Blastoise?
+Respuesta: Blastoise lleva cañones de agua en su caparazón para atacar con chorros a presión.
+###
+Pregunta: Descríbeme a Beedrill.
+Respuesta: Beedrill es una avispa veloz con aguijones dobles para atacar en enjambre.
+###
+Pregunta: ¿Cómo es Golbat?
+Respuesta: Golbat chupa sangre de sus presas para alimentarse durante la noche.
+###
+Pregunta: Describe a Wigglytuff.
+Respuesta: Wigglytuff tiene un cuerpo suave que se infla para intimidar rivales.
+###
+Pregunta: ¿Qué características tiene Clefable?
+Respuesta: Clefable es sigilosa y se mueve silenciosa para evitar ser vista.
+###
+Pregunta: ¿Qué características tiene Nidoking?
+Respuesta: Nidoking es enorme y usa su cola poderosa para aplastar a sus rivales.
+###
+Pregunta: ¿Cómo es Jigglypuff?
+Respuesta: Jigglypuff canta melodías que duermen a sus oponentes.
+###
+Pregunta: Dime cómo es Squirtle.
+Respuesta: Squirtle es una tortuga de agua que dispara potentes chorros para defenderse.
+###
+Pregunta: ¿Cómo es Venusaur?
+Respuesta: Venusaur es la forma final de Bulbasaur, con una gran flor que emite aromas calmantes.
+###
+Pregunta: Dime cómo es Ninetales.
+Respuesta: Ninetales es místico y puede vivir mil años, controla fuego a voluntad.
+###
+Pregunta: Dime cómo es Vulpix.
+Respuesta: Vulpix es un zorro de fuego con múltiples colas que se agitan al atacar.
+###
+Pregunta: Describe a Weedle.
+Respuesta: Weedle es un gusano con aguijón venenoso que vive entre la hierba.
+###
+Pregunta: ¿Qué características tiene Spearow?
+Respuesta: Spearow es un ave territorial que lanza ataques rápidos para defenderse.
+###
+Pregunta: Describe a Rattata.
+Respuesta: Rattata es un roedor veloz que se adapta a cualquier entorno urbano.
+###
+Pregunta: Dime cómo es Bulbasaur.
+Respuesta: Bulbasaur es un Pokémon planta/veneno que absorbe energía solar con su bulbo.
+###
+Pregunta: ¿Qué características tiene Clefairy?
+Respuesta: Clefairy es un Pokémon hada que danza bajo la luz de la luna.
+###
+Pregunta: ¿Cómo es Ninetales?
+Respuesta: Ninetales es místico y puede vivir mil años, controla fuego a voluntad.
+###
+Pregunta: ¿Cómo es Butterfree?
+Respuesta: Butterfree es una mariposa colorida que esparce polen paralizante para defenderse.
+###
+Pregunta: Descríbeme a Ekans.
+Respuesta: Ekans es una serpiente sigilosa que se enrolla para atacar de sorpresa.
+###
+Pregunta: ¿Cómo es Golbat?
+Respuesta: Golbat chupa sangre de sus presas para alimentarse durante la noche.
+###
+Pregunta: Descríbeme a Wigglytuff.
+Respuesta: Wigglytuff tiene un cuerpo suave que se infla para intimidar rivales.
+###
+Pregunta: Descríbeme a Clefairy.
+Respuesta: Clefairy es un Pokémon hada que danza bajo la luz de la luna.
+###
+Pregunta: ¿Qué características tiene Parasect?
+Respuesta: Parasect está completamente controlado por el hongo que lo habita.
+###
+Pregunta: Descríbeme a Charizard.
+Respuesta: Charizard es un dragón poderoso que puede lanzar llamaradas ardientes desde su boca.
+###
+Pregunta: Dime cómo es Caterpie.
+Respuesta: Caterpie es una oruga verde que se esconde entre hojas para protegerse.
+###
+Pregunta: Dime cómo es Metapod.
+Respuesta: Metapod es la forma crisálida de Caterpie, permanece inmóvil para evolucionar.
+###
+Pregunta: ¿Qué características tiene Pidgey?
+Respuesta: Pidgey es un ave pequeña que vuela bajo y se oculta en arbustos.
+###
+Pregunta: ¿Qué características tiene Rattata?
+Respuesta: Rattata es un roedor veloz que se adapta a cualquier entorno urbano.
+###
+Pregunta: ¿Cómo es Spearow?
+Respuesta: Spearow es un ave territorial que lanza ataques rápidos para defenderse.
+###
+Pregunta: ¿Qué características tiene Squirtle?
+Respuesta: Squirtle es una tortuga de agua que dispara potentes chorros para defenderse.
+###
+Pregunta: ¿Cómo es Weedle?
+Respuesta: Weedle es un gusano con aguijón venenoso que vive entre la hierba.
+###
+Pregunta: Describe a Nidoking.
+Respuesta: Nidoking es enorme y usa su cola poderosa para aplastar a sus rivales.
+###
+Pregunta: ¿Cómo es Wartortle?
+Respuesta: Wartortle tiene orejas peludas y una cola esponjosa que simbolizan longevidad.
+###
+Pregunta: Dime cómo es Kakuna.
+Respuesta: Kakuna es la forma pupa de Weedle, endurece su caparazón para defenderse.
+###
+Pregunta: ¿Qué características tiene Vileplume?
+Respuesta: Vileplume tiene un gran pétalo que libera polen tóxico.
+###
+Pregunta: Dime cómo es Sandslash.
+Respuesta: Sandslash usa sus púas y garras afiladas para defender su territorio.
+###
+Pregunta: Descríbeme a Venusaur.
+Respuesta: Venusaur es la forma final de Bulbasaur, con una gran flor que emite aromas calmantes.
+###
+Pregunta: Descríbeme a Nidoran♀.
+Respuesta: Nidoran♀ es pequeña pero tiene cuernos venenosos para atacar.
+###
+Pregunta: ¿Qué características tiene Oddish?
+Respuesta: Oddish absorbe la luz lunar para crecer y esparcir semillas.
+###
+Pregunta: ¿Cómo es Raticate?
+Respuesta: Raticate tiene colmillos afilados para roer cualquier material duro.
+###
+Pregunta: ¿Cómo es Nidoran♂?
+Respuesta: Nidoran♂ es ágil y usa sus afilados cuernos venenosos para atacar.
+###
+Pregunta: ¿Cómo es Nidorino?
+Respuesta: Nidorino es territorial y embiste enemigos con su cuerno tóxico.
+###
+Pregunta: ¿Cómo es Pidgeot?
+Respuesta: Pidgeot es un ave majestuosa que vuela a gran velocidad para cazar.
+###
+Pregunta: ¿Qué características tiene Charmeleon?
+Respuesta: Charmeleon es más agresivo, con una llama intensa que refleja su temperamento.
+###
+Pregunta: ¿Qué características tiene Bulbasaur?
+Respuesta: Bulbasaur es un Pokémon planta/veneno que absorbe energía solar con su bulbo.
+###
+Pregunta: Describe a Paras.
+Respuesta: Paras cultiva hongos en su espalda que usa para defenderse.
+###
+Pregunta: ¿Cómo es Vulpix?
+Respuesta: Vulpix es un zorro de fuego con múltiples colas que se agitan al atacar.
+###
+Pregunta: ¿Cómo es Clefable?
+Respuesta: Clefable es sigilosa y se mueve silenciosa para evitar ser vista.
+###
+Pregunta: ¿Qué características tiene Nidorina?
+Respuesta: Nidorina cuida a sus crías y usa su veneno para protegerlas.
+###
+Pregunta: ¿Cómo es Ivysaur?
+Respuesta: Ivysaur es la evolución de Bulbasaur, su flor crece mientras almacena poder.
+###
+Pregunta: ¿Qué características tiene Charmander?
+Respuesta: Charmander es un lagarto de fuego que usa su cola como fuente de calor.
+###
+Pregunta: Describe a Jigglypuff.
+Respuesta: Jigglypuff canta melodías que duermen a sus oponentes.
+###
+Pregunta: ¿Cómo es Blastoise?
+Respuesta: Blastoise lleva cañones de agua en su caparazón para atacar con chorros a presión.
+###
+Pregunta: ¿Qué características tiene Gloom?
+Respuesta: Gloom emite un aroma fétido para mantener alejados a los depredadores.
+###
+Pregunta: ¿Cómo es Pikachu?
+Respuesta: Pikachu es un ratón eléctrico que almacena energía en sus mejillas.
+###
+Pregunta: Describe a Raichu.
+Respuesta: Raichu es la evolución de Pikachu y descarga potentes rayos cuando se enfurece.
+###
+Pregunta: ¿Qué características tiene Sandshrew?
+Respuesta: Sandshrew se enrolla para protegerse y cava madrigueras subterráneas.
+###
+Pregunta: Dime cómo es Zubat.
+Respuesta: Zubat es un murciélago que navega en la oscuridad usando ecolocalización.
+###
+Pregunta: Descríbeme a Arbok.
+Respuesta: Arbok intimida enemigos mostrando patrones aterradores en su cuello.
+###
+Pregunta: ¿Cómo es Beedrill?
+Respuesta: Beedrill es una avispa veloz con aguijones dobles para atacar en enjambre.
+###
+Pregunta: Descríbeme a Fearow.
+Respuesta: Fearow sobrevuela vastos territorios y ataca con su pico largo.
+###
+Pregunta: Dime cómo es Nidoqueen.
+Respuesta: Nidoqueen es fuerte y protectora, defiende a su familia con fiereza.
+###
+Pregunta: ¿Cómo es Pidgeotto?
+Respuesta: Pidgeotto patrulla su territorio con precisión y gran agudeza visual.
+###
+Pregunta: ¿Qué características tiene Rattata?
+Respuesta: Rattata es un roedor veloz que se adapta a cualquier entorno urbano.
+###
+Pregunta: ¿Qué características tiene Bulbasaur?
+Respuesta: Bulbasaur es un Pokémon planta/veneno que absorbe energía solar con su bulbo.
+###
+Pregunta: ¿Cómo es Raticate?
+Respuesta: Raticate tiene colmillos afilados para roer cualquier material duro.
+###
+Pregunta: Dime cómo es Sandshrew.
+Respuesta: Sandshrew se enrolla para protegerse y cava madrigueras subterráneas.
+###
+Pregunta: Describe a Pidgeot.
+Respuesta: Pidgeot es un ave majestuosa que vuela a gran velocidad para cazar.
+###
+Pregunta: ¿Cómo es Arbok?
+Respuesta: Arbok intimida enemigos mostrando patrones aterradores en su cuello.
+###
+Pregunta: Descríbeme a Blastoise.
+Respuesta: Blastoise lleva cañones de agua en su caparazón para atacar con chorros a presión.
+###
+Pregunta: Describe a Sandslash.
+Respuesta: Sandslash usa sus púas y garras afiladas para defender su territorio.
+###
+Pregunta: ¿Cómo es Vileplume?
+Respuesta: Vileplume tiene un gran pétalo que libera polen tóxico.
+###
+Pregunta: ¿Qué características tiene Zubat?
+Respuesta: Zubat es un murciélago que navega en la oscuridad usando ecolocalización.
+###
+Pregunta: Dime cómo es Wartortle.
+Respuesta: Wartortle tiene orejas peludas y una cola esponjosa que simbolizan longevidad.
+###
+Pregunta: Descríbeme a Ninetales.
+Respuesta: Ninetales es místico y puede vivir mil años, controla fuego a voluntad.
+###
+Pregunta: ¿Qué características tiene Nidorino?
+Respuesta: Nidorino es territorial y embiste enemigos con su cuerno tóxico.
+###
+Pregunta: ¿Cómo es Metapod?
+Respuesta: Metapod es la forma crisálida de Caterpie, permanece inmóvil para evolucionar.
+###
+Pregunta: Descríbeme a Nidoqueen.
+Respuesta: Nidoqueen es fuerte y protectora, defiende a su familia con fiereza.
+###
+Pregunta: ¿Qué características tiene Clefairy?
+Respuesta: Clefairy es un Pokémon hada que danza bajo la luz de la luna.
+###
+Pregunta: ¿Cómo es Spearow?
+Respuesta: Spearow es un ave territorial que lanza ataques rápidos para defenderse.
+###
+Pregunta: Dime cómo es Charmeleon.
+Respuesta: Charmeleon es más agresivo, con una llama intensa que refleja su temperamento.
+###
+Pregunta: ¿Cómo es Nidoran♂?
+Respuesta: Nidoran♂ es ágil y usa sus afilados cuernos venenosos para atacar.
+###
+Pregunta: Descríbeme a Charizard.
+Respuesta: Charizard es un dragón poderoso que puede lanzar llamaradas ardientes desde su boca.
+###
+Pregunta: Dime cómo es Nidorina.
+Respuesta: Nidorina cuida a sus crías y usa su veneno para protegerlas.
+###
+Pregunta: ¿Qué características tiene Squirtle?
+Respuesta: Squirtle es una tortuga de agua que dispara potentes chorros para defenderse.
+###
+Pregunta: ¿Qué características tiene Pidgeotto?
+Respuesta: Pidgeotto patrulla su territorio con precisión y gran agudeza visual.
+###
+Pregunta: ¿Qué características tiene Raichu?
+Respuesta: Raichu es la evolución de Pikachu y descarga potentes rayos cuando se enfurece.
+###
+Pregunta: Describe a Pikachu.
+Respuesta: Pikachu es un ratón eléctrico que almacena energía en sus mejillas.
+###
+Pregunta: Dime cómo es Nidoran♀.
+Respuesta: Nidoran♀ es pequeña pero tiene cuernos venenosos para atacar.
+###
+Pregunta: ¿Qué características tiene Venusaur?
+Respuesta: Venusaur es la forma final de Bulbasaur, con una gran flor que emite aromas calmantes.
+###
+Pregunta: ¿Qué características tiene Pidgey?
+Respuesta: Pidgey es un ave pequeña que vuela bajo y se oculta en arbustos.
+###
+Pregunta: ¿Cómo es Wigglytuff?
+Respuesta: Wigglytuff tiene un cuerpo suave que se infla para intimidar rivales.
+###
+Pregunta: ¿Cómo es Parasect?
+Respuesta: Parasect está completamente controlado por el hongo que lo habita.
+###
+Pregunta: Dime cómo es Charmander.
+Respuesta: Charmander es un lagarto de fuego que usa su cola como fuente de calor.
+###
+Pregunta: Descríbeme a Jigglypuff.
+Respuesta: Jigglypuff canta melodías que duermen a sus oponentes.
+###
+Pregunta: Dime cómo es Butterfree.
+Respuesta: Butterfree es una mariposa colorida que esparce polen paralizante para defenderse.
+###
+Pregunta: Describe a Caterpie.
+Respuesta: Caterpie es una oruga verde que se esconde entre hojas para protegerse.
+###
+Pregunta: ¿Cómo es Nidoking?
+Respuesta: Nidoking es enorme y usa su cola poderosa para aplastar a sus rivales.
+###
+Pregunta: ¿Cómo es Paras?
+Respuesta: Paras cultiva hongos en su espalda que usa para defenderse.
+###
+Pregunta: Dime cómo es Gloom.
+Respuesta: Gloom emite un aroma fétido para mantener alejados a los depredadores.
+###
+Pregunta: ¿Qué características tiene Ivysaur?
+Respuesta: Ivysaur es la evolución de Bulbasaur, su flor crece mientras almacena poder.
+###
+Pregunta: Dime cómo es Golbat.
+Respuesta: Golbat chupa sangre de sus presas para alimentarse durante la noche.
+###
+Pregunta: ¿Qué características tiene Vulpix?
+Respuesta: Vulpix es un zorro de fuego con múltiples colas que se agitan al atacar.
+###
+Pregunta: Describe a Fearow.
+Respuesta: Fearow sobrevuela vastos territorios y ataca con su pico largo.
+###
+Pregunta: Describe a Clefable.
+Respuesta: Clefable es sigilosa y se mueve silenciosa para evitar ser vista.
+###
+Pregunta: ¿Qué características tiene Beedrill?
+Respuesta: Beedrill es una avispa veloz con aguijones dobles para atacar en enjambre.
+###
+Pregunta: Describe a Kakuna.
+Respuesta: Kakuna es la forma pupa de Weedle, endurece su caparazón para defenderse.
+###
+Pregunta: Describe a Ekans.
+Respuesta: Ekans es una serpiente sigilosa que se enrolla para atacar de sorpresa.
+###
+Pregunta: Dime cómo es Weedle.
+Respuesta: Weedle es un gusano con aguijón venenoso que vive entre la hierba.
+###
+Pregunta: ¿Qué características tiene Oddish?
+Respuesta: Oddish absorbe la luz lunar para crecer y esparcir semillas.
+###
+Pregunta: Descríbeme a Oddish.
+Respuesta: Oddish absorbe la luz lunar para crecer y esparcir semillas.
+###
+Pregunta: Dime cómo es Raticate.
+Respuesta: Raticate tiene colmillos afilados para roer cualquier material duro.
+###
+Pregunta: ¿Qué características tiene Gloom?
+Respuesta: Gloom emite un aroma fétido para mantener alejados a los depredadores.
+###
+Pregunta: ¿Qué características tiene Clefairy?
+Respuesta: Clefairy es un Pokémon hada que danza bajo la luz de la luna.
+###
+Pregunta: Dime cómo es Metapod.
+Respuesta: Metapod es la forma crisálida de Caterpie, permanece inmóvil para evolucionar.
+###
+Pregunta: ¿Cómo es Vileplume?
+Respuesta: Vileplume tiene un gran pétalo que libera polen tóxico.
+###
+Pregunta: ¿Qué características tiene Charizard?
+Respuesta: Charizard es un dragón poderoso que puede lanzar llamaradas ardientes desde su boca.
+###
+Pregunta: Describe a Raichu.
+Respuesta: Raichu es la evolución de Pikachu y descarga potentes rayos cuando se enfurece.
+###
+Pregunta: ¿Qué características tiene Nidoran♀?
+Respuesta: Nidoran♀ es pequeña pero tiene cuernos venenosos para atacar.
+###
+Pregunta: Describe a Spearow.
+Respuesta: Spearow es un ave territorial que lanza ataques rápidos para defenderse.
+###
+Pregunta: Dime cómo es Charmander.
+Respuesta: Charmander es un lagarto de fuego que usa su cola como fuente de calor.
+###
+Pregunta: Dime cómo es Ekans.
+Respuesta: Ekans es una serpiente sigilosa que se enrolla para atacar de sorpresa.
+###
+Pregunta: Descríbeme a Clefable.
+Respuesta: Clefable es sigilosa y se mueve silenciosa para evitar ser vista.
+###
+Pregunta: ¿Cómo es Jigglypuff?
+Respuesta: Jigglypuff canta melodías que duermen a sus oponentes.
+###
+Pregunta: ¿Cómo es Nidorino?
+Respuesta: Nidorino es territorial y embiste enemigos con su cuerno tóxico.
+###
+Pregunta: Describe a Sandslash.
+Respuesta: Sandslash usa sus púas y garras afiladas para defender su territorio.
+###
+Pregunta: Dime cómo es Vulpix.
+Respuesta: Vulpix es un zorro de fuego con múltiples colas que se agitan al atacar.
+###
+Pregunta: ¿Cómo es Zubat?
+Respuesta: Zubat es un murciélago que navega en la oscuridad usando ecolocalización.
+###
+Pregunta: ¿Cómo es Pikachu?
+Respuesta: Pikachu es un ratón eléctrico que almacena energía en sus mejillas.
+###
+Pregunta: Descríbeme a Nidoran♂.
+Respuesta: Nidoran♂ es ágil y usa sus afilados cuernos venenosos para atacar.
+###
+Pregunta: Describe a Ninetales.
+Respuesta: Ninetales es místico y puede vivir mil años, controla fuego a voluntad.
+###
+Pregunta: Describe a Bulbasaur.
+Respuesta: Bulbasaur es un Pokémon planta/veneno que absorbe energía solar con su bulbo.
+###
+Pregunta: ¿Cómo es Fearow?
+Respuesta: Fearow sobrevuela vastos territorios y ataca con su pico largo.
+###
+Pregunta: Descríbeme a Nidoking.
+Respuesta: Nidoking es enorme y usa su cola poderosa para aplastar a sus rivales.
+###
+Pregunta: ¿Cómo es Pidgeotto?
+Respuesta: Pidgeotto patrulla su territorio con precisión y gran agudeza visual.
+###
+Pregunta: Dime cómo es Venusaur.
+Respuesta: Venusaur es la forma final de Bulbasaur, con una gran flor que emite aromas calmantes.
+###
+Pregunta: Describe a Weedle.
+Respuesta: Weedle es un gusano con aguijón venenoso que vive entre la hierba.
+###
+Pregunta: ¿Qué características tiene Wigglytuff?
+Respuesta: Wigglytuff tiene un cuerpo suave que se infla para intimidar rivales.
+###
+Pregunta: ¿Qué características tiene Wartortle?
+Respuesta: Wartortle tiene orejas peludas y una cola esponjosa que simbolizan longevidad.
+###
+Pregunta: Descríbeme a Pidgeot.
+Respuesta: Pidgeot es un ave majestuosa que vuela a gran velocidad para cazar.
+###
+Pregunta: Dime cómo es Nidorina.
+Respuesta: Nidorina cuida a sus crías y usa su veneno para protegerlas.
+###
+Pregunta: ¿Cómo es Kakuna?
+Respuesta: Kakuna es la forma pupa de Weedle, endurece su caparazón para defenderse.
+###
+Pregunta: Dime cómo es Parasect.
+Respuesta: Parasect está completamente controlado por el hongo que lo habita.
+###
+Pregunta: ¿Cómo es Squirtle?
+Respuesta: Squirtle es una tortuga de agua que dispara potentes chorros para defenderse.
+###
+Pregunta: Describe a Arbok.
+Respuesta: Arbok intimida enemigos mostrando patrones aterradores en su cuello.
+###
+Pregunta: Dime cómo es Blastoise.
+Respuesta: Blastoise lleva cañones de agua en su caparazón para atacar con chorros a presión.
+###
+Pregunta: ¿Qué características tiene Charmeleon?
+Respuesta: Charmeleon es más agresivo, con una llama intensa que refleja su temperamento.
+###
+Pregunta: Describe a Caterpie.
+Respuesta: Caterpie es una oruga verde que se esconde entre hojas para protegerse.
+###
+Pregunta: ¿Cómo es Paras?
+Respuesta: Paras cultiva hongos en su espalda que usa para defenderse.
+###
+Pregunta: ¿Cómo es Nidoqueen?
+Respuesta: Nidoqueen es fuerte y protectora, defiende a su familia con fiereza.
+###
+Pregunta: Describe a Ivysaur.
+Respuesta: Ivysaur es la evolución de Bulbasaur, su flor crece mientras almacena poder.
+###
+Pregunta: Descríbeme a Rattata.
+Respuesta: Rattata es un roedor veloz que se adapta a cualquier entorno urbano.
+###
+Pregunta: Describe a Golbat.
+Respuesta: Golbat chupa sangre de sus presas para alimentarse durante la noche.
+###
+Pregunta: ¿Qué características tiene Beedrill?
+Respuesta: Beedrill es una avispa veloz con aguijones dobles para atacar en enjambre.
+###
+Pregunta: ¿Qué características tiene Sandshrew?
+Respuesta: Sandshrew se enrolla para protegerse y cava madrigueras subterráneas.
+###
+Pregunta: ¿Qué características tiene Pidgey?
+Respuesta: Pidgey es un ave pequeña que vuela bajo y se oculta en arbustos.
+###
+Pregunta: ¿Qué características tiene Butterfree?
+Respuesta: Butterfree es una mariposa colorida que esparce polen paralizante para defenderse.
+###
+Pregunta: ¿Cómo es Ekans?
+Respuesta: Ekans es una serpiente sigilosa que se enrolla para atacar de sorpresa.
+###
+Pregunta: ¿Qué características tiene Parasect?
+Respuesta: Parasect está completamente controlado por el hongo que lo habita.
+###
+Pregunta: ¿Qué características tiene Blastoise?
+Respuesta: Blastoise lleva cañones de agua en su caparazón para atacar con chorros a presión.
+###
+Pregunta: Dime cómo es Pidgey.
+Respuesta: Pidgey es un ave pequeña que vuela bajo y se oculta en arbustos.
+###
+Pregunta: ¿Qué características tiene Nidorina?
+Respuesta: Nidorina cuida a sus crías y usa su veneno para protegerlas.
+###
+Pregunta: Descríbeme a Venusaur.
+Respuesta: Venusaur es la forma final de Bulbasaur, con una gran flor que emite aromas calmantes.
+###
+Pregunta: ¿Cómo es Sandslash?
+Respuesta: Sandslash usa sus púas y garras afiladas para defender su territorio.
+###
+Pregunta: Dime cómo es Ninetales.
+Respuesta: Ninetales es místico y puede vivir mil años, controla fuego a voluntad.
+###
+Pregunta: ¿Qué características tiene Raichu?
+Respuesta: Raichu es la evolución de Pikachu y descarga potentes rayos cuando se enfurece.
+###
+Pregunta: Describe a Sandshrew.
+Respuesta: Sandshrew se enrolla para protegerse y cava madrigueras subterráneas.
+###
+Pregunta: Dime cómo es Metapod.
+Respuesta: Metapod es la forma crisálida de Caterpie, permanece inmóvil para evolucionar.
+###
+Pregunta: ¿Qué características tiene Vulpix?
+Respuesta: Vulpix es un zorro de fuego con múltiples colas que se agitan al atacar.
+###
+Pregunta: Descríbeme a Kakuna.
+Respuesta: Kakuna es la forma pupa de Weedle, endurece su caparazón para defenderse.
+###
+Pregunta: ¿Qué características tiene Nidoking?
+Respuesta: Nidoking es enorme y usa su cola poderosa para aplastar a sus rivales.
+###
+Pregunta: ¿Qué características tiene Clefable?
+Respuesta: Clefable es sigilosa y se mueve silenciosa para evitar ser vista.
+###
+Pregunta: Dime cómo es Spearow.
+Respuesta: Spearow es un ave territorial que lanza ataques rápidos para defenderse.
+###
+Pregunta: ¿Qué características tiene Caterpie?
+Respuesta: Caterpie es una oruga verde que se esconde entre hojas para protegerse.
+###
+Pregunta: Dime cómo es Wigglytuff.
+Respuesta: Wigglytuff tiene un cuerpo suave que se infla para intimidar rivales.
+###
+Pregunta: Descríbeme a Bulbasaur.
+Respuesta: Bulbasaur es un Pokémon planta/veneno que absorbe energía solar con su bulbo.
+###
+Pregunta: ¿Qué características tiene Golbat?
+Respuesta: Golbat chupa sangre de sus presas para alimentarse durante la noche.
+###
+Pregunta: Describe a Fearow.
+Respuesta: Fearow sobrevuela vastos territorios y ataca con su pico largo.
+###
+Pregunta: ¿Cómo es Clefairy?
+Respuesta: Clefairy es un Pokémon hada que danza bajo la luz de la luna.
+###
+Pregunta: Dime cómo es Pidgeotto.
+Respuesta: Pidgeotto patrulla su territorio con precisión y gran agudeza visual.
+###
+Pregunta: Descríbeme a Nidorino.
+Respuesta: Nidorino es territorial y embiste enemigos con su cuerno tóxico.
+###
+Pregunta: ¿Cómo es Arbok?
+Respuesta: Arbok intimida enemigos mostrando patrones aterradores en su cuello.
+###
+Pregunta: ¿Qué características tiene Raticate?
+Respuesta: Raticate tiene colmillos afilados para roer cualquier material duro.
+###
+Pregunta: ¿Cómo es Squirtle?
+Respuesta: Squirtle es una tortuga de agua que dispara potentes chorros para defenderse.
+###
+Pregunta: Describe a Nidoran♂.
+Respuesta: Nidoran♂ es ágil y usa sus afilados cuernos venenosos para atacar.
+###
+Pregunta: ¿Qué características tiene Pikachu?
+Respuesta: Pikachu es un ratón eléctrico que almacena energía en sus mejillas.
+###
+Pregunta: ¿Cómo es Charmeleon?
+Respuesta: Charmeleon es más agresivo, con una llama intensa que refleja su temperamento.
+###
+Pregunta: Dime cómo es Ivysaur.
+Respuesta: Ivysaur es la evolución de Bulbasaur, su flor crece mientras almacena poder.
+###
+Pregunta: Describe a Jigglypuff.
+Respuesta: Jigglypuff canta melodías que duermen a sus oponentes.
+###
+Pregunta: Describe a Charizard.
+Respuesta: Charizard es un dragón poderoso que puede lanzar llamaradas ardientes desde su boca.
+###
+Pregunta: Dime cómo es Butterfree.
+Respuesta: Butterfree es una mariposa colorida que esparce polen paralizante para defenderse.
+###
+Pregunta: ¿Qué características tiene Wartortle?
+Respuesta: Wartortle tiene orejas peludas y una cola esponjosa que simbolizan longevidad.
+###
+Pregunta: ¿Qué características tiene Pidgeot?
+Respuesta: Pidgeot es un ave majestuosa que vuela a gran velocidad para cazar.
+###
+Pregunta: Dime cómo es Beedrill.
+Respuesta: Beedrill es una avispa veloz con aguijones dobles para atacar en enjambre.
+###
+Pregunta: ¿Qué características tiene Charmander?
+Respuesta: Charmander es un lagarto de fuego que usa su cola como fuente de calor.
+###
+Pregunta: Descríbeme a Nidoran♀.
+Respuesta: Nidoran♀ es pequeña pero tiene cuernos venenosos para atacar.
+###
+Pregunta: ¿Qué características tiene Zubat?
+Respuesta: Zubat es un murciélago que navega en la oscuridad usando ecolocalización.
+###
+Pregunta: Descríbeme a Gloom.
+Respuesta: Gloom emite un aroma fétido para mantener alejados a los depredadores.
+###
+Pregunta: Dime cómo es Vileplume.
+Respuesta: Vileplume tiene un gran pétalo que libera polen tóxico.
+###
+Pregunta: Describe a Oddish.
+Respuesta: Oddish absorbe la luz lunar para crecer y esparcir semillas.
+###
+Pregunta: Descríbeme a Weedle.
+Respuesta: Weedle es un gusano con aguijón venenoso que vive entre la hierba.
+###
+Pregunta: Describe a Nidoqueen.
+Respuesta: Nidoqueen es fuerte y protectora, defiende a su familia con fiereza.
+###
+Pregunta: Descríbeme a Paras.
+Respuesta: Paras cultiva hongos en su espalda que usa para defenderse.
+###
+Pregunta: Descríbeme a Rattata.
+Respuesta: Rattata es un roedor veloz que se adapta a cualquier entorno urbano.
+###
+Pregunta: Descríbeme a Kakuna.
+Respuesta: Kakuna es la forma pupa de Weedle, endurece su caparazón para defenderse.
+###
+Pregunta: Descríbeme a Paras.
+Respuesta: Paras cultiva hongos en su espalda que usa para defenderse.
+###
+Pregunta: Descríbeme a Beedrill.
+Respuesta: Beedrill es una avispa veloz con aguijones dobles para atacar en enjambre.
+###
+Pregunta: ¿Qué características tiene Butterfree?
+Respuesta: Butterfree es una mariposa colorida que esparce polen paralizante para defenderse.
+###
+Pregunta: ¿Qué características tiene Jigglypuff?
+Respuesta: Jigglypuff canta melodías que duermen a sus oponentes.
+###
+Pregunta: ¿Qué características tiene Nidorino?
+Respuesta: Nidorino es territorial y embiste enemigos con su cuerno tóxico.
+###
+Pregunta: ¿Qué características tiene Clefable?
+Respuesta: Clefable es sigilosa y se mueve silenciosa para evitar ser vista.
+###
+Pregunta: ¿Qué características tiene Golbat?
+Respuesta: Golbat chupa sangre de sus presas para alimentarse durante la noche.
+###
+Pregunta: ¿Qué características tiene Nidorina?
+Respuesta: Nidorina cuida a sus crías y usa su veneno para protegerlas.
+###
+Pregunta: Descríbeme a Parasect.
+Respuesta: Parasect está completamente controlado por el hongo que lo habita.
+###
+Pregunta: Dime cómo es Sandslash.
+Respuesta: Sandslash usa sus púas y garras afiladas para defender su territorio.
+###
+Pregunta: ¿Cómo es Venusaur?
+Respuesta: Venusaur es la forma final de Bulbasaur, con una gran flor que emite aromas calmantes.
+###
+Pregunta: Dime cómo es Wigglytuff.
+Respuesta: Wigglytuff tiene un cuerpo suave que se infla para intimidar rivales.
+###
+Pregunta: Dime cómo es Metapod.
+Respuesta: Metapod es la forma crisálida de Caterpie, permanece inmóvil para evolucionar.
+###
+Pregunta: ¿Cómo es Pidgeotto?
+Respuesta: Pidgeotto patrulla su territorio con precisión y gran agudeza visual.
+###
+Pregunta: ¿Cómo es Squirtle?
+Respuesta: Squirtle es una tortuga de agua que dispara potentes chorros para defenderse.
+###
+Pregunta: ¿Qué características tiene Weedle?
+Respuesta: Weedle es un gusano con aguijón venenoso que vive entre la hierba.
+###
+Pregunta: ¿Qué características tiene Nidoqueen?
+Respuesta: Nidoqueen es fuerte y protectora, defiende a su familia con fiereza.
+###
+Pregunta: Dime cómo es Vulpix.
+Respuesta: Vulpix es un zorro de fuego con múltiples colas que se agitan al atacar.
+###
+Pregunta: ¿Qué características tiene Charizard?
+Respuesta: Charizard es un dragón poderoso que puede lanzar llamaradas ardientes desde su boca.
+###
+Pregunta: Dime cómo es Raticate.
+Respuesta: Raticate tiene colmillos afilados para roer cualquier material duro.
+###
+Pregunta: ¿Qué características tiene Raichu?
+Respuesta: Raichu es la evolución de Pikachu y descarga potentes rayos cuando se enfurece.
+###
+Pregunta: Descríbeme a Spearow.
+Respuesta: Spearow es un ave territorial que lanza ataques rápidos para defenderse.
+###
+Pregunta: Descríbeme a Arbok.
+Respuesta: Arbok intimida enemigos mostrando patrones aterradores en su cuello.
+###
+Pregunta: Describe a Ninetales.
+Respuesta: Ninetales es místico y puede vivir mil años, controla fuego a voluntad.
+###
+Pregunta: ¿Qué características tiene Nidoking?
+Respuesta: Nidoking es enorme y usa su cola poderosa para aplastar a sus rivales.
+###
+Pregunta: ¿Cómo es Blastoise?
+Respuesta: Blastoise lleva cañones de agua en su caparazón para atacar con chorros a presión.
+###
+Pregunta: Descríbeme a Gloom.
+Respuesta: Gloom emite un aroma fétido para mantener alejados a los depredadores.
+###
+Pregunta: Dime cómo es Pidgey.
+Respuesta: Pidgey es un ave pequeña que vuela bajo y se oculta en arbustos.
+###
+Pregunta: Dime cómo es Rattata.
+Respuesta: Rattata es un roedor veloz que se adapta a cualquier entorno urbano.
+###
+Pregunta: Dime cómo es Nidoran♀.
+Respuesta: Nidoran♀ es pequeña pero tiene cuernos venenosos para atacar.
+###
+Pregunta: Describe a Oddish.
+Respuesta: Oddish absorbe la luz lunar para crecer y esparcir semillas.
+###
+Pregunta: ¿Cómo es Pidgeot?
+Respuesta: Pidgeot es un ave majestuosa que vuela a gran velocidad para cazar.
+###
+Pregunta: Dime cómo es Ekans.
+Respuesta: Ekans es una serpiente sigilosa que se enrolla para atacar de sorpresa.
+###
+Pregunta: Descríbeme a Zubat.
+Respuesta: Zubat es un murciélago que navega en la oscuridad usando ecolocalización.
+###
+Pregunta: ¿Cómo es Vileplume?
+Respuesta: Vileplume tiene un gran pétalo que libera polen tóxico.
+###
+Pregunta: Describe a Sandshrew.
+Respuesta: Sandshrew se enrolla para protegerse y cava madrigueras subterráneas.
+###
+Pregunta: ¿Qué características tiene Nidoran♂?
+Respuesta: Nidoran♂ es ágil y usa sus afilados cuernos venenosos para atacar.
+###
+Pregunta: ¿Qué características tiene Ivysaur?
+Respuesta: Ivysaur es la evolución de Bulbasaur, su flor crece mientras almacena poder.
+###
+Pregunta: Descríbeme a Clefairy.
+Respuesta: Clefairy es un Pokémon hada que danza bajo la luz de la luna.
+###
+Pregunta: Dime cómo es Caterpie.
+Respuesta: Caterpie es una oruga verde que se esconde entre hojas para protegerse.
+###
+Pregunta: ¿Cómo es Pikachu?
+Respuesta: Pikachu es un ratón eléctrico que almacena energía en sus mejillas.
+###
+Pregunta: Dime cómo es Charmander.
+Respuesta: Charmander es un lagarto de fuego que usa su cola como fuente de calor.
+###
+Pregunta: Descríbeme a Charmeleon.
+Respuesta: Charmeleon es más agresivo, con una llama intensa que refleja su temperamento.
+###
+Pregunta: ¿Qué características tiene Wartortle?
+Respuesta: Wartortle tiene orejas peludas y una cola esponjosa que simbolizan longevidad.
+###
+Pregunta: Dime cómo es Fearow.
+Respuesta: Fearow sobrevuela vastos territorios y ataca con su pico largo.
+###
+Pregunta: Dime cómo es Bulbasaur.
+Respuesta: Bulbasaur es un Pokémon planta/veneno que absorbe energía solar con su bulbo.
+###
+Pregunta: ¿Qué características tiene Jigglypuff?
+Respuesta: Jigglypuff canta melodías que duermen a sus oponentes.
+###
+Pregunta: Describe a Spearow.
+Respuesta: Spearow es un ave territorial que lanza ataques rápidos para defenderse.
+###
+Pregunta: Dime cómo es Clefable.
+Respuesta: Clefable es sigilosa y se mueve silenciosa para evitar ser vista.
+###
+Pregunta: Descríbeme a Nidoking.
+Respuesta: Nidoking es enorme y usa su cola poderosa para aplastar a sus rivales.
+###
+Pregunta: ¿Cómo es Weedle?
+Respuesta: Weedle es un gusano con aguijón venenoso que vive entre la hierba.
+###
+Pregunta: ¿Cómo es Ninetales?
+Respuesta: Ninetales es místico y puede vivir mil años, controla fuego a voluntad.
+###
+Pregunta: Descríbeme a Nidorina.
+Respuesta: Nidorina cuida a sus crías y usa su veneno para protegerlas.
+###
+Pregunta: ¿Qué características tiene Wartortle?
+Respuesta: Wartortle tiene orejas peludas y una cola esponjosa que simbolizan longevidad.
+###
+Pregunta: ¿Qué características tiene Pidgey?
+Respuesta: Pidgey es un ave pequeña que vuela bajo y se oculta en arbustos.
+###
+Pregunta: Dime cómo es Charmeleon.
+Respuesta: Charmeleon es más agresivo, con una llama intensa que refleja su temperamento.
+###
+Pregunta: Describe a Charmander.
+Respuesta: Charmander es un lagarto de fuego que usa su cola como fuente de calor.
+###
+Pregunta: ¿Cómo es Rattata?
+Respuesta: Rattata es un roedor veloz que se adapta a cualquier entorno urbano.
+###
+Pregunta: Descríbeme a Wigglytuff.
+Respuesta: Wigglytuff tiene un cuerpo suave que se infla para intimidar rivales.
+###
+Pregunta: Describe a Pidgeot.
+Respuesta: Pidgeot es un ave majestuosa que vuela a gran velocidad para cazar.
+###
+Pregunta: Describe a Zubat.
+Respuesta: Zubat es un murciélago que navega en la oscuridad usando ecolocalización.
+###
+Pregunta: ¿Qué características tiene Pidgeotto?
+Respuesta: Pidgeotto patrulla su territorio con precisión y gran agudeza visual.
+###
+Pregunta: Descríbeme a Parasect.
+Respuesta: Parasect está completamente controlado por el hongo que lo habita.
+###
+Pregunta: Descríbeme a Venusaur.
+Respuesta: Venusaur es la forma final de Bulbasaur, con una gran flor que emite aromas calmantes.
+###
+Pregunta: Describe a Oddish.
+Respuesta: Oddish absorbe la luz lunar para crecer y esparcir semillas.
+###
+Pregunta: ¿Qué características tiene Butterfree?
+Respuesta: Butterfree es una mariposa colorida que esparce polen paralizante para defenderse.
+###
+Pregunta: ¿Cómo es Paras?
+Respuesta: Paras cultiva hongos en su espalda que usa para defenderse.
+###
+Pregunta: ¿Qué características tiene Vileplume?
+Respuesta: Vileplume tiene un gran pétalo que libera polen tóxico.
+###
+Pregunta: Dime cómo es Vulpix.
+Respuesta: Vulpix es un zorro de fuego con múltiples colas que se agitan al atacar.
+###
+Pregunta: ¿Qué características tiene Pikachu?
+Respuesta: Pikachu es un ratón eléctrico que almacena energía en sus mejillas.
+###
+Pregunta: ¿Qué características tiene Nidoran♂?
+Respuesta: Nidoran♂ es ágil y usa sus afilados cuernos venenosos para atacar.
+###
+Pregunta: ¿Cómo es Kakuna?
+Respuesta: Kakuna es la forma pupa de Weedle, endurece su caparazón para defenderse.
+###
+Pregunta: Describe a Nidorino.
+Respuesta: Nidorino es territorial y embiste enemigos con su cuerno tóxico.
+###
+Pregunta: ¿Cómo es Beedrill?
+Respuesta: Beedrill es una avispa veloz con aguijones dobles para atacar en enjambre.
+###
+Pregunta: Dime cómo es Nidoqueen.
+Respuesta: Nidoqueen es fuerte y protectora, defiende a su familia con fiereza.
+###
+Pregunta: Descríbeme a Nidoran♀.
+Respuesta: Nidoran♀ es pequeña pero tiene cuernos venenosos para atacar.
+###
+Pregunta: ¿Qué características tiene Caterpie?
+Respuesta: Caterpie es una oruga verde que se esconde entre hojas para protegerse.
+###
+Pregunta: Descríbeme a Fearow.
+Respuesta: Fearow sobrevuela vastos territorios y ataca con su pico largo.
+###
+Pregunta: ¿Cómo es Clefairy?
+Respuesta: Clefairy es un Pokémon hada que danza bajo la luz de la luna.
+###
+Pregunta: Descríbeme a Blastoise.
+Respuesta: Blastoise lleva cañones de agua en su caparazón para atacar con chorros a presión.
+###
+Pregunta: ¿Cómo es Ivysaur?
+Respuesta: Ivysaur es la evolución de Bulbasaur, su flor crece mientras almacena poder.
+###
+Pregunta: ¿Cómo es Charizard?
+Respuesta: Charizard es un dragón poderoso que puede lanzar llamaradas ardientes desde su boca.
+###
+Pregunta: Dime cómo es Sandshrew.
+Respuesta: Sandshrew se enrolla para protegerse y cava madrigueras subterráneas.
+###
+Pregunta: ¿Qué características tiene Metapod?
+Respuesta: Metapod es la forma crisálida de Caterpie, permanece inmóvil para evolucionar.
+###
+Pregunta: Dime cómo es Golbat.
+Respuesta: Golbat chupa sangre de sus presas para alimentarse durante la noche.
+###
+Pregunta: Dime cómo es Raichu.
+Respuesta: Raichu es la evolución de Pikachu y descarga potentes rayos cuando se enfurece.
+###
+Pregunta: Descríbeme a Arbok.
+Respuesta: Arbok intimida enemigos mostrando patrones aterradores en su cuello.
+###
+Pregunta: Describe a Squirtle.
+Respuesta: Squirtle es una tortuga de agua que dispara potentes chorros para defenderse.
+###
+Pregunta: Describe a Gloom.
+Respuesta: Gloom emite un aroma fétido para mantener alejados a los depredadores.
+###
+Pregunta: Descríbeme a Bulbasaur.
+Respuesta: Bulbasaur es un Pokémon planta/veneno que absorbe energía solar con su bulbo.
+###
+Pregunta: Dime cómo es Ekans.
+Respuesta: Ekans es una serpiente sigilosa que se enrolla para atacar de sorpresa.
+###
+Pregunta: ¿Cómo es Sandslash?
+Respuesta: Sandslash usa sus púas y garras afiladas para defender su territorio.
+###
+Pregunta: Dime cómo es Raticate.
+Respuesta: Raticate tiene colmillos afilados para roer cualquier material duro.
+###
+Pregunta: ¿Qué características tiene Golbat?
+Respuesta: Golbat chupa sangre de sus presas para alimentarse durante la noche.
+###
+Pregunta: Dime cómo es Raichu.
+Respuesta: Raichu es la evolución de Pikachu y descarga potentes rayos cuando se enfurece.
+###
+Pregunta: Describe a Weedle.
+Respuesta: Weedle es un gusano con aguijón venenoso que vive entre la hierba.
+###
+Pregunta: ¿Cómo es Metapod?
+Respuesta: Metapod es la forma crisálida de Caterpie, permanece inmóvil para evolucionar.
+###
+Pregunta: Describe a Pidgey.
+Respuesta: Pidgey es un ave pequeña que vuela bajo y se oculta en arbustos.
+###
+Pregunta: Descríbeme a Vileplume.
+Respuesta: Vileplume tiene un gran pétalo que libera polen tóxico.
+###
+Pregunta: Descríbeme a Wartortle.
+Respuesta: Wartortle tiene orejas peludas y una cola esponjosa que simbolizan longevidad.
+###
+Pregunta: Dime cómo es Sandslash.
+Respuesta: Sandslash usa sus púas y garras afiladas para defender su territorio.
+###
+Pregunta: Describe a Pikachu.
+Respuesta: Pikachu es un ratón eléctrico que almacena energía en sus mejillas.
+###
+Pregunta: Describe a Arbok.
+Respuesta: Arbok intimida enemigos mostrando patrones aterradores en su cuello.
+###
+Pregunta: Descríbeme a Nidoking.
+Respuesta: Nidoking es enorme y usa su cola poderosa para aplastar a sus rivales.
+###
+Pregunta: Dime cómo es Sandshrew.
+Respuesta: Sandshrew se enrolla para protegerse y cava madrigueras subterráneas.
+###
+Pregunta: Describe a Oddish.
+Respuesta: Oddish absorbe la luz lunar para crecer y esparcir semillas.
+###
+Pregunta: Dime cómo es Pidgeot.
+Respuesta: Pidgeot es un ave majestuosa que vuela a gran velocidad para cazar.
+###
+Pregunta: ¿Qué características tiene Zubat?
+Respuesta: Zubat es un murciélago que navega en la oscuridad usando ecolocalización.
+###
+Pregunta: Descríbeme a Jigglypuff.
+Respuesta: Jigglypuff canta melodías que duermen a sus oponentes.
+###
+Pregunta: Describe a Rattata.
+Respuesta: Rattata es un roedor veloz que se adapta a cualquier entorno urbano.
+###
+Pregunta: ¿Cómo es Nidoqueen?
+Respuesta: Nidoqueen es fuerte y protectora, defiende a su familia con fiereza.
+###
+Pregunta: ¿Cómo es Spearow?
+Respuesta: Spearow es un ave territorial que lanza ataques rápidos para defenderse.
+###
+Pregunta: ¿Qué características tiene Parasect?
+Respuesta: Parasect está completamente controlado por el hongo que lo habita.
+###
+Pregunta: Describe a Ekans.
+Respuesta: Ekans es una serpiente sigilosa que se enrolla para atacar de sorpresa.
+###
+Pregunta: ¿Qué características tiene Charmeleon?
+Respuesta: Charmeleon es más agresivo, con una llama intensa que refleja su temperamento.
+###
+Pregunta: ¿Cómo es Bulbasaur?
+Respuesta: Bulbasaur es un Pokémon planta/veneno que absorbe energía solar con su bulbo.
+###
+Pregunta: Dime cómo es Nidoran♂.
+Respuesta: Nidoran♂ es ágil y usa sus afilados cuernos venenosos para atacar.
+###
+Pregunta: ¿Cómo es Venusaur?
+Respuesta: Venusaur es la forma final de Bulbasaur, con una gran flor que emite aromas calmantes.
+###
+Pregunta: Descríbeme a Caterpie.
+Respuesta: Caterpie es una oruga verde que se esconde entre hojas para protegerse.
+###
+Pregunta: Describe a Butterfree.
+Respuesta: Butterfree es una mariposa colorida que esparce polen paralizante para defenderse.
+###
+Pregunta: ¿Cómo es Beedrill?
+Respuesta: Beedrill es una avispa veloz con aguijones dobles para atacar en enjambre.
+###
+Pregunta: Dime cómo es Blastoise.
+Respuesta: Blastoise lleva cañones de agua en su caparazón para atacar con chorros a presión.
+###
+Pregunta: Dime cómo es Ivysaur.
+Respuesta: Ivysaur es la evolución de Bulbasaur, su flor crece mientras almacena poder.
+###
+Pregunta: Describe a Fearow.
+Respuesta: Fearow sobrevuela vastos territorios y ataca con su pico largo.
+###
+Pregunta: Dime cómo es Charizard.
+Respuesta: Charizard es un dragón poderoso que puede lanzar llamaradas ardientes desde su boca.
+###
+Pregunta: Dime cómo es Paras.
+Respuesta: Paras cultiva hongos en su espalda que usa para defenderse.
+###
+Pregunta: ¿Qué características tiene Wigglytuff?
+Respuesta: Wigglytuff tiene un cuerpo suave que se infla para intimidar rivales.
+###
+Pregunta: ¿Cómo es Clefairy?
+Respuesta: Clefairy es un Pokémon hada que danza bajo la luz de la luna.
+###
+Pregunta: Descríbeme a Nidorino.
+Respuesta: Nidorino es territorial y embiste enemigos con su cuerno tóxico.
+###
+Pregunta: Descríbeme a Squirtle.
+Respuesta: Squirtle es una tortuga de agua que dispara potentes chorros para defenderse.
+###
+Pregunta: ¿Qué características tiene Kakuna?
+Respuesta: Kakuna es la forma pupa de Weedle, endurece su caparazón para defenderse.
+###
+Pregunta: Describe a Nidoran♀.
+Respuesta: Nidoran♀ es pequeña pero tiene cuernos venenosos para atacar.
+###
+Pregunta: Dime cómo es Pidgeotto.
+Respuesta: Pidgeotto patrulla su territorio con precisión y gran agudeza visual.
+###
+Pregunta: Describe a Vulpix.
+Respuesta: Vulpix es un zorro de fuego con múltiples colas que se agitan al atacar.
+###
+Pregunta: ¿Qué características tiene Ninetales?
+Respuesta: Ninetales es místico y puede vivir mil años, controla fuego a voluntad.
+###
+Pregunta: Descríbeme a Gloom.
+Respuesta: Gloom emite un aroma fétido para mantener alejados a los depredadores.
+###
+Pregunta: ¿Qué características tiene Clefable?
+Respuesta: Clefable es sigilosa y se mueve silenciosa para evitar ser vista.
+###
+Pregunta: ¿Cómo es Nidorina?
+Respuesta: Nidorina cuida a sus crías y usa su veneno para protegerlas.
+###
+Pregunta: Dime cómo es Charmander.
+Respuesta: Charmander es un lagarto de fuego que usa su cola como fuente de calor.
+###
+Pregunta: Descríbeme a Raticate.
+Respuesta: Raticate tiene colmillos afilados para roer cualquier material duro.
+###
+Pregunta: Describe a Squirtle.
+Respuesta: Squirtle es una tortuga de agua que dispara potentes chorros para defenderse.
+###
+Pregunta: ¿Qué características tiene Nidorino?
+Respuesta: Nidorino es territorial y embiste enemigos con su cuerno tóxico.
+###
+Pregunta: Dime cómo es Rattata.
+Respuesta: Rattata es un roedor veloz que se adapta a cualquier entorno urbano.
+###
+Pregunta: Describe a Raticate.
+Respuesta: Raticate tiene colmillos afilados para roer cualquier material duro.
+###
+Pregunta: ¿Qué características tiene Nidoran♀?
+Respuesta: Nidoran♀ es pequeña pero tiene cuernos venenosos para atacar.
+###
+Pregunta: Descríbeme a Wigglytuff.
+Respuesta: Wigglytuff tiene un cuerpo suave que se infla para intimidar rivales.
+###
+Pregunta: Descríbeme a Charmander.
+Respuesta: Charmander es un lagarto de fuego que usa su cola como fuente de calor.
+###
+Pregunta: ¿Cómo es Pidgey?
+Respuesta: Pidgey es un ave pequeña que vuela bajo y se oculta en arbustos.
+###
+Pregunta: ¿Qué características tiene Golbat?
+Respuesta: Golbat chupa sangre de sus presas para alimentarse durante la noche.
+###
+Pregunta: ¿Cómo es Parasect?
+Respuesta: Parasect está completamente controlado por el hongo que lo habita.
+###
+Pregunta: Describe a Spearow.
+Respuesta: Spearow es un ave territorial que lanza ataques rápidos para defenderse.
+###
+Pregunta: ¿Qué características tiene Blastoise?
+Respuesta: Blastoise lleva cañones de agua en su caparazón para atacar con chorros a presión.
+###
+Pregunta: Dime cómo es Pidgeot.
+Respuesta: Pidgeot es un ave majestuosa que vuela a gran velocidad para cazar.
+###
+Pregunta: ¿Cómo es Charmeleon?
+Respuesta: Charmeleon es más agresivo, con una llama intensa que refleja su temperamento.
+###
+Pregunta: Describe a Gloom.
+Respuesta: Gloom emite un aroma fétido para mantener alejados a los depredadores.
+###
+Pregunta: ¿Cómo es Vileplume?
+Respuesta: Vileplume tiene un gran pétalo que libera polen tóxico.
+###
+Pregunta: Describe a Zubat.
+Respuesta: Zubat es un murciélago que navega en la oscuridad usando ecolocalización.
+###
+Pregunta: Descríbeme a Venusaur.
+Respuesta: Venusaur es la forma final de Bulbasaur, con una gran flor que emite aromas calmantes.
+###
+Pregunta: Describe a Fearow.
+Respuesta: Fearow sobrevuela vastos territorios y ataca con su pico largo.
+###
+Pregunta: ¿Cómo es Oddish?
+Respuesta: Oddish absorbe la luz lunar para crecer y esparcir semillas.
+###
+Pregunta: ¿Cómo es Sandshrew?
+Respuesta: Sandshrew se enrolla para protegerse y cava madrigueras subterráneas.
+###
+Pregunta: ¿Qué características tiene Sandslash?
+Respuesta: Sandslash usa sus púas y garras afiladas para defender su territorio.
+###
+Pregunta: ¿Qué características tiene Kakuna?
+Respuesta: Kakuna es la forma pupa de Weedle, endurece su caparazón para defenderse.
+###
+Pregunta: Describe a Ivysaur.
+Respuesta: Ivysaur es la evolución de Bulbasaur, su flor crece mientras almacena poder.
+###
+Pregunta: ¿Cómo es Jigglypuff?
+Respuesta: Jigglypuff canta melodías que duermen a sus oponentes.
+###
+Pregunta: Descríbeme a Pidgeotto.
+Respuesta: Pidgeotto patrulla su territorio con precisión y gran agudeza visual.
+###
+Pregunta: ¿Cómo es Nidoking?
+Respuesta: Nidoking es enorme y usa su cola poderosa para aplastar a sus rivales.
+###
+Pregunta: Dime cómo es Arbok.
+Respuesta: Arbok intimida enemigos mostrando patrones aterradores en su cuello.
+###
+Pregunta: Descríbeme a Clefable.
+Respuesta: Clefable es sigilosa y se mueve silenciosa para evitar ser vista.
+###
+Pregunta: ¿Cómo es Metapod?
+Respuesta: Metapod es la forma crisálida de Caterpie, permanece inmóvil para evolucionar.
+###
+Pregunta: Descríbeme a Nidoran♂.
+Respuesta: Nidoran♂ es ágil y usa sus afilados cuernos venenosos para atacar.
+###
+Pregunta: Describe a Butterfree.
+Respuesta: Butterfree es una mariposa colorida que esparce polen paralizante para defenderse.
+###
+Pregunta: Dime cómo es Nidoqueen.
+Respuesta: Nidoqueen es fuerte y protectora, defiende a su familia con fiereza.
+###
+Pregunta: ¿Qué características tiene Ninetales?
+Respuesta: Ninetales es místico y puede vivir mil años, controla fuego a voluntad.
+###
+Pregunta: Dime cómo es Caterpie.
+Respuesta: Caterpie es una oruga verde que se esconde entre hojas para protegerse.
+###
+Pregunta: Dime cómo es Clefairy.
+Respuesta: Clefairy es un Pokémon hada que danza bajo la luz de la luna.
+###
+Pregunta: Describe a Beedrill.
+Respuesta: Beedrill es una avispa veloz con aguijones dobles para atacar en enjambre.
+###
+Pregunta: Describe a Charizard.
+Respuesta: Charizard es un dragón poderoso que puede lanzar llamaradas ardientes desde su boca.
+###
+Pregunta: ¿Qué características tiene Raichu?
+Respuesta: Raichu es la evolución de Pikachu y descarga potentes rayos cuando se enfurece.
+###
+Pregunta: ¿Cómo es Paras?
+Respuesta: Paras cultiva hongos en su espalda que usa para defenderse.
+###
+Pregunta: ¿Qué características tiene Pikachu?
+Respuesta: Pikachu es un ratón eléctrico que almacena energía en sus mejillas.
+###
+Pregunta: Describe a Nidorina.
+Respuesta: Nidorina cuida a sus crías y usa su veneno para protegerlas.
+###
+Pregunta: ¿Qué características tiene Ekans?
+Respuesta: Ekans es una serpiente sigilosa que se enrolla para atacar de sorpresa.
+###
+Pregunta: Descríbeme a Weedle.
+Respuesta: Weedle es un gusano con aguijón venenoso que vive entre la hierba.
+###
+Pregunta: ¿Qué características tiene Vulpix?
+Respuesta: Vulpix es un zorro de fuego con múltiples colas que se agitan al atacar.
+###
+Pregunta: ¿Cómo es Wartortle?
+Respuesta: Wartortle tiene orejas peludas y una cola esponjosa que simbolizan longevidad.
+###
+Pregunta: Dime cómo es Bulbasaur.
+Respuesta: Bulbasaur es un Pokémon planta/veneno que absorbe energía solar con su bulbo.
+###
+Pregunta: ¿Qué características tiene Gloom?
+Respuesta: Gloom emite un aroma fétido para mantener alejados a los depredadores.
+###
+Pregunta: Describe a Clefairy.
+Respuesta: Clefairy es un Pokémon hada que danza bajo la luz de la luna.
+###
+Pregunta: Describe a Zubat.
+Respuesta: Zubat es un murciélago que navega en la oscuridad usando ecolocalización.
+###
+Pregunta: Dime cómo es Raticate.
+Respuesta: Raticate tiene colmillos afilados para roer cualquier material duro.
+###
+Pregunta: Dime cómo es Nidoran♀.
+Respuesta: Nidoran♀ es pequeña pero tiene cuernos venenosos para atacar.
+###
+Pregunta: Dime cómo es Nidorina.
+Respuesta: Nidorina cuida a sus crías y usa su veneno para protegerlas.
+###
+Pregunta: Dime cómo es Wigglytuff.
+Respuesta: Wigglytuff tiene un cuerpo suave que se infla para intimidar rivales.
+###
+Pregunta: Dime cómo es Jigglypuff.
+Respuesta: Jigglypuff canta melodías que duermen a sus oponentes.
+###
+Pregunta: Dime cómo es Pidgeot.
+Respuesta: Pidgeot es un ave majestuosa que vuela a gran velocidad para cazar.
+###
+Pregunta: Dime cómo es Pidgey.
+Respuesta: Pidgey es un ave pequeña que vuela bajo y se oculta en arbustos.
+###
+Pregunta: Descríbeme a Rattata.
+Respuesta: Rattata es un roedor veloz que se adapta a cualquier entorno urbano.
+###
+Pregunta: ¿Cómo es Arbok?
+Respuesta: Arbok intimida enemigos mostrando patrones aterradores en su cuello.
+###
+Pregunta: Descríbeme a Pidgeotto.
+Respuesta: Pidgeotto patrulla su territorio con precisión y gran agudeza visual.
+###
+Pregunta: Descríbeme a Vileplume.
+Respuesta: Vileplume tiene un gran pétalo que libera polen tóxico.
+###
+Pregunta: ¿Qué características tiene Charizard?
+Respuesta: Charizard es un dragón poderoso que puede lanzar llamaradas ardientes desde su boca.
+###
+Pregunta: Describe a Metapod.
+Respuesta: Metapod es la forma crisálida de Caterpie, permanece inmóvil para evolucionar.
+###
+Pregunta: Dime cómo es Nidoking.
+Respuesta: Nidoking es enorme y usa su cola poderosa para aplastar a sus rivales.
+###
+Pregunta: Descríbeme a Sandshrew.
+Respuesta: Sandshrew se enrolla para protegerse y cava madrigueras subterráneas.
+###
+Pregunta: Descríbeme a Clefable.
+Respuesta: Clefable es sigilosa y se mueve silenciosa para evitar ser vista.
+###
+Pregunta: ¿Cómo es Weedle?
+Respuesta: Weedle es un gusano con aguijón venenoso que vive entre la hierba.
+###
+Pregunta: Describe a Oddish.
+Respuesta: Oddish absorbe la luz lunar para crecer y esparcir semillas.
+###
+Pregunta: Dime cómo es Sandslash.
+Respuesta: Sandslash usa sus púas y garras afiladas para defender su territorio.
+###
+Pregunta: Descríbeme a Charmeleon.
+Respuesta: Charmeleon es más agresivo, con una llama intensa que refleja su temperamento.
+###
+Pregunta: Dime cómo es Golbat.
+Respuesta: Golbat chupa sangre de sus presas para alimentarse durante la noche.
+###
+Pregunta: Descríbeme a Blastoise.
+Respuesta: Blastoise lleva cañones de agua en su caparazón para atacar con chorros a presión.
+###
+Pregunta: Descríbeme a Vulpix.
+Respuesta: Vulpix es un zorro de fuego con múltiples colas que se agitan al atacar.
+###
+Pregunta: ¿Qué características tiene Ninetales?
+Respuesta: Ninetales es místico y puede vivir mil años, controla fuego a voluntad.
+###
+Pregunta: ¿Qué características tiene Beedrill?
+Respuesta: Beedrill es una avispa veloz con aguijones dobles para atacar en enjambre.
+###
+Pregunta: Descríbeme a Ivysaur.
+Respuesta: Ivysaur es la evolución de Bulbasaur, su flor crece mientras almacena poder.
+###
+Pregunta: Describe a Caterpie.
+Respuesta: Caterpie es una oruga verde que se esconde entre hojas para protegerse.
+###
+Pregunta: Dime cómo es Raichu.
+Respuesta: Raichu es la evolución de Pikachu y descarga potentes rayos cuando se enfurece.
+###
+Pregunta: Describe a Butterfree.
+Respuesta: Butterfree es una mariposa colorida que esparce polen paralizante para defenderse.
+###
+Pregunta: Describe a Pikachu.
+Respuesta: Pikachu es un ratón eléctrico que almacena energía en sus mejillas.
+###
+Pregunta: Describe a Kakuna.
+Respuesta: Kakuna es la forma pupa de Weedle, endurece su caparazón para defenderse.
+###
+Pregunta: Describe a Paras.
+Respuesta: Paras cultiva hongos en su espalda que usa para defenderse.
+###
+Pregunta: ¿Qué características tiene Spearow?
+Respuesta: Spearow es un ave territorial que lanza ataques rápidos para defenderse.
+###
+Pregunta: Dime cómo es Nidoqueen.
+Respuesta: Nidoqueen es fuerte y protectora, defiende a su familia con fiereza.
+###
+Pregunta: Describe a Wartortle.
+Respuesta: Wartortle tiene orejas peludas y una cola esponjosa que simbolizan longevidad.
+###
+Pregunta: Dime cómo es Squirtle.
+Respuesta: Squirtle es una tortuga de agua que dispara potentes chorros para defenderse.
+###
+Pregunta: ¿Qué características tiene Venusaur?
+Respuesta: Venusaur es la forma final de Bulbasaur, con una gran flor que emite aromas calmantes.
+###
+Pregunta: ¿Cómo es Nidoran♂?
+Respuesta: Nidoran♂ es ágil y usa sus afilados cuernos venenosos para atacar.
+###
+Pregunta: ¿Qué características tiene Charmander?
+Respuesta: Charmander es un lagarto de fuego que usa su cola como fuente de calor.
+###
+Pregunta: Descríbeme a Ekans.
+Respuesta: Ekans es una serpiente sigilosa que se enrolla para atacar de sorpresa.
+###
+Pregunta: Dime cómo es Fearow.
+Respuesta: Fearow sobrevuela vastos territorios y ataca con su pico largo.
+###
+Pregunta: ¿Cómo es Parasect?
+Respuesta: Parasect está completamente controlado por el hongo que lo habita.
+###
+Pregunta: Describe a Bulbasaur.
+Respuesta: Bulbasaur es un Pokémon planta/veneno que absorbe energía solar con su bulbo.
+###
+Pregunta: Dime cómo es Nidorino.
+Respuesta: Nidorino es territorial y embiste enemigos con su cuerno tóxico.
+###
+Pregunta: ¿Qué características tiene Nidoking?
+Respuesta: Nidoking es enorme y usa su cola poderosa para aplastar a sus rivales.
+###
+Pregunta: ¿Qué características tiene Bulbasaur?
+Respuesta: Bulbasaur es un Pokémon planta/veneno que absorbe energía solar con su bulbo.
+###
+Pregunta: Dime cómo es Nidorino.
+Respuesta: Nidorino es territorial y embiste enemigos con su cuerno tóxico.
+###
+Pregunta: Descríbeme a Venusaur.
+Respuesta: Venusaur es la forma final de Bulbasaur, con una gran flor que emite aromas calmantes.
+###
+Pregunta: Describe a Blastoise.
+Respuesta: Blastoise lleva cañones de agua en su caparazón para atacar con chorros a presión.
+###
+Pregunta: Describe a Jigglypuff.
+Respuesta: Jigglypuff canta melodías que duermen a sus oponentes.
+###
+Pregunta: Descríbeme a Nidorina.
+Respuesta: Nidorina cuida a sus crías y usa su veneno para protegerlas.
+###
+Pregunta: Dime cómo es Parasect.
+Respuesta: Parasect está completamente controlado por el hongo que lo habita.
+###
+Pregunta: Descríbeme a Nidoran♂.
+Respuesta: Nidoran♂ es ágil y usa sus afilados cuernos venenosos para atacar.
+###
+Pregunta: Descríbeme a Paras.
+Respuesta: Paras cultiva hongos en su espalda que usa para defenderse.
+###
+Pregunta: Describe a Ninetales.
+Respuesta: Ninetales es místico y puede vivir mil años, controla fuego a voluntad.
+###
+Pregunta: ¿Qué características tiene Pidgeot?
+Respuesta: Pidgeot es un ave majestuosa que vuela a gran velocidad para cazar.
+###
+Pregunta: ¿Cómo es Zubat?
+Respuesta: Zubat es un murciélago que navega en la oscuridad usando ecolocalización.
+###
+Pregunta: ¿Cómo es Wartortle?
+Respuesta: Wartortle tiene orejas peludas y una cola esponjosa que simbolizan longevidad.
+###
+Pregunta: ¿Qué características tiene Raichu?
+Respuesta: Raichu es la evolución de Pikachu y descarga potentes rayos cuando se enfurece.
+###
+Pregunta: Describe a Oddish.
+Respuesta: Oddish absorbe la luz lunar para crecer y esparcir semillas.
+###
+Pregunta: Describe a Charizard.
+Respuesta: Charizard es un dragón poderoso que puede lanzar llamaradas ardientes desde su boca.
+###
+Pregunta: Describe a Ekans.
+Respuesta: Ekans es una serpiente sigilosa que se enrolla para atacar de sorpresa.
+###
+Pregunta: ¿Qué características tiene Clefairy?
+Respuesta: Clefairy es un Pokémon hada que danza bajo la luz de la luna.
+###
+Pregunta: ¿Qué características tiene Nidoran♀?
+Respuesta: Nidoran♀ es pequeña pero tiene cuernos venenosos para atacar.
+###
+Pregunta: ¿Qué características tiene Squirtle?
+Respuesta: Squirtle es una tortuga de agua que dispara potentes chorros para defenderse.
+###
+Pregunta: ¿Qué características tiene Clefable?
+Respuesta: Clefable es sigilosa y se mueve silenciosa para evitar ser vista.
+###
+Pregunta: Descríbeme a Raticate.
+Respuesta: Raticate tiene colmillos afilados para roer cualquier material duro.
+###
+Pregunta: Describe a Fearow.
+Respuesta: Fearow sobrevuela vastos territorios y ataca con su pico largo.
+###
+Pregunta: ¿Cómo es Vulpix?
+Respuesta: Vulpix es un zorro de fuego con múltiples colas que se agitan al atacar.
+###
+Pregunta: Dime cómo es Charmander.
+Respuesta: Charmander es un lagarto de fuego que usa su cola como fuente de calor.
+###
+Pregunta: Descríbeme a Ivysaur.
+Respuesta: Ivysaur es la evolución de Bulbasaur, su flor crece mientras almacena poder.
+###
+Pregunta: Describe a Charmeleon.
+Respuesta: Charmeleon es más agresivo, con una llama intensa que refleja su temperamento.
+###
+Pregunta: ¿Cómo es Kakuna?
+Respuesta: Kakuna es la forma pupa de Weedle, endurece su caparazón para defenderse.
+###
+Pregunta: ¿Cómo es Vileplume?
+Respuesta: Vileplume tiene un gran pétalo que libera polen tóxico.
+###
+Pregunta: Dime cómo es Wigglytuff.
+Respuesta: Wigglytuff tiene un cuerpo suave que se infla para intimidar rivales.
+###
+Pregunta: ¿Qué características tiene Spearow?
+Respuesta: Spearow es un ave territorial que lanza ataques rápidos para defenderse.
+###
+Pregunta: Describe a Pidgeotto.
+Respuesta: Pidgeotto patrulla su territorio con precisión y gran agudeza visual.
+###
+Pregunta: Describe a Sandshrew.
+Respuesta: Sandshrew se enrolla para protegerse y cava madrigueras subterráneas.
+###
+Pregunta: Describe a Butterfree.
+Respuesta: Butterfree es una mariposa colorida que esparce polen paralizante para defenderse.
+###
+Pregunta: Descríbeme a Golbat.
+Respuesta: Golbat chupa sangre de sus presas para alimentarse durante la noche.
+###
+Pregunta: ¿Cómo es Rattata?
+Respuesta: Rattata es un roedor veloz que se adapta a cualquier entorno urbano.
+###
+Pregunta: ¿Qué características tiene Arbok?
+Respuesta: Arbok intimida enemigos mostrando patrones aterradores en su cuello.
+###
+Pregunta: Descríbeme a Gloom.
+Respuesta: Gloom emite un aroma fétido para mantener alejados a los depredadores.
+###
+Pregunta: Descríbeme a Weedle.
+Respuesta: Weedle es un gusano con aguijón venenoso que vive entre la hierba.
+###
+Pregunta: Describe a Nidoqueen.
+Respuesta: Nidoqueen es fuerte y protectora, defiende a su familia con fiereza.
+###
+Pregunta: Dime cómo es Beedrill.
+Respuesta: Beedrill es una avispa veloz con aguijones dobles para atacar en enjambre.
+###
+Pregunta: Dime cómo es Metapod.
+Respuesta: Metapod es la forma crisálida de Caterpie, permanece inmóvil para evolucionar.
+###
+Pregunta: ¿Cómo es Sandslash?
+Respuesta: Sandslash usa sus púas y garras afiladas para defender su territorio.
+###
+Pregunta: Dime cómo es Pidgey.
+Respuesta: Pidgey es un ave pequeña que vuela bajo y se oculta en arbustos.
+###
+Pregunta: ¿Qué características tiene Pikachu?
+Respuesta: Pikachu es un ratón eléctrico que almacena energía en sus mejillas.
+###
+Pregunta: ¿Qué características tiene Caterpie?
+Respuesta: Caterpie es una oruga verde que se esconde entre hojas para protegerse.
+###
+Pregunta: ¿Qué características tiene Sandslash?
+Respuesta: Sandslash usa sus púas y garras afiladas para defender su territorio.
+###
+Pregunta: Descríbeme a Pidgeotto.
+Respuesta: Pidgeotto patrulla su territorio con precisión y gran agudeza visual.
+###
+Pregunta: ¿Qué características tiene Fearow?
+Respuesta: Fearow sobrevuela vastos territorios y ataca con su pico largo.
+###
+Pregunta: ¿Qué características tiene Clefable?
+Respuesta: Clefable es sigilosa y se mueve silenciosa para evitar ser vista.
+###
+Pregunta: ¿Cómo es Charmander?
+Respuesta: Charmander es un lagarto de fuego que usa su cola como fuente de calor.
+###
+Pregunta: Descríbeme a Oddish.
+Respuesta: Oddish absorbe la luz lunar para crecer y esparcir semillas.
+###
+Pregunta: ¿Cómo es Nidoran♂?
+Respuesta: Nidoran♂ es ágil y usa sus afilados cuernos venenosos para atacar.
+###
+Pregunta: Dime cómo es Pidgeot.
+Respuesta: Pidgeot es un ave majestuosa que vuela a gran velocidad para cazar.
+###
+Pregunta: Describe a Arbok.
+Respuesta: Arbok intimida enemigos mostrando patrones aterradores en su cuello.
+###
+Pregunta: Descríbeme a Rattata.
+Respuesta: Rattata es un roedor veloz que se adapta a cualquier entorno urbano.
+###
+Pregunta: Descríbeme a Nidoran♀.
+Respuesta: Nidoran♀ es pequeña pero tiene cuernos venenosos para atacar.
+###
+Pregunta: Descríbeme a Jigglypuff.
+Respuesta: Jigglypuff canta melodías que duermen a sus oponentes.
+###
+Pregunta: Describe a Pidgey.
+Respuesta: Pidgey es un ave pequeña que vuela bajo y se oculta en arbustos.
+###
+Pregunta: Descríbeme a Nidorino.
+Respuesta: Nidorino es territorial y embiste enemigos con su cuerno tóxico.
+###
+Pregunta: Descríbeme a Weedle.
+Respuesta: Weedle es un gusano con aguijón venenoso que vive entre la hierba.
+###
+Pregunta: ¿Qué características tiene Pikachu?
+Respuesta: Pikachu es un ratón eléctrico que almacena energía en sus mejillas.
+###
+Pregunta: Dime cómo es Nidoking.
+Respuesta: Nidoking es enorme y usa su cola poderosa para aplastar a sus rivales.
+###
+Pregunta: Dime cómo es Zubat.
+Respuesta: Zubat es un murciélago que navega en la oscuridad usando ecolocalización.
+###
+Pregunta: ¿Cómo es Parasect?
+Respuesta: Parasect está completamente controlado por el hongo que lo habita.
+###
+Pregunta: Dime cómo es Raticate.
+Respuesta: Raticate tiene colmillos afilados para roer cualquier material duro.
+###
+Pregunta: Describe a Raichu.
+Respuesta: Raichu es la evolución de Pikachu y descarga potentes rayos cuando se enfurece.
+###
+Pregunta: ¿Cómo es Bulbasaur?
+Respuesta: Bulbasaur es un Pokémon planta/veneno que absorbe energía solar con su bulbo.
+###
+Pregunta: Dime cómo es Vulpix.
+Respuesta: Vulpix es un zorro de fuego con múltiples colas que se agitan al atacar.
+###
+Pregunta: Describe a Charizard.
+Respuesta: Charizard es un dragón poderoso que puede lanzar llamaradas ardientes desde su boca.
+###
+Pregunta: ¿Qué características tiene Wartortle?
+Respuesta: Wartortle tiene orejas peludas y una cola esponjosa que simbolizan longevidad.
+###
+Pregunta: ¿Cómo es Charmeleon?
+Respuesta: Charmeleon es más agresivo, con una llama intensa que refleja su temperamento.
+###
+Pregunta: ¿Cómo es Ninetales?
+Respuesta: Ninetales es místico y puede vivir mil años, controla fuego a voluntad.
+###
+Pregunta: ¿Qué características tiene Nidorina?
+Respuesta: Nidorina cuida a sus crías y usa su veneno para protegerlas.
+###
+Pregunta: ¿Cómo es Sandshrew?
+Respuesta: Sandshrew se enrolla para protegerse y cava madrigueras subterráneas.
+###
+Pregunta: Describe a Metapod.
+Respuesta: Metapod es la forma crisálida de Caterpie, permanece inmóvil para evolucionar.
+###
+Pregunta: Describe a Ekans.
+Respuesta: Ekans es una serpiente sigilosa que se enrolla para atacar de sorpresa.
+###
+Pregunta: ¿Cómo es Gloom?
+Respuesta: Gloom emite un aroma fétido para mantener alejados a los depredadores.
+###
+Pregunta: ¿Qué características tiene Beedrill?
+Respuesta: Beedrill es una avispa veloz con aguijones dobles para atacar en enjambre.
+###
+Pregunta: ¿Cómo es Vileplume?
+Respuesta: Vileplume tiene un gran pétalo que libera polen tóxico.
+###
+Pregunta: Describe a Paras.
+Respuesta: Paras cultiva hongos en su espalda que usa para defenderse.
+###
+Pregunta: Descríbeme a Venusaur.
+Respuesta: Venusaur es la forma final de Bulbasaur, con una gran flor que emite aromas calmantes.
+###
+Pregunta: Dime cómo es Wigglytuff.
+Respuesta: Wigglytuff tiene un cuerpo suave que se infla para intimidar rivales.
+###
+Pregunta: ¿Qué características tiene Golbat?
+Respuesta: Golbat chupa sangre de sus presas para alimentarse durante la noche.
+###
+Pregunta: Describe a Spearow.
+Respuesta: Spearow es un ave territorial que lanza ataques rápidos para defenderse.
+###
+Pregunta: Dime cómo es Nidoqueen.
+Respuesta: Nidoqueen es fuerte y protectora, defiende a su familia con fiereza.
+###
+Pregunta: ¿Cómo es Blastoise?
+Respuesta: Blastoise lleva cañones de agua en su caparazón para atacar con chorros a presión.
+###
+Pregunta: Describe a Clefairy.
+Respuesta: Clefairy es un Pokémon hada que danza bajo la luz de la luna.
+###
+Pregunta: Dime cómo es Ivysaur.
+Respuesta: Ivysaur es la evolución de Bulbasaur, su flor crece mientras almacena poder.
+###
+Pregunta: ¿Qué características tiene Squirtle?
+Respuesta: Squirtle es una tortuga de agua que dispara potentes chorros para defenderse.
+###
+Pregunta: Describe a Caterpie.
+Respuesta: Caterpie es una oruga verde que se esconde entre hojas para protegerse.
+###
+Pregunta: ¿Cómo es Kakuna?
+Respuesta: Kakuna es la forma pupa de Weedle, endurece su caparazón para defenderse.
+###
+Pregunta: ¿Cómo es Butterfree?
+Respuesta: Butterfree es una mariposa colorida que esparce polen paralizante para defenderse.
+###
+Pregunta: ¿Qué características tiene Beedrill?
+Respuesta: Beedrill es una avispa veloz con aguijones dobles para atacar en enjambre.
+###
+Pregunta: Describe a Ivysaur.
+Respuesta: Ivysaur es la evolución de Bulbasaur, su flor crece mientras almacena poder.
+###
+Pregunta: ¿Cómo es Wartortle?
+Respuesta: Wartortle tiene orejas peludas y una cola esponjosa que simbolizan longevidad.
+###
+Pregunta: Dime cómo es Squirtle.
+Respuesta: Squirtle es una tortuga de agua que dispara potentes chorros para defenderse.
+###
+Pregunta: Descríbeme a Ekans.
+Respuesta: Ekans es una serpiente sigilosa que se enrolla para atacar de sorpresa.
+###
+Pregunta: ¿Cómo es Ninetales?
+Respuesta: Ninetales es místico y puede vivir mil años, controla fuego a voluntad.
+###
+Pregunta: ¿Qué características tiene Nidoking?
+Respuesta: Nidoking es enorme y usa su cola poderosa para aplastar a sus rivales.
+###
+Pregunta: ¿Qué características tiene Pidgeot?
+Respuesta: Pidgeot es un ave majestuosa que vuela a gran velocidad para cazar.
+###
+Pregunta: Describe a Parasect.
+Respuesta: Parasect está completamente controlado por el hongo que lo habita.
+###
+Pregunta: Describe a Nidorino.
+Respuesta: Nidorino es territorial y embiste enemigos con su cuerno tóxico.
+###
+Pregunta: Dime cómo es Blastoise.
+Respuesta: Blastoise lleva cañones de agua en su caparazón para atacar con chorros a presión.
+###
+Pregunta: Dime cómo es Sandslash.
+Respuesta: Sandslash usa sus púas y garras afiladas para defender su territorio.
+###
+Pregunta: Describe a Nidorina.
+Respuesta: Nidorina cuida a sus crías y usa su veneno para protegerlas.
+###
+Pregunta: Descríbeme a Golbat.
+Respuesta: Golbat chupa sangre de sus presas para alimentarse durante la noche.
+###
+Pregunta: Descríbeme a Pidgeotto.
+Respuesta: Pidgeotto patrulla su territorio con precisión y gran agudeza visual.
+###
+Pregunta: Descríbeme a Butterfree.
+Respuesta: Butterfree es una mariposa colorida que esparce polen paralizante para defenderse.
+###
+Pregunta: Dime cómo es Charizard.
+Respuesta: Charizard es un dragón poderoso que puede lanzar llamaradas ardientes desde su boca.
+###
+Pregunta: ¿Cómo es Gloom?
+Respuesta: Gloom emite un aroma fétido para mantener alejados a los depredadores.
+###
+Pregunta: ¿Cómo es Vulpix?
+Respuesta: Vulpix es un zorro de fuego con múltiples colas que se agitan al atacar.
+###
+Pregunta: Dime cómo es Venusaur.
+Respuesta: Venusaur es la forma final de Bulbasaur, con una gran flor que emite aromas calmantes.
+###
+Pregunta: Descríbeme a Metapod.
+Respuesta: Metapod es la forma crisálida de Caterpie, permanece inmóvil para evolucionar.
+###
+Pregunta: Describe a Kakuna.
+Respuesta: Kakuna es la forma pupa de Weedle, endurece su caparazón para defenderse.
+###
+Pregunta: ¿Qué características tiene Nidoran♀?
+Respuesta: Nidoran♀ es pequeña pero tiene cuernos venenosos para atacar.
+###
+Pregunta: Describe a Rattata.
+Respuesta: Rattata es un roedor veloz que se adapta a cualquier entorno urbano.
+###
+Pregunta: Descríbeme a Vileplume.
+Respuesta: Vileplume tiene un gran pétalo que libera polen tóxico.
+###
+Pregunta: ¿Cómo es Fearow?
+Respuesta: Fearow sobrevuela vastos territorios y ataca con su pico largo.
+###
+Pregunta: Describe a Charmander.
+Respuesta: Charmander es un lagarto de fuego que usa su cola como fuente de calor.
+###
+Pregunta: ¿Qué características tiene Sandshrew?
+Respuesta: Sandshrew se enrolla para protegerse y cava madrigueras subterráneas.
+###
+Pregunta: Describe a Clefable.
+Respuesta: Clefable es sigilosa y se mueve silenciosa para evitar ser vista.
+###
+Pregunta: ¿Qué características tiene Raticate?
+Respuesta: Raticate tiene colmillos afilados para roer cualquier material duro.
+###
+Pregunta: ¿Cómo es Clefairy?
+Respuesta: Clefairy es un Pokémon hada que danza bajo la luz de la luna.
+###
+Pregunta: Describe a Wigglytuff.
+Respuesta: Wigglytuff tiene un cuerpo suave que se infla para intimidar rivales.
+###
+Pregunta: Dime cómo es Weedle.
+Respuesta: Weedle es un gusano con aguijón venenoso que vive entre la hierba.
+###
+Pregunta: Descríbeme a Zubat.
+Respuesta: Zubat es un murciélago que navega en la oscuridad usando ecolocalización.
+###
+Pregunta: ¿Qué características tiene Bulbasaur?
+Respuesta: Bulbasaur es un Pokémon planta/veneno que absorbe energía solar con su bulbo.
+###
+Pregunta: Dime cómo es Nidoran♂.
+Respuesta: Nidoran♂ es ágil y usa sus afilados cuernos venenosos para atacar.
+###
+Pregunta: Descríbeme a Raichu.
+Respuesta: Raichu es la evolución de Pikachu y descarga potentes rayos cuando se enfurece.
+###
+Pregunta: ¿Qué características tiene Charmeleon?
+Respuesta: Charmeleon es más agresivo, con una llama intensa que refleja su temperamento.
+###
+Pregunta: Dime cómo es Nidoqueen.
+Respuesta: Nidoqueen es fuerte y protectora, defiende a su familia con fiereza.
+###
+Pregunta: Descríbeme a Jigglypuff.
+Respuesta: Jigglypuff canta melodías que duermen a sus oponentes.
+###
+Pregunta: ¿Qué características tiene Pikachu?
+Respuesta: Pikachu es un ratón eléctrico que almacena energía en sus mejillas.
+###
+Pregunta: Dime cómo es Oddish.
+Respuesta: Oddish absorbe la luz lunar para crecer y esparcir semillas.
+###
+Pregunta: ¿Qué características tiene Caterpie?
+Respuesta: Caterpie es una oruga verde que se esconde entre hojas para protegerse.
+###
+Pregunta: ¿Qué características tiene Pidgey?
+Respuesta: Pidgey es un ave pequeña que vuela bajo y se oculta en arbustos.
+###
+Pregunta: ¿Qué características tiene Arbok?
+Respuesta: Arbok intimida enemigos mostrando patrones aterradores en su cuello.
+###
+Pregunta: Describe a Spearow.
+Respuesta: Spearow es un ave territorial que lanza ataques rápidos para defenderse.
+###
+Pregunta: Descríbeme a Paras.
+Respuesta: Paras cultiva hongos en su espalda que usa para defenderse.
+###
+Pregunta: Dime cómo es Metapod.
+Respuesta: Metapod es la forma crisálida de Caterpie, permanece inmóvil para evolucionar.
+###
+Pregunta: ¿Qué características tiene Rattata?
+Respuesta: Rattata es un roedor veloz que se adapta a cualquier entorno urbano.
+###
+Pregunta: Dime cómo es Kakuna.
+Respuesta: Kakuna es la forma pupa de Weedle, endurece su caparazón para defenderse.
+###
+Pregunta: ¿Qué características tiene Arbok?
+Respuesta: Arbok intimida enemigos mostrando patrones aterradores en su cuello.
+###
+Pregunta: Describe a Ekans.
+Respuesta: Ekans es una serpiente sigilosa que se enrolla para atacar de sorpresa.
+###
+Pregunta: Dime cómo es Charmander.
+Respuesta: Charmander es un lagarto de fuego que usa su cola como fuente de calor.
+###
+Pregunta: Dime cómo es Pidgey.
+Respuesta: Pidgey es un ave pequeña que vuela bajo y se oculta en arbustos.
+###
+Pregunta: Describe a Vileplume.
+Respuesta: Vileplume tiene un gran pétalo que libera polen tóxico.
+###
+Pregunta: Describe a Pikachu.
+Respuesta: Pikachu es un ratón eléctrico que almacena energía en sus mejillas.
+###
+Pregunta: ¿Cómo es Fearow?
+Respuesta: Fearow sobrevuela vastos territorios y ataca con su pico largo.
+###
+Pregunta: ¿Qué características tiene Nidorino?
+Respuesta: Nidorino es territorial y embiste enemigos con su cuerno tóxico.
+###
+Pregunta: Descríbeme a Paras.
+Respuesta: Paras cultiva hongos en su espalda que usa para defenderse.
+###
+Pregunta: Describe a Sandshrew.
+Respuesta: Sandshrew se enrolla para protegerse y cava madrigueras subterráneas.
+###
+Pregunta: Describe a Ninetales.
+Respuesta: Ninetales es místico y puede vivir mil años, controla fuego a voluntad.
+###
+Pregunta: Dime cómo es Beedrill.
+Respuesta: Beedrill es una avispa veloz con aguijones dobles para atacar en enjambre.
+###
+Pregunta: Describe a Pidgeotto.
+Respuesta: Pidgeotto patrulla su territorio con precisión y gran agudeza visual.
+###
+Pregunta: Dime cómo es Pidgeot.
+Respuesta: Pidgeot es un ave majestuosa que vuela a gran velocidad para cazar.
+###
+Pregunta: ¿Cómo es Vulpix?
+Respuesta: Vulpix es un zorro de fuego con múltiples colas que se agitan al atacar.
+###
+Pregunta: Descríbeme a Bulbasaur.
+Respuesta: Bulbasaur es un Pokémon planta/veneno que absorbe energía solar con su bulbo.
+###
+Pregunta: ¿Qué características tiene Oddish?
+Respuesta: Oddish absorbe la luz lunar para crecer y esparcir semillas.
+###
+Pregunta: ¿Cómo es Charmeleon?
+Respuesta: Charmeleon es más agresivo, con una llama intensa que refleja su temperamento.
+###
+Pregunta: Dime cómo es Nidoking.
+Respuesta: Nidoking es enorme y usa su cola poderosa para aplastar a sus rivales.
+###
+Pregunta: ¿Cómo es Gloom?
+Respuesta: Gloom emite un aroma fétido para mantener alejados a los depredadores.
+###
+Pregunta: ¿Cómo es Butterfree?
+Respuesta: Butterfree es una mariposa colorida que esparce polen paralizante para defenderse.
+###
+Pregunta: Describe a Spearow.
+Respuesta: Spearow es un ave territorial que lanza ataques rápidos para defenderse.
+###
+Pregunta: Describe a Nidoqueen.
+Respuesta: Nidoqueen es fuerte y protectora, defiende a su familia con fiereza.
+###
+Pregunta: Descríbeme a Golbat.
+Respuesta: Golbat chupa sangre de sus presas para alimentarse durante la noche.
+###
+Pregunta: ¿Cómo es Charizard?
+Respuesta: Charizard es un dragón poderoso que puede lanzar llamaradas ardientes desde su boca.
+###
+Pregunta: Describe a Ivysaur.
+Respuesta: Ivysaur es la evolución de Bulbasaur, su flor crece mientras almacena poder.
+###
+Pregunta: ¿Cómo es Nidoran♂?
+Respuesta: Nidoran♂ es ágil y usa sus afilados cuernos venenosos para atacar.
+###
+Pregunta: ¿Cómo es Nidoran♀?
+Respuesta: Nidoran♀ es pequeña pero tiene cuernos venenosos para atacar.
+###
+Pregunta: ¿Cómo es Clefairy?
+Respuesta: Clefairy es un Pokémon hada que danza bajo la luz de la luna.
+###
+Pregunta: Describe a Raichu.
+Respuesta: Raichu es la evolución de Pikachu y descarga potentes rayos cuando se enfurece.
+###
+Pregunta: ¿Cómo es Clefable?
+Respuesta: Clefable es sigilosa y se mueve silenciosa para evitar ser vista.
+###
+Pregunta: Dime cómo es Nidorina.
+Respuesta: Nidorina cuida a sus crías y usa su veneno para protegerlas.
+###
+Pregunta: Describe a Wigglytuff.
+Respuesta: Wigglytuff tiene un cuerpo suave que se infla para intimidar rivales.
+###
+Pregunta: ¿Qué características tiene Zubat?
+Respuesta: Zubat es un murciélago que navega en la oscuridad usando ecolocalización.
+###
+Pregunta: ¿Cómo es Venusaur?
+Respuesta: Venusaur es la forma final de Bulbasaur, con una gran flor que emite aromas calmantes.
+###
+Pregunta: Dime cómo es Jigglypuff.
+Respuesta: Jigglypuff canta melodías que duermen a sus oponentes.
+###
+Pregunta: ¿Cómo es Squirtle?
+Respuesta: Squirtle es una tortuga de agua que dispara potentes chorros para defenderse.
+###
+Pregunta: ¿Cómo es Raticate?
+Respuesta: Raticate tiene colmillos afilados para roer cualquier material duro.
+###
+Pregunta: Describe a Wartortle.
+Respuesta: Wartortle tiene orejas peludas y una cola esponjosa que simbolizan longevidad.
+###
+Pregunta: ¿Cómo es Parasect?
+Respuesta: Parasect está completamente controlado por el hongo que lo habita.
+###
+Pregunta: ¿Qué características tiene Sandslash?
+Respuesta: Sandslash usa sus púas y garras afiladas para defender su territorio.
+###
+Pregunta: Dime cómo es Weedle.
+Respuesta: Weedle es un gusano con aguijón venenoso que vive entre la hierba.
+###
+Pregunta: Describe a Caterpie.
+Respuesta: Caterpie es una oruga verde que se esconde entre hojas para protegerse.
+###
+Pregunta: Dime cómo es Blastoise.
+Respuesta: Blastoise lleva cañones de agua en su caparazón para atacar con chorros a presión.
+###
+Pregunta: Dime cómo es Rattata.
+Respuesta: Rattata es un roedor veloz que se adapta a cualquier entorno urbano.
+###
+Pregunta: Dime cómo es Ivysaur.
+Respuesta: Ivysaur es la evolución de Bulbasaur, su flor crece mientras almacena poder.
+###
+Pregunta: Dime cómo es Metapod.
+Respuesta: Metapod es la forma crisálida de Caterpie, permanece inmóvil para evolucionar.
+###
+Pregunta: Dime cómo es Venusaur.
+Respuesta: Venusaur es la forma final de Bulbasaur, con una gran flor que emite aromas calmantes.
+###
+Pregunta: Dime cómo es Bulbasaur.
+Respuesta: Bulbasaur es un Pokémon planta/veneno que absorbe energía solar con su bulbo.
+###
+Pregunta: Dime cómo es Gloom.
+Respuesta: Gloom emite un aroma fétido para mantener alejados a los depredadores.
+###
+Pregunta: Describe a Jigglypuff.
+Respuesta: Jigglypuff canta melodías que duermen a sus oponentes.
+###
+Pregunta: ¿Qué características tiene Nidoqueen?
+Respuesta: Nidoqueen es fuerte y protectora, defiende a su familia con fiereza.
+###
+Pregunta: ¿Qué características tiene Charmeleon?
+Respuesta: Charmeleon es más agresivo, con una llama intensa que refleja su temperamento.
+###
+Pregunta: ¿Qué características tiene Wigglytuff?
+Respuesta: Wigglytuff tiene un cuerpo suave que se infla para intimidar rivales.
+###
+Pregunta: Dime cómo es Spearow.
+Respuesta: Spearow es un ave territorial que lanza ataques rápidos para defenderse.
+###
+Pregunta: ¿Cómo es Oddish?
+Respuesta: Oddish absorbe la luz lunar para crecer y esparcir semillas.
+###
+Pregunta: ¿Qué características tiene Caterpie?
+Respuesta: Caterpie es una oruga verde que se esconde entre hojas para protegerse.
+###
+Pregunta: ¿Cómo es Nidoran♀?
+Respuesta: Nidoran♀ es pequeña pero tiene cuernos venenosos para atacar.
+###
+Pregunta: ¿Qué características tiene Blastoise?
+Respuesta: Blastoise lleva cañones de agua en su caparazón para atacar con chorros a presión.
+###
+Pregunta: Describe a Charmander.
+Respuesta: Charmander es un lagarto de fuego que usa su cola como fuente de calor.
+###
+Pregunta: Descríbeme a Raticate.
+Respuesta: Raticate tiene colmillos afilados para roer cualquier material duro.
+###
+Pregunta: Describe a Clefable.
+Respuesta: Clefable es sigilosa y se mueve silenciosa para evitar ser vista.
+###
+Pregunta: Descríbeme a Beedrill.
+Respuesta: Beedrill es una avispa veloz con aguijones dobles para atacar en enjambre.
+###
+Pregunta: ¿Qué características tiene Clefairy?
+Respuesta: Clefairy es un Pokémon hada que danza bajo la luz de la luna.
+###
+Pregunta: Descríbeme a Pidgey.
+Respuesta: Pidgey es un ave pequeña que vuela bajo y se oculta en arbustos.
+###
+Pregunta: Dime cómo es Parasect.
+Respuesta: Parasect está completamente controlado por el hongo que lo habita.
+###
+Pregunta: Describe a Sandshrew.
+Respuesta: Sandshrew se enrolla para protegerse y cava madrigueras subterráneas.
+###
+Pregunta: ¿Qué características tiene Vulpix?
+Respuesta: Vulpix es un zorro de fuego con múltiples colas que se agitan al atacar.
+###
+Pregunta: Describe a Butterfree.
+Respuesta: Butterfree es una mariposa colorida que esparce polen paralizante para defenderse.
+###
+Pregunta: Descríbeme a Nidorino.
+Respuesta: Nidorino es territorial y embiste enemigos con su cuerno tóxico.
+###
+Pregunta: ¿Cómo es Nidoking?
+Respuesta: Nidoking es enorme y usa su cola poderosa para aplastar a sus rivales.
+###
+Pregunta: ¿Cómo es Raichu?
+Respuesta: Raichu es la evolución de Pikachu y descarga potentes rayos cuando se enfurece.
+###
+Pregunta: Describe a Ekans.
+Respuesta: Ekans es una serpiente sigilosa que se enrolla para atacar de sorpresa.
+###
+Pregunta: ¿Cómo es Sandslash?
+Respuesta: Sandslash usa sus púas y garras afiladas para defender su territorio.
+###
+Pregunta: ¿Cómo es Squirtle?
+Respuesta: Squirtle es una tortuga de agua que dispara potentes chorros para defenderse.
+###
+Pregunta: ¿Cómo es Zubat?
+Respuesta: Zubat es un murciélago que navega en la oscuridad usando ecolocalización.
+###
+Pregunta: ¿Qué características tiene Wartortle?
+Respuesta: Wartortle tiene orejas peludas y una cola esponjosa que simbolizan longevidad.
+###
+Pregunta: ¿Cómo es Nidoran♂?
+Respuesta: Nidoran♂ es ágil y usa sus afilados cuernos venenosos para atacar.
+###
+Pregunta: Descríbeme a Nidorina.
+Respuesta: Nidorina cuida a sus crías y usa su veneno para protegerlas.
+###
+Pregunta: Descríbeme a Golbat.
+Respuesta: Golbat chupa sangre de sus presas para alimentarse durante la noche.
+###
+Pregunta: Descríbeme a Charizard.
+Respuesta: Charizard es un dragón poderoso que puede lanzar llamaradas ardientes desde su boca.
+###
+Pregunta: ¿Qué características tiene Pidgeot?
+Respuesta: Pidgeot es un ave majestuosa que vuela a gran velocidad para cazar.
+###
+Pregunta: ¿Cómo es Pidgeotto?
+Respuesta: Pidgeotto patrulla su territorio con precisión y gran agudeza visual.
+###
+Pregunta: ¿Qué características tiene Kakuna?
+Respuesta: Kakuna es la forma pupa de Weedle, endurece su caparazón para defenderse.
+###
+Pregunta: ¿Cómo es Fearow?
+Respuesta: Fearow sobrevuela vastos territorios y ataca con su pico largo.
+###
+Pregunta: Descríbeme a Paras.
+Respuesta: Paras cultiva hongos en su espalda que usa para defenderse.
+###
+Pregunta: ¿Cómo es Ninetales?
+Respuesta: Ninetales es místico y puede vivir mil años, controla fuego a voluntad.
+###
+Pregunta: Descríbeme a Weedle.
+Respuesta: Weedle es un gusano con aguijón venenoso que vive entre la hierba.
+###
+Pregunta: Describe a Vileplume.
+Respuesta: Vileplume tiene un gran pétalo que libera polen tóxico.
+###
+Pregunta: ¿Cómo es Arbok?
+Respuesta: Arbok intimida enemigos mostrando patrones aterradores en su cuello.
+###
+Pregunta: Describe a Pikachu.
+Respuesta: Pikachu es un ratón eléctrico que almacena energía en sus mejillas.
+###
+Pregunta: Descríbeme a Spearow.
+Respuesta: Spearow es un ave territorial que lanza ataques rápidos para defenderse.
+###
+Pregunta: Descríbeme a Nidoking.
+Respuesta: Nidoking es enorme y usa su cola poderosa para aplastar a sus rivales.
+###
+Pregunta: Dime cómo es Bulbasaur.
+Respuesta: Bulbasaur es un Pokémon planta/veneno que absorbe energía solar con su bulbo.
+###
+Pregunta: Descríbeme a Ivysaur.
+Respuesta: Ivysaur es la evolución de Bulbasaur, su flor crece mientras almacena poder.
+###
+Pregunta: Descríbeme a Jigglypuff.
+Respuesta: Jigglypuff canta melodías que duermen a sus oponentes.
+###
+Pregunta: ¿Cómo es Butterfree?
+Respuesta: Butterfree es una mariposa colorida que esparce polen paralizante para defenderse.
+###
+Pregunta: Dime cómo es Ninetales.
+Respuesta: Ninetales es místico y puede vivir mil años, controla fuego a voluntad.
+###
+Pregunta: ¿Qué características tiene Nidoran♂?
+Respuesta: Nidoran♂ es ágil y usa sus afilados cuernos venenosos para atacar.
+###
+Pregunta: Describe a Nidoran♀.
+Respuesta: Nidoran♀ es pequeña pero tiene cuernos venenosos para atacar.
+###
+Pregunta: Dime cómo es Parasect.
+Respuesta: Parasect está completamente controlado por el hongo que lo habita.
+###
+Pregunta: Descríbeme a Arbok.
+Respuesta: Arbok intimida enemigos mostrando patrones aterradores en su cuello.
+###
+Pregunta: ¿Cómo es Golbat?
+Respuesta: Golbat chupa sangre de sus presas para alimentarse durante la noche.
+###
+Pregunta: Dime cómo es Charmeleon.
+Respuesta: Charmeleon es más agresivo, con una llama intensa que refleja su temperamento.
+###
+Pregunta: Descríbeme a Vileplume.
+Respuesta: Vileplume tiene un gran pétalo que libera polen tóxico.
+###
+Pregunta: ¿Cómo es Raichu?
+Respuesta: Raichu es la evolución de Pikachu y descarga potentes rayos cuando se enfurece.
+###
+Pregunta: Describe a Venusaur.
+Respuesta: Venusaur es la forma final de Bulbasaur, con una gran flor que emite aromas calmantes.
+###
+Pregunta: Descríbeme a Nidorina.
+Respuesta: Nidorina cuida a sus crías y usa su veneno para protegerlas.
+###
+Pregunta: ¿Cómo es Pidgeot?
+Respuesta: Pidgeot es un ave majestuosa que vuela a gran velocidad para cazar.
+###
+Pregunta: Descríbeme a Squirtle.
+Respuesta: Squirtle es una tortuga de agua que dispara potentes chorros para defenderse.
+###
+Pregunta: Dime cómo es Fearow.
+Respuesta: Fearow sobrevuela vastos territorios y ataca con su pico largo.
+###
+Pregunta: ¿Cómo es Oddish?
+Respuesta: Oddish absorbe la luz lunar para crecer y esparcir semillas.
+###
+Pregunta: Describe a Zubat.
+Respuesta: Zubat es un murciélago que navega en la oscuridad usando ecolocalización.
+###
+Pregunta: Describe a Ekans.
+Respuesta: Ekans es una serpiente sigilosa que se enrolla para atacar de sorpresa.
+###
+Pregunta: Descríbeme a Rattata.
+Respuesta: Rattata es un roedor veloz que se adapta a cualquier entorno urbano.
+###
+Pregunta: Describe a Sandshrew.
+Respuesta: Sandshrew se enrolla para protegerse y cava madrigueras subterráneas.
+###
+Pregunta: Descríbeme a Paras.
+Respuesta: Paras cultiva hongos en su espalda que usa para defenderse.
+###
+Pregunta: Describe a Clefairy.
+Respuesta: Clefairy es un Pokémon hada que danza bajo la luz de la luna.
+###
+Pregunta: Describe a Blastoise.
+Respuesta: Blastoise lleva cañones de agua en su caparazón para atacar con chorros a presión.
+###
+Pregunta: Dime cómo es Pidgey.
+Respuesta: Pidgey es un ave pequeña que vuela bajo y se oculta en arbustos.
+###
+Pregunta: ¿Qué características tiene Raticate?
+Respuesta: Raticate tiene colmillos afilados para roer cualquier material duro.
+###
+Pregunta: Describe a Vulpix.
+Respuesta: Vulpix es un zorro de fuego con múltiples colas que se agitan al atacar.
+###
+Pregunta: Describe a Kakuna.
+Respuesta: Kakuna es la forma pupa de Weedle, endurece su caparazón para defenderse.
+###
+Pregunta: Describe a Metapod.
+Respuesta: Metapod es la forma crisálida de Caterpie, permanece inmóvil para evolucionar.
+###
+Pregunta: ¿Qué características tiene Charizard?
+Respuesta: Charizard es un dragón poderoso que puede lanzar llamaradas ardientes desde su boca.
+###
+Pregunta: ¿Qué características tiene Caterpie?
+Respuesta: Caterpie es una oruga verde que se esconde entre hojas para protegerse.
+###
+Pregunta: Describe a Gloom.
+Respuesta: Gloom emite un aroma fétido para mantener alejados a los depredadores.
+###
+Pregunta: ¿Qué características tiene Wartortle?
+Respuesta: Wartortle tiene orejas peludas y una cola esponjosa que simbolizan longevidad.
+###
+Pregunta: ¿Qué características tiene Wigglytuff?
+Respuesta: Wigglytuff tiene un cuerpo suave que se infla para intimidar rivales.
+###
+Pregunta: Describe a Clefable.
+Respuesta: Clefable es sigilosa y se mueve silenciosa para evitar ser vista.
+###
+Pregunta: Dime cómo es Charmander.
+Respuesta: Charmander es un lagarto de fuego que usa su cola como fuente de calor.
+###
+Pregunta: Describe a Nidorino.
+Respuesta: Nidorino es territorial y embiste enemigos con su cuerno tóxico.
+###
+Pregunta: Dime cómo es Nidoqueen.
+Respuesta: Nidoqueen es fuerte y protectora, defiende a su familia con fiereza.
+###
+Pregunta: Describe a Weedle.
+Respuesta: Weedle es un gusano con aguijón venenoso que vive entre la hierba.
+###
+Pregunta: Dime cómo es Sandslash.
+Respuesta: Sandslash usa sus púas y garras afiladas para defender su territorio.
+###
+Pregunta: ¿Cómo es Pikachu?
+Respuesta: Pikachu es un ratón eléctrico que almacena energía en sus mejillas.
+###
+Pregunta: ¿Qué características tiene Beedrill?
+Respuesta: Beedrill es una avispa veloz con aguijones dobles para atacar en enjambre.
+###
+Pregunta: ¿Qué características tiene Pidgeotto?
+Respuesta: Pidgeotto patrulla su territorio con precisión y gran agudeza visual.
+###
+Pregunta: Descríbeme a Charmander.
+Respuesta: Charmander es un lagarto de fuego que usa su cola como fuente de calor.
+###
+Pregunta: Describe a Butterfree.
+Respuesta: Butterfree es una mariposa colorida que esparce polen paralizante para defenderse.
+###
+Pregunta: Describe a Nidoran♂.
+Respuesta: Nidoran♂ es ágil y usa sus afilados cuernos venenosos para atacar.
+###
+Pregunta: Describe a Venusaur.
+Respuesta: Venusaur es la forma final de Bulbasaur, con una gran flor que emite aromas calmantes.
+###
+Pregunta: ¿Qué características tiene Beedrill?
+Respuesta: Beedrill es una avispa veloz con aguijones dobles para atacar en enjambre.
+###
+Pregunta: ¿Qué características tiene Clefable?
+Respuesta: Clefable es sigilosa y se mueve silenciosa para evitar ser vista.
+###
+Pregunta: ¿Cómo es Wartortle?
+Respuesta: Wartortle tiene orejas peludas y una cola esponjosa que simbolizan longevidad.
+###
+Pregunta: Descríbeme a Raichu.
+Respuesta: Raichu es la evolución de Pikachu y descarga potentes rayos cuando se enfurece.
+###
+Pregunta: Descríbeme a Zubat.
+Respuesta: Zubat es un murciélago que navega en la oscuridad usando ecolocalización.
+###
+Pregunta: Describe a Nidoking.
+Respuesta: Nidoking es enorme y usa su cola poderosa para aplastar a sus rivales.
+###
+Pregunta: ¿Cómo es Metapod?
+Respuesta: Metapod es la forma crisálida de Caterpie, permanece inmóvil para evolucionar.
+###
+Pregunta: Describe a Gloom.
+Respuesta: Gloom emite un aroma fétido para mantener alejados a los depredadores.
+###
+Pregunta: ¿Qué características tiene Nidorino?
+Respuesta: Nidorino es territorial y embiste enemigos con su cuerno tóxico.
+###
+Pregunta: ¿Cómo es Pidgeotto?
+Respuesta: Pidgeotto patrulla su territorio con precisión y gran agudeza visual.
+###
+Pregunta: ¿Qué características tiene Vulpix?
+Respuesta: Vulpix es un zorro de fuego con múltiples colas que se agitan al atacar.
+###
+Pregunta: ¿Cómo es Pikachu?
+Respuesta: Pikachu es un ratón eléctrico que almacena energía en sus mejillas.
+###
+Pregunta: Describe a Wigglytuff.
+Respuesta: Wigglytuff tiene un cuerpo suave que se infla para intimidar rivales.
+###
+Pregunta: Descríbeme a Sandslash.
+Respuesta: Sandslash usa sus púas y garras afiladas para defender su territorio.
+###
+Pregunta: ¿Cómo es Paras?
+Respuesta: Paras cultiva hongos en su espalda que usa para defenderse.
+###
+Pregunta: ¿Qué características tiene Arbok?
+Respuesta: Arbok intimida enemigos mostrando patrones aterradores en su cuello.
+###
+Pregunta: Dime cómo es Kakuna.
+Respuesta: Kakuna es la forma pupa de Weedle, endurece su caparazón para defenderse.
+###
+Pregunta: ¿Qué características tiene Vileplume?
+Respuesta: Vileplume tiene un gran pétalo que libera polen tóxico.
+###
+Pregunta: Descríbeme a Caterpie.
+Respuesta: Caterpie es una oruga verde que se esconde entre hojas para protegerse.
+###
+Pregunta: ¿Cómo es Parasect?
+Respuesta: Parasect está completamente controlado por el hongo que lo habita.
+###
+Pregunta: ¿Qué características tiene Sandshrew?
+Respuesta: Sandshrew se enrolla para protegerse y cava madrigueras subterráneas.
+###
+Pregunta: ¿Qué características tiene Squirtle?
+Respuesta: Squirtle es una tortuga de agua que dispara potentes chorros para defenderse.
+###
+Pregunta: Descríbeme a Bulbasaur.
+Respuesta: Bulbasaur es un Pokémon planta/veneno que absorbe energía solar con su bulbo.
+###
+Pregunta: Descríbeme a Spearow.
+Respuesta: Spearow es un ave territorial que lanza ataques rápidos para defenderse.
+###
+Pregunta: Dime cómo es Golbat.
+Respuesta: Golbat chupa sangre de sus presas para alimentarse durante la noche.
+###
+Pregunta: Describe a Charmeleon.
+Respuesta: Charmeleon es más agresivo, con una llama intensa que refleja su temperamento.
+###
+Pregunta: Describe a Nidoran♀.
+Respuesta: Nidoran♀ es pequeña pero tiene cuernos venenosos para atacar.
+###
+Pregunta: ¿Cómo es Weedle?
+Respuesta: Weedle es un gusano con aguijón venenoso que vive entre la hierba.
+###
+Pregunta: Dime cómo es Rattata.
+Respuesta: Rattata es un roedor veloz que se adapta a cualquier entorno urbano.
+###
+Pregunta: Describe a Pidgey.
+Respuesta: Pidgey es un ave pequeña que vuela bajo y se oculta en arbustos.
+###
+Pregunta: Descríbeme a Ivysaur.
+Respuesta: Ivysaur es la evolución de Bulbasaur, su flor crece mientras almacena poder.
+###
+Pregunta: Dime cómo es Ninetales.
+Respuesta: Ninetales es místico y puede vivir mil años, controla fuego a voluntad.
+###
+Pregunta: Describe a Oddish.
+Respuesta: Oddish absorbe la luz lunar para crecer y esparcir semillas.
+###
+Pregunta: Descríbeme a Charizard.
+Respuesta: Charizard es un dragón poderoso que puede lanzar llamaradas ardientes desde su boca.
+###
+Pregunta: ¿Cómo es Raticate?
+Respuesta: Raticate tiene colmillos afilados para roer cualquier material duro.
+###
+Pregunta: Dime cómo es Ekans.
+Respuesta: Ekans es una serpiente sigilosa que se enrolla para atacar de sorpresa.
+###
+Pregunta: ¿Cómo es Nidorina?
+Respuesta: Nidorina cuida a sus crías y usa su veneno para protegerlas.
+###
+Pregunta: Describe a Fearow.
+Respuesta: Fearow sobrevuela vastos territorios y ataca con su pico largo.
+###
+Pregunta: ¿Qué características tiene Jigglypuff?
+Respuesta: Jigglypuff canta melodías que duermen a sus oponentes.
+###
+Pregunta: Dime cómo es Nidoqueen.
+Respuesta: Nidoqueen es fuerte y protectora, defiende a su familia con fiereza.
+###
+Pregunta: ¿Qué características tiene Pidgeot?
+Respuesta: Pidgeot es un ave majestuosa que vuela a gran velocidad para cazar.
+###
+Pregunta: Describe a Clefairy.
+Respuesta: Clefairy es un Pokémon hada que danza bajo la luz de la luna.
+###
+Pregunta: Descríbeme a Blastoise.
+Respuesta: Blastoise lleva cañones de agua en su caparazón para atacar con chorros a presión.
+###
+Pregunta: ¿Cómo es Paras?
+Respuesta: Paras cultiva hongos en su espalda que usa para defenderse.
+###
+Pregunta: ¿Qué características tiene Nidorina?
+Respuesta: Nidorina cuida a sus crías y usa su veneno para protegerlas.
+###
+Pregunta: ¿Qué características tiene Pidgeot?
+Respuesta: Pidgeot es un ave majestuosa que vuela a gran velocidad para cazar.
+###
+Pregunta: ¿Cómo es Beedrill?
+Respuesta: Beedrill es una avispa veloz con aguijones dobles para atacar en enjambre.
+###
+Pregunta: Dime cómo es Charizard.
+Respuesta: Charizard es un dragón poderoso que puede lanzar llamaradas ardientes desde su boca.
+###
+Pregunta: Descríbeme a Metapod.
+Respuesta: Metapod es la forma crisálida de Caterpie, permanece inmóvil para evolucionar.
+###
+Pregunta: Describe a Ekans.
+Respuesta: Ekans es una serpiente sigilosa que se enrolla para atacar de sorpresa.
+###
+Pregunta: Describe a Sandslash.
+Respuesta: Sandslash usa sus púas y garras afiladas para defender su territorio.
+###
+Pregunta: ¿Cómo es Vulpix?
+Respuesta: Vulpix es un zorro de fuego con múltiples colas que se agitan al atacar.
+###
+Pregunta: Describe a Fearow.
+Respuesta: Fearow sobrevuela vastos territorios y ataca con su pico largo.
+###
+Pregunta: Dime cómo es Clefable.
+Respuesta: Clefable es sigilosa y se mueve silenciosa para evitar ser vista.
+###
+Pregunta: Dime cómo es Nidoqueen.
+Respuesta: Nidoqueen es fuerte y protectora, defiende a su familia con fiereza.
+###
+Pregunta: ¿Cómo es Kakuna?
+Respuesta: Kakuna es la forma pupa de Weedle, endurece su caparazón para defenderse.
+###
+Pregunta: Descríbeme a Parasect.
+Respuesta: Parasect está completamente controlado por el hongo que lo habita.
+###
+Pregunta: Describe a Caterpie.
+Respuesta: Caterpie es una oruga verde que se esconde entre hojas para protegerse.
+###
+Pregunta: Descríbeme a Butterfree.
+Respuesta: Butterfree es una mariposa colorida que esparce polen paralizante para defenderse.
+###
+Pregunta: ¿Qué características tiene Venusaur?
+Respuesta: Venusaur es la forma final de Bulbasaur, con una gran flor que emite aromas calmantes.
+###
+Pregunta: Descríbeme a Pikachu.
+Respuesta: Pikachu es un ratón eléctrico que almacena energía en sus mejillas.
+###
+Pregunta: ¿Cómo es Sandshrew?
+Respuesta: Sandshrew se enrolla para protegerse y cava madrigueras subterráneas.
+###
+Pregunta: ¿Cómo es Ninetales?
+Respuesta: Ninetales es místico y puede vivir mil años, controla fuego a voluntad.
+###
+Pregunta: Dime cómo es Nidoran♀.
+Respuesta: Nidoran♀ es pequeña pero tiene cuernos venenosos para atacar.
+###
+Pregunta: Describe a Weedle.
+Respuesta: Weedle es un gusano con aguijón venenoso que vive entre la hierba.
+###
+Pregunta: Describe a Blastoise.
+Respuesta: Blastoise lleva cañones de agua en su caparazón para atacar con chorros a presión.
+###
+Pregunta: Dime cómo es Wigglytuff.
+Respuesta: Wigglytuff tiene un cuerpo suave que se infla para intimidar rivales.
+###
+Pregunta: ¿Qué características tiene Rattata?
+Respuesta: Rattata es un roedor veloz que se adapta a cualquier entorno urbano.
+###
+Pregunta: Describe a Ivysaur.
+Respuesta: Ivysaur es la evolución de Bulbasaur, su flor crece mientras almacena poder.
+###
+Pregunta: Descríbeme a Arbok.
+Respuesta: Arbok intimida enemigos mostrando patrones aterradores en su cuello.
+###
+Pregunta: Describe a Nidoking.
+Respuesta: Nidoking es enorme y usa su cola poderosa para aplastar a sus rivales.
+###
+Pregunta: Descríbeme a Raichu.
+Respuesta: Raichu es la evolución de Pikachu y descarga potentes rayos cuando se enfurece.
+###
+Pregunta: Describe a Spearow.
+Respuesta: Spearow es un ave territorial que lanza ataques rápidos para defenderse.
+###
+Pregunta: Descríbeme a Bulbasaur.
+Respuesta: Bulbasaur es un Pokémon planta/veneno que absorbe energía solar con su bulbo.
+###
+Pregunta: Dime cómo es Squirtle.
+Respuesta: Squirtle es una tortuga de agua que dispara potentes chorros para defenderse.
+###
+Pregunta: Dime cómo es Jigglypuff.
+Respuesta: Jigglypuff canta melodías que duermen a sus oponentes.
+###
+Pregunta: Dime cómo es Raticate.
+Respuesta: Raticate tiene colmillos afilados para roer cualquier material duro.
+###
+Pregunta: Describe a Pidgeotto.
+Respuesta: Pidgeotto patrulla su territorio con precisión y gran agudeza visual.
+###
+Pregunta: Describe a Zubat.
+Respuesta: Zubat es un murciélago que navega en la oscuridad usando ecolocalización.
+###
+Pregunta: Describe a Charmander.
+Respuesta: Charmander es un lagarto de fuego que usa su cola como fuente de calor.
+###
+Pregunta: ¿Cómo es Nidorino?
+Respuesta: Nidorino es territorial y embiste enemigos con su cuerno tóxico.
+###
+Pregunta: ¿Cómo es Clefairy?
+Respuesta: Clefairy es un Pokémon hada que danza bajo la luz de la luna.
+###
+Pregunta: Dime cómo es Charmeleon.
+Respuesta: Charmeleon es más agresivo, con una llama intensa que refleja su temperamento.
+###
+Pregunta: Describe a Pidgey.
+Respuesta: Pidgey es un ave pequeña que vuela bajo y se oculta en arbustos.
+###
+Pregunta: Dime cómo es Wartortle.
+Respuesta: Wartortle tiene orejas peludas y una cola esponjosa que simbolizan longevidad.
+###
+Pregunta: Describe a Vileplume.
+Respuesta: Vileplume tiene un gran pétalo que libera polen tóxico.
+###
+Pregunta: ¿Cómo es Oddish?
+Respuesta: Oddish absorbe la luz lunar para crecer y esparcir semillas.
+###
+Pregunta: Dime cómo es Golbat.
+Respuesta: Golbat chupa sangre de sus presas para alimentarse durante la noche.
+###
+Pregunta: ¿Qué características tiene Nidoran♂?
+Respuesta: Nidoran♂ es ágil y usa sus afilados cuernos venenosos para atacar.
+###
+Pregunta: ¿Qué características tiene Gloom?
+Respuesta: Gloom emite un aroma fétido para mantener alejados a los depredadores.
+###
+Pregunta: ¿Qué características tiene Beedrill?
+Respuesta: Beedrill es una avispa veloz con aguijones dobles para atacar en enjambre.
+###
+Pregunta: ¿Qué características tiene Nidorina?
+Respuesta: Nidorina cuida a sus crías y usa su veneno para protegerlas.
+###
+Pregunta: Dime cómo es Charmander.
+Respuesta: Charmander es un lagarto de fuego que usa su cola como fuente de calor.
+###
+Pregunta: Descríbeme a Venusaur.
+Respuesta: Venusaur es la forma final de Bulbasaur, con una gran flor que emite aromas calmantes.
+###
+Pregunta: Descríbeme a Parasect.
+Respuesta: Parasect está completamente controlado por el hongo que lo habita.
+###
+Pregunta: Descríbeme a Weedle.
+Respuesta: Weedle es un gusano con aguijón venenoso que vive entre la hierba.
+###
+Pregunta: Descríbeme a Raichu.
+Respuesta: Raichu es la evolución de Pikachu y descarga potentes rayos cuando se enfurece.
+###
+Pregunta: Describe a Nidorino.
+Respuesta: Nidorino es territorial y embiste enemigos con su cuerno tóxico.
+###
+Pregunta: ¿Qué características tiene Arbok?
+Respuesta: Arbok intimida enemigos mostrando patrones aterradores en su cuello.
+###
+Pregunta: ¿Cómo es Golbat?
+Respuesta: Golbat chupa sangre de sus presas para alimentarse durante la noche.
+###
+Pregunta: ¿Cómo es Rattata?
+Respuesta: Rattata es un roedor veloz que se adapta a cualquier entorno urbano.
+###
+Pregunta: ¿Cómo es Spearow?
+Respuesta: Spearow es un ave territorial que lanza ataques rápidos para defenderse.
+###
+Pregunta: ¿Qué características tiene Wigglytuff?
+Respuesta: Wigglytuff tiene un cuerpo suave que se infla para intimidar rivales.
+###
+Pregunta: ¿Qué características tiene Wartortle?
+Respuesta: Wartortle tiene orejas peludas y una cola esponjosa que simbolizan longevidad.
+###
+Pregunta: Dime cómo es Ivysaur.
+Respuesta: Ivysaur es la evolución de Bulbasaur, su flor crece mientras almacena poder.
+###
+Pregunta: ¿Qué características tiene Nidoran♀?
+Respuesta: Nidoran♀ es pequeña pero tiene cuernos venenosos para atacar.
+###
+Pregunta: ¿Cómo es Paras?
+Respuesta: Paras cultiva hongos en su espalda que usa para defenderse.
+###
+Pregunta: ¿Cómo es Charmeleon?
+Respuesta: Charmeleon es más agresivo, con una llama intensa que refleja su temperamento.
+###
+Pregunta: ¿Qué características tiene Clefairy?
+Respuesta: Clefairy es un Pokémon hada que danza bajo la luz de la luna.
+###
+Pregunta: ¿Cómo es Pikachu?
+Respuesta: Pikachu es un ratón eléctrico que almacena energía en sus mejillas.
+###
+Pregunta: ¿Cómo es Fearow?
+Respuesta: Fearow sobrevuela vastos territorios y ataca con su pico largo.
+###
+Pregunta: Describe a Charizard.
+Respuesta: Charizard es un dragón poderoso que puede lanzar llamaradas ardientes desde su boca.
+###
+Pregunta: ¿Qué características tiene Pidgeotto?
+Respuesta: Pidgeotto patrulla su territorio con precisión y gran agudeza visual.
+###
+Pregunta: ¿Cómo es Bulbasaur?
+Respuesta: Bulbasaur es un Pokémon planta/veneno que absorbe energía solar con su bulbo.
+###
+Pregunta: ¿Cómo es Raticate?
+Respuesta: Raticate tiene colmillos afilados para roer cualquier material duro.
+###
+Pregunta: Dime cómo es Blastoise.
+Respuesta: Blastoise lleva cañones de agua en su caparazón para atacar con chorros a presión.
+###
+Pregunta: ¿Qué características tiene Sandshrew?
+Respuesta: Sandshrew se enrolla para protegerse y cava madrigueras subterráneas.
+###
+Pregunta: Descríbeme a Zubat.
+Respuesta: Zubat es un murciélago que navega en la oscuridad usando ecolocalización.
+###
+Pregunta: Dime cómo es Jigglypuff.
+Respuesta: Jigglypuff canta melodías que duermen a sus oponentes.
+###
+Pregunta: Dime cómo es Vulpix.
+Respuesta: Vulpix es un zorro de fuego con múltiples colas que se agitan al atacar.
+###
+Pregunta: Dime cómo es Vileplume.
+Respuesta: Vileplume tiene un gran pétalo que libera polen tóxico.
+###
+Pregunta: ¿Qué características tiene Caterpie?
+Respuesta: Caterpie es una oruga verde que se esconde entre hojas para protegerse.
+###
+Pregunta: ¿Qué características tiene Butterfree?
+Respuesta: Butterfree es una mariposa colorida que esparce polen paralizante para defenderse.
+###
+Pregunta: ¿Qué características tiene Nidoking?
+Respuesta: Nidoking es enorme y usa su cola poderosa para aplastar a sus rivales.
+###
+Pregunta: ¿Qué características tiene Nidoqueen?
+Respuesta: Nidoqueen es fuerte y protectora, defiende a su familia con fiereza.
+###
+Pregunta: Descríbeme a Ekans.
+Respuesta: Ekans es una serpiente sigilosa que se enrolla para atacar de sorpresa.
+###
+Pregunta: Descríbeme a Metapod.
+Respuesta: Metapod es la forma crisálida de Caterpie, permanece inmóvil para evolucionar.
+###
+Pregunta: ¿Cómo es Pidgeot?
+Respuesta: Pidgeot es un ave majestuosa que vuela a gran velocidad para cazar.
+###
+Pregunta: ¿Qué características tiene Clefable?
+Respuesta: Clefable es sigilosa y se mueve silenciosa para evitar ser vista.
+###
+Pregunta: Descríbeme a Nidoran♂.
+Respuesta: Nidoran♂ es ágil y usa sus afilados cuernos venenosos para atacar.
+###
+Pregunta: Dime cómo es Oddish.
+Respuesta: Oddish absorbe la luz lunar para crecer y esparcir semillas.
+###
+Pregunta: Dime cómo es Sandslash.
+Respuesta: Sandslash usa sus púas y garras afiladas para defender su territorio.
+###
+Pregunta: Descríbeme a Squirtle.
+Respuesta: Squirtle es una tortuga de agua que dispara potentes chorros para defenderse.
+###
+Pregunta: Describe a Kakuna.
+Respuesta: Kakuna es la forma pupa de Weedle, endurece su caparazón para defenderse.
+###
+Pregunta: Describe a Gloom.
+Respuesta: Gloom emite un aroma fétido para mantener alejados a los depredadores.
+###
+Pregunta: Describe a Ninetales.
+Respuesta: Ninetales es místico y puede vivir mil años, controla fuego a voluntad.
+###
+Pregunta: Descríbeme a Pidgey.
+Respuesta: Pidgey es un ave pequeña que vuela bajo y se oculta en arbustos.
+###
+Pregunta: ¿Cómo es Ekans?
+Respuesta: Ekans es una serpiente sigilosa que se enrolla para atacar de sorpresa.
+###
+Pregunta: ¿Qué características tiene Wigglytuff?
+Respuesta: Wigglytuff tiene un cuerpo suave que se infla para intimidar rivales.
+###
+Pregunta: Describe a Sandshrew.
+Respuesta: Sandshrew se enrolla para protegerse y cava madrigueras subterráneas.
+###
+Pregunta: ¿Qué características tiene Clefable?
+Respuesta: Clefable es sigilosa y se mueve silenciosa para evitar ser vista.
+###
+Pregunta: ¿Qué características tiene Fearow?
+Respuesta: Fearow sobrevuela vastos territorios y ataca con su pico largo.
+###
+Pregunta: Descríbeme a Kakuna.
+Respuesta: Kakuna es la forma pupa de Weedle, endurece su caparazón para defenderse.
+###
+Pregunta: Describe a Pidgeot.
+Respuesta: Pidgeot es un ave majestuosa que vuela a gran velocidad para cazar.
+###
+Pregunta: ¿Cómo es Charmeleon?
+Respuesta: Charmeleon es más agresivo, con una llama intensa que refleja su temperamento.
+###
+Pregunta: ¿Qué características tiene Pidgey?
+Respuesta: Pidgey es un ave pequeña que vuela bajo y se oculta en arbustos.
+###
+Pregunta: ¿Cómo es Metapod?
+Respuesta: Metapod es la forma crisálida de Caterpie, permanece inmóvil para evolucionar.
+###
+Pregunta: ¿Qué características tiene Charmander?
+Respuesta: Charmander es un lagarto de fuego que usa su cola como fuente de calor.
+###
+Pregunta: ¿Cómo es Pidgeotto?
+Respuesta: Pidgeotto patrulla su territorio con precisión y gran agudeza visual.
+###
+Pregunta: Dime cómo es Squirtle.
+Respuesta: Squirtle es una tortuga de agua que dispara potentes chorros para defenderse.
+###
+Pregunta: Dime cómo es Charizard.
+Respuesta: Charizard es un dragón poderoso que puede lanzar llamaradas ardientes desde su boca.
+###
+Pregunta: ¿Qué características tiene Vileplume?
+Respuesta: Vileplume tiene un gran pétalo que libera polen tóxico.
+###
+Pregunta: Descríbeme a Nidoran♀.
+Respuesta: Nidoran♀ es pequeña pero tiene cuernos venenosos para atacar.
+###
+Pregunta: Describe a Ninetales.
+Respuesta: Ninetales es místico y puede vivir mil años, controla fuego a voluntad.
+###
+Pregunta: ¿Cómo es Spearow?
+Respuesta: Spearow es un ave territorial que lanza ataques rápidos para defenderse.
+###
+Pregunta: Descríbeme a Beedrill.
+Respuesta: Beedrill es una avispa veloz con aguijones dobles para atacar en enjambre.
+###
+Pregunta: ¿Qué características tiene Raichu?
+Respuesta: Raichu es la evolución de Pikachu y descarga potentes rayos cuando se enfurece.
+###
+Pregunta: Dime cómo es Paras.
+Respuesta: Paras cultiva hongos en su espalda que usa para defenderse.
+###
+Pregunta: ¿Qué características tiene Nidoran♂?
+Respuesta: Nidoran♂ es ágil y usa sus afilados cuernos venenosos para atacar.
+###
+Pregunta: ¿Cómo es Oddish?
+Respuesta: Oddish absorbe la luz lunar para crecer y esparcir semillas.
+###
+Pregunta: ¿Cómo es Sandslash?
+Respuesta: Sandslash usa sus púas y garras afiladas para defender su territorio.
+###
+Pregunta: ¿Qué características tiene Clefairy?
+Respuesta: Clefairy es un Pokémon hada que danza bajo la luz de la luna.
+###
+Pregunta: ¿Qué características tiene Weedle?
+Respuesta: Weedle es un gusano con aguijón venenoso que vive entre la hierba.
+###
+Pregunta: Dime cómo es Blastoise.
+Respuesta: Blastoise lleva cañones de agua en su caparazón para atacar con chorros a presión.
+###
+Pregunta: ¿Cómo es Jigglypuff?
+Respuesta: Jigglypuff canta melodías que duermen a sus oponentes.
+###
+Pregunta: ¿Qué características tiene Raticate?
+Respuesta: Raticate tiene colmillos afilados para roer cualquier material duro.
+###
+Pregunta: ¿Qué características tiene Rattata?
+Respuesta: Rattata es un roedor veloz que se adapta a cualquier entorno urbano.
+###
+Pregunta: ¿Qué características tiene Venusaur?
+Respuesta: Venusaur es la forma final de Bulbasaur, con una gran flor que emite aromas calmantes.
+###
+Pregunta: ¿Qué características tiene Gloom?
+Respuesta: Gloom emite un aroma fétido para mantener alejados a los depredadores.
+###
+Pregunta: ¿Qué características tiene Golbat?
+Respuesta: Golbat chupa sangre de sus presas para alimentarse durante la noche.
+###
+Pregunta: ¿Qué características tiene Vulpix?
+Respuesta: Vulpix es un zorro de fuego con múltiples colas que se agitan al atacar.
+###
+Pregunta: ¿Cómo es Nidoking?
+Respuesta: Nidoking es enorme y usa su cola poderosa para aplastar a sus rivales.
+###
+Pregunta: ¿Cómo es Pikachu?
+Respuesta: Pikachu es un ratón eléctrico que almacena energía en sus mejillas.
+###
+Pregunta: Descríbeme a Caterpie.
+Respuesta: Caterpie es una oruga verde que se esconde entre hojas para protegerse.
+###
+Pregunta: Descríbeme a Zubat.
+Respuesta: Zubat es un murciélago que navega en la oscuridad usando ecolocalización.
+###
+Pregunta: Describe a Bulbasaur.
+Respuesta: Bulbasaur es un Pokémon planta/veneno que absorbe energía solar con su bulbo.
+###
+Pregunta: Describe a Arbok.
+Respuesta: Arbok intimida enemigos mostrando patrones aterradores en su cuello.
+###
+Pregunta: ¿Qué características tiene Parasect?
+Respuesta: Parasect está completamente controlado por el hongo que lo habita.
+###
+Pregunta: ¿Qué características tiene Wartortle?
+Respuesta: Wartortle tiene orejas peludas y una cola esponjosa que simbolizan longevidad.
+###
+Pregunta: ¿Qué características tiene Nidorino?
+Respuesta: Nidorino es territorial y embiste enemigos con su cuerno tóxico.
+###
+Pregunta: Dime cómo es Butterfree.
+Respuesta: Butterfree es una mariposa colorida que esparce polen paralizante para defenderse.
+###
+Pregunta: ¿Cómo es Nidoqueen?
+Respuesta: Nidoqueen es fuerte y protectora, defiende a su familia con fiereza.
+###
+Pregunta: Descríbeme a Ivysaur.
+Respuesta: Ivysaur es la evolución de Bulbasaur, su flor crece mientras almacena poder.
+###
+Pregunta: Descríbeme a Nidorina.
+Respuesta: Nidorina cuida a sus crías y usa su veneno para protegerlas.
+###

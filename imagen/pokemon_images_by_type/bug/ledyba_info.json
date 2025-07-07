@@ -1,0 +1,12 @@
+{
+  "id": 165,
+  "name": "ledyba",
+  "types": [
+    "bug",
+    "flying"
+  ],
+  "height": 10,
+  "weight": 108,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/165.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/165.png"
+}

@@ -1,0 +1,11 @@
+{
+  "id": 868,
+  "name": "milcery",
+  "types": [
+    "fairy"
+  ],
+  "height": 2,
+  "weight": 3,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/868.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/868.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 838,
+  "name": "carkol",
+  "types": [
+    "rock",
+    "fire"
+  ],
+  "height": 11,
+  "weight": 780,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/838.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/838.png"
+}

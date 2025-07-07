@@ -1,0 +1,11 @@
+{
+  "id": 127,
+  "name": "pinsir",
+  "types": [
+    "bug"
+  ],
+  "height": 15,
+  "weight": 550,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/127.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/127.png"
+}

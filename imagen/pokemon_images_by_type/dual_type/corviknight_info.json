@@ -1,0 +1,12 @@
+{
+  "id": 823,
+  "name": "corviknight",
+  "types": [
+    "flying",
+    "steel"
+  ],
+  "height": 22,
+  "weight": 750,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/823.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/823.png"
+}

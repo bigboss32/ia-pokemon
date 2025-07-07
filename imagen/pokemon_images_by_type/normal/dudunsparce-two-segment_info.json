@@ -1,0 +1,11 @@
+{
+  "id": 982,
+  "name": "dudunsparce-two-segment",
+  "types": [
+    "normal"
+  ],
+  "height": 36,
+  "weight": 392,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/982.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/982.png"
+}

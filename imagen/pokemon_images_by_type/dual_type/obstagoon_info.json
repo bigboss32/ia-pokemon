@@ -1,0 +1,12 @@
+{
+  "id": 862,
+  "name": "obstagoon",
+  "types": [
+    "dark",
+    "normal"
+  ],
+  "height": 16,
+  "weight": 460,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/862.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/862.png"
+}

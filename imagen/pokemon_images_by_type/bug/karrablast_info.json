@@ -1,0 +1,11 @@
+{
+  "id": 588,
+  "name": "karrablast",
+  "types": [
+    "bug"
+  ],
+  "height": 5,
+  "weight": 59,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/588.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/588.png"
+}

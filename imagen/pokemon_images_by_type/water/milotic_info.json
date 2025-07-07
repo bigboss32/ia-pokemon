@@ -1,0 +1,11 @@
+{
+  "id": 350,
+  "name": "milotic",
+  "types": [
+    "water"
+  ],
+  "height": 62,
+  "weight": 1620,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/350.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/350.png"
+}

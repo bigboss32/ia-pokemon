@@ -1,0 +1,12 @@
+{
+  "id": 274,
+  "name": "nuzleaf",
+  "types": [
+    "grass",
+    "dark"
+  ],
+  "height": 10,
+  "weight": 280,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/274.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/274.png"
+}

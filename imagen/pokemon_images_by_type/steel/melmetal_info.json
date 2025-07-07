@@ -1,0 +1,11 @@
+{
+  "id": 809,
+  "name": "melmetal",
+  "types": [
+    "steel"
+  ],
+  "height": 25,
+  "weight": 8000,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/809.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/809.png"
+}

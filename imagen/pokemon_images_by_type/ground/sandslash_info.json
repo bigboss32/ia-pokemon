@@ -1,0 +1,11 @@
+{
+  "id": 28,
+  "name": "sandslash",
+  "types": [
+    "ground"
+  ],
+  "height": 10,
+  "weight": 295,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/28.png"
+}

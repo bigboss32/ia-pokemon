@@ -1,0 +1,11 @@
+{
+  "id": 300,
+  "name": "skitty",
+  "types": [
+    "normal"
+  ],
+  "height": 6,
+  "weight": 110,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/300.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/300.png"
+}

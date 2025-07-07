@@ -1,0 +1,12 @@
+{
+  "id": 476,
+  "name": "probopass",
+  "types": [
+    "rock",
+    "steel"
+  ],
+  "height": 14,
+  "weight": 3400,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/476.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/476.png"
+}

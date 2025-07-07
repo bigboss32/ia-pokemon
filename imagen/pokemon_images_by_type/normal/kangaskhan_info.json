@@ -1,0 +1,11 @@
+{
+  "id": 115,
+  "name": "kangaskhan",
+  "types": [
+    "normal"
+  ],
+  "height": 22,
+  "weight": 800,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/115.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png"
+}

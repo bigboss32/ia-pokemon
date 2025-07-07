@@ -1,0 +1,12 @@
+{
+  "id": 618,
+  "name": "stunfisk",
+  "types": [
+    "ground",
+    "electric"
+  ],
+  "height": 7,
+  "weight": 110,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/618.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/618.png"
+}

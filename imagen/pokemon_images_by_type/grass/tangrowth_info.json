@@ -1,0 +1,11 @@
+{
+  "id": 465,
+  "name": "tangrowth",
+  "types": [
+    "grass"
+  ],
+  "height": 20,
+  "weight": 1286,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/465.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/465.png"
+}

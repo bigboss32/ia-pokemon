@@ -1,0 +1,11 @@
+{
+  "id": 301,
+  "name": "delcatty",
+  "types": [
+    "normal"
+  ],
+  "height": 11,
+  "weight": 326,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/301.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/301.png"
+}

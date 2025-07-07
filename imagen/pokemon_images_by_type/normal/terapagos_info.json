@@ -1,0 +1,11 @@
+{
+  "id": 1024,
+  "name": "terapagos",
+  "types": [
+    "normal"
+  ],
+  "height": 2,
+  "weight": 65,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1024.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1024.png"
+}

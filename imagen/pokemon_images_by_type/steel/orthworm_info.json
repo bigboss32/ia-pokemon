@@ -1,0 +1,11 @@
+{
+  "id": 968,
+  "name": "orthworm",
+  "types": [
+    "steel"
+  ],
+  "height": 25,
+  "weight": 3100,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/968.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/968.png"
+}

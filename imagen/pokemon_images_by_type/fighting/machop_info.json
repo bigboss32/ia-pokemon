@@ -1,0 +1,11 @@
+{
+  "id": 66,
+  "name": "machop",
+  "types": [
+    "fighting"
+  ],
+  "height": 8,
+  "weight": 195,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png"
+}

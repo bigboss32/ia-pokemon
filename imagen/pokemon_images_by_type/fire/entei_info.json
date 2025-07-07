@@ -1,0 +1,11 @@
+{
+  "id": 244,
+  "name": "entei",
+  "types": [
+    "fire"
+  ],
+  "height": 21,
+  "weight": 1980,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/244.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/244.png"
+}

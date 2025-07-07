@@ -1,0 +1,12 @@
+{
+  "id": 697,
+  "name": "tyrantrum",
+  "types": [
+    "rock",
+    "dragon"
+  ],
+  "height": 25,
+  "weight": 2700,
+  "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/697.png",
+  "official_artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/697.png"
+}
