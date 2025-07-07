@@ -419,25 +419,8 @@ tokenizer.pad_token = tokenizer.eos_token
 - **Generación repetitiva**: Ajustar temperature o top_k
 
 ## 🤝 Contribuciones
-==================================================
-📊 RESUMEN DE MÉTRICAS DE ENTRENAMIENTO
-==================================================
-📈 ENTRENAMIENTO:
-  Pérdida inicial: 0.4486
-  Pérdida final: 0.4486
-  Pérdida mínima: 0.4486
-  Pérdida máxima: 0.4486
-  Mejora total: 0.00%
-📊 VALIDACIÓN:
-  Pérdida inicial: 0.2778
-  Pérdida final: 0.1362
-  Pérdida mínima: 0.1362
-  Pérdida máxima: 0.2778
-  Mejora total: 50.99%
-📊 GENERAL:
-  Total de pasos: 6
-  Duración del entrenamiento: 696.65 segundos
-  
+
+
 Para mejorar el proyecto:
 1. Agrega más datos de entrenamiento
 2. Experimenta con hiperparámetros
